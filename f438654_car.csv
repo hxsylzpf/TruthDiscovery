@@ -1,0 +1,41 @@
+_unit_id,_created_at,_canary,_id,_started_at,_channel,_trust,_worker_id,_country,_region,_city,_ip,category,where_it_locates,category_gold,id,image_url
+460396106,5/8/2014 22:52:51,,1262225938,5/8/2014 22:52:28,instagc,0.9,19378092,USA,PA,Reading,174.55.181.238,category1,second,,car01,https://dl.dropboxusercontent.com/u/82816032/img_tasks/car_01.jpg
+460396106,5/8/2014 22:56:46,,1262228388,5/8/2014 22:55:29,probux,0.9,14799167,USA,MI,Taylor,99.170.106.105,category1,leftcenter,,car01,https://dl.dropboxusercontent.com/u/82816032/img_tasks/car_01.jpg
+460396106,5/8/2014 23:03:47,,1262232488,5/8/2014 23:02:50,instagc,0.9,25569616,USA,OR,Coos Bay,71.94.239.74,category1,middleleft,,car01,https://dl.dropboxusercontent.com/u/82816032/img_tasks/car_01.jpg
+460396106,5/8/2014 23:15:16,,1262238136,5/8/2014 23:11:54,gptking,0.9,22893964,USA,IL,West Frankfort,173.25.210.76,category1,secondcarfromtheleft,,car01,https://dl.dropboxusercontent.com/u/82816032/img_tasks/car_01.jpg
+460396106,5/8/2014 23:29:34,,1262245803,5/8/2014 23:27:37,probux,0.75,19105271,USA,"","",149.71.153.33,category1,Center,,car01,https://dl.dropboxusercontent.com/u/82816032/img_tasks/car_01.jpg
+460396106,5/8/2014 23:41:06,,1262251712,5/8/2014 23:37:27,bitcoinget,0.9,24792414,USA,"","",166.181.81.64,category1,centerleft,,car01,https://dl.dropboxusercontent.com/u/82816032/img_tasks/car_01.jpg
+460396106,5/8/2014 23:42:05,,1262252342,5/8/2014 23:41:31,bitcoinget,0.9,21678835,USA,KY,Ashland,69.23.50.160,category1,besidethevan,,car01,https://dl.dropboxusercontent.com/u/82816032/img_tasks/car_01.jpg
+460396106,5/9/2014 00:17:36,,1262273348,5/9/2014 00:17:17,zoombucks,0.5,5919735,USA,PA,Lansdale,96.245.83.248,category2,na,,car01,https://dl.dropboxusercontent.com/u/82816032/img_tasks/car_01.jpg
+460396106,5/9/2014 00:39:24,,1262287202,5/9/2014 00:39:00,cashcrate,0.75,22084320,USA,TX,Devine,108.218.193.27,category1,center,,car01,https://dl.dropboxusercontent.com/u/82816032/img_tasks/car_01.jpg
+460396106,5/9/2014 01:05:14,,1262302178,5/9/2014 01:03:22,clixsense,0.9,6330202,USA,PA,Conshohocken,108.16.253.79,category1,left,,car01,https://dl.dropboxusercontent.com/u/82816032/img_tasks/car_01.jpg
+460396107,5/8/2014 22:52:27,,1262225657,5/8/2014 22:51:09,instagc,0.9,19378092,USA,PA,Reading,174.55.181.238,category1,right,,car02,https://dl.dropboxusercontent.com/u/82816032/img_tasks/car_02.jpg
+460396107,5/8/2014 22:55:28,,1262227618,5/8/2014 22:54:06,probux,0.9,14799167,USA,MI,Taylor,99.170.106.105,category1,right,,car02,https://dl.dropboxusercontent.com/u/82816032/img_tasks/car_02.jpg
+460396107,5/8/2014 23:03:47,,1262232524,5/8/2014 23:02:50,instagc,0.9,25569616,USA,OR,Coos Bay,71.94.239.74,category1,right,,car02,https://dl.dropboxusercontent.com/u/82816032/img_tasks/car_02.jpg
+460396107,5/8/2014 23:15:16,,1262238137,5/8/2014 23:11:54,gptking,0.9,22893964,USA,IL,West Frankfort,173.25.210.76,category1,right,,car02,https://dl.dropboxusercontent.com/u/82816032/img_tasks/car_02.jpg
+460396107,5/8/2014 23:30:15,,1262246060,5/8/2014 23:29:34,probux,0.75,19105271,USA,"","",149.71.153.33,category1,Center,,car02,https://dl.dropboxusercontent.com/u/82816032/img_tasks/car_02.jpg
+460396107,5/8/2014 23:41:38,,1262252036,5/8/2014 23:41:06,bitcoinget,0.9,24792414,USA,"","",166.181.81.64,category1,centerright,,car02,https://dl.dropboxusercontent.com/u/82816032/img_tasks/car_02.jpg
+460396107,5/8/2014 23:42:05,,1262252343,5/8/2014 23:41:31,bitcoinget,0.9,21678835,USA,KY,Ashland,69.23.50.160,category1,infrontofthewhitecar,,car02,https://dl.dropboxusercontent.com/u/82816032/img_tasks/car_02.jpg
+460396107,5/9/2014 00:17:36,,1262273349,5/9/2014 00:17:17,zoombucks,0.5,5919735,USA,PA,Lansdale,96.245.83.248,category1,center,,car02,https://dl.dropboxusercontent.com/u/82816032/img_tasks/car_02.jpg
+460396107,5/9/2014 00:38:59,,1262286968,5/9/2014 00:37:37,cashcrate,0.75,22084320,USA,TX,Devine,108.218.193.27,category1,right,,car02,https://dl.dropboxusercontent.com/u/82816032/img_tasks/car_02.jpg
+460396107,5/9/2014 01:05:14,,1262302180,5/9/2014 01:03:22,clixsense,0.9,6330202,USA,PA,Conshohocken,108.16.253.79,category1,right,,car02,https://dl.dropboxusercontent.com/u/82816032/img_tasks/car_02.jpg
+460396108,5/8/2014 22:52:27,,1262225650,5/8/2014 22:51:09,instagc,0.9,19378092,USA,PA,Reading,174.55.181.238,category1,center,,car03,https://dl.dropboxusercontent.com/u/82816032/img_tasks/car_03.jpg
+460396108,5/8/2014 22:56:46,,1262228391,5/8/2014 22:55:29,probux,0.9,14799167,USA,MI,Taylor,99.170.106.105,category1,leftcenter,,car03,https://dl.dropboxusercontent.com/u/82816032/img_tasks/car_03.jpg
+460396108,5/8/2014 23:04:11,,1262232722,5/8/2014 23:03:47,instagc,0.9,25569616,USA,OR,Coos Bay,71.94.239.74,category1,back,,car03,https://dl.dropboxusercontent.com/u/82816032/img_tasks/car_03.jpg
+460396108,5/8/2014 23:16:07,,1262238636,5/8/2014 23:15:16,gptking,0.9,22893964,USA,IL,West Frankfort,173.25.210.76,category1,allthewayback,,car03,https://dl.dropboxusercontent.com/u/82816032/img_tasks/car_03.jpg
+460396108,5/8/2014 23:30:15,,1262246059,5/8/2014 23:29:34,probux,0.75,19105271,USA,"","",149.71.153.33,category1,Center,,car03,https://dl.dropboxusercontent.com/u/82816032/img_tasks/car_03.jpg
+460396108,5/8/2014 23:41:06,,1262251720,5/8/2014 23:37:27,bitcoinget,0.9,24792414,USA,"","",166.181.81.64,category1,center,,car03,https://dl.dropboxusercontent.com/u/82816032/img_tasks/car_03.jpg
+460396108,5/8/2014 23:41:30,,1262251966,5/8/2014 23:40:06,bitcoinget,0.9,21678835,USA,KY,Ashland,69.23.50.160,category1,end,,car03,https://dl.dropboxusercontent.com/u/82816032/img_tasks/car_03.jpg
+460396108,5/9/2014 00:17:16,,1262273112,5/9/2014 00:16:43,zoombucks,0.5,5919735,USA,PA,Lansdale,96.245.83.248,category2,na,,car03,https://dl.dropboxusercontent.com/u/82816032/img_tasks/car_03.jpg
+460396108,5/9/2014 00:39:24,,1262287203,5/9/2014 00:39:00,cashcrate,0.75,22084320,USA,TX,Devine,108.218.193.27,category1,left,,car03,https://dl.dropboxusercontent.com/u/82816032/img_tasks/car_03.jpg
+460396108,5/9/2014 01:05:53,,1262302497,5/9/2014 01:05:14,clixsense,0.9,6330202,USA,PA,Conshohocken,108.16.253.79,category1,center,,car03,https://dl.dropboxusercontent.com/u/82816032/img_tasks/car_03.jpg
+460396109,5/8/2014 22:52:51,,1262225939,5/8/2014 22:52:28,instagc,0.9,19378092,USA,PA,Reading,174.55.181.238,category2,na,,car04,https://dl.dropboxusercontent.com/u/82816032/img_tasks/car_04.jpg
+460396109,5/8/2014 22:55:28,,1262227616,5/8/2014 22:54:06,probux,0.9,14799167,USA,MI,Taylor,99.170.106.105,category2,na,,car04,https://dl.dropboxusercontent.com/u/82816032/img_tasks/car_04.jpg
+460396109,5/8/2014 23:04:11,,1262232718,5/8/2014 23:03:47,instagc,0.9,25569616,USA,OR,Coos Bay,71.94.239.74,category2,na,,car04,https://dl.dropboxusercontent.com/u/82816032/img_tasks/car_04.jpg
+460396109,5/8/2014 23:16:07,,1262238630,5/8/2014 23:15:16,gptking,0.9,22893964,USA,IL,West Frankfort,173.25.210.76,category2,na,,car04,https://dl.dropboxusercontent.com/u/82816032/img_tasks/car_04.jpg
+460396109,5/8/2014 23:29:34,,1262245808,5/8/2014 23:27:37,probux,0.75,19105271,USA,"","",149.71.153.33,category1,Center,,car04,https://dl.dropboxusercontent.com/u/82816032/img_tasks/car_04.jpg
+460396109,5/8/2014 23:41:30,,1262251964,5/8/2014 23:40:06,bitcoinget,0.9,21678835,USA,KY,Ashland,69.23.50.160,category2,n,,car04,https://dl.dropboxusercontent.com/u/82816032/img_tasks/car_04.jpg
+460396109,5/8/2014 23:41:38,,1262252035,5/8/2014 23:41:06,bitcoinget,0.9,24792414,USA,"","",166.181.81.64,category2,na,,car04,https://dl.dropboxusercontent.com/u/82816032/img_tasks/car_04.jpg
+460396109,5/9/2014 00:17:16,,1262273111,5/9/2014 00:16:43,zoombucks,0.5,5919735,USA,PA,Lansdale,96.245.83.248,category2,na,,car04,https://dl.dropboxusercontent.com/u/82816032/img_tasks/car_04.jpg
+460396109,5/9/2014 00:38:59,,1262286964,5/9/2014 00:37:37,cashcrate,0.75,22084320,USA,TX,Devine,108.218.193.27,category1,left,,car04,https://dl.dropboxusercontent.com/u/82816032/img_tasks/car_04.jpg
+460396109,5/9/2014 01:05:53,,1262302496,5/9/2014 01:05:14,clixsense,0.9,6330202,USA,PA,Conshohocken,108.16.253.79,category2,na,,car04,https://dl.dropboxusercontent.com/u/82816032/img_tasks/car_04.jpg

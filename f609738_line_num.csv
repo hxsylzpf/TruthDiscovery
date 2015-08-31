@@ -1,0 +1,401 @@
+_unit_id,_created_at,_id,_started_at,_channel,_trust,_worker_id,_country,_region,_city,_ip,how_many_people_can_you_see_in_the_image,id,image_url
+542475945,9/5/2014 21:49:09,1379983708,9/5/2014 21:48:01,eup_slw,1,18571337,USA,IL,Chicago,24.1.163.235,5,line01,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_01.jpg
+542475945,9/5/2014 21:52:16,1379986959,9/5/2014 21:49:45,neodev,1,22098386,USA,NY,Greenwich,67.248.253.125,5,line01,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_01.jpg
+542475945,9/5/2014 22:11:19,1380013013,9/5/2014 22:08:24,points4rewards,1,28703583,USA,"","",97.73.91.62,5,line01,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_01.jpg
+542475945,9/5/2014 22:17:06,1380021720,9/5/2014 22:16:25,meprizescf,1,28483210,USA,"","",75.143.134.247,5,line01,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_01.jpg
+542475945,9/5/2014 22:18:49,1380024117,9/5/2014 22:17:06,instagc,1,19636746,USA,NY,Andover,192.182.218.78,5,line01,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_01.jpg
+542475945,9/5/2014 22:22:25,1380029498,9/5/2014 22:21:48,bitcoinget,1,27316326,USA,NY,Hicksville,47.18.83.100,4,line01,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_01.jpg
+542475945,9/5/2014 22:29:47,1380040841,9/5/2014 22:28:59,instagc,1,13864884,USA,AZ,Gilbert,184.98.144.82,5,line01,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_01.jpg
+542475945,9/5/2014 22:31:15,1380043395,9/5/2014 22:30:05,prodege,1,13626624,USA,NY,Newburgh,69.206.155.224,5,line01,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_01.jpg
+542475945,9/5/2014 22:35:51,1380050689,9/5/2014 22:33:24,instagc,1,13900808,USA,FL,Alachua,174.131.95.198,5,line01,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_01.jpg
+542475945,9/5/2014 22:47:39,1380070114,9/5/2014 22:45:10,neodev,1,28642601,,,"",162.223.93.195,5,line01,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_01.jpg
+542475945,9/5/2014 22:47:43,1380070221,9/5/2014 22:45:37,clixsense,1,6472283,USA,WI,Oak Creek,99.107.184.156,5,line01,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_01.jpg
+542475945,9/5/2014 22:56:22,1380085307,9/5/2014 22:55:09,eup_slw,1,18329415,USA,PA,Folcroft,64.121.230.236,4,line01,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_01.jpg
+542475945,9/5/2014 23:48:56,1380163140,9/5/2014 23:47:33,clixsense,1,6340330,USA,NY,Fort Plain,67.248.115.74,5,line01,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_01.jpg
+542475945,9/5/2014 23:54:14,1380171068,9/5/2014 23:53:01,tremorgames,1,28564242,USA,CA,San Francisco,67.116.255.79,5,line01,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_01.jpg
+542475945,9/6/2014 00:41:27,1380242216,9/6/2014 00:37:32,gptking,1,27816918,USA,NC,King,75.191.137.100,5,line01,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_01.jpg
+542475945,9/6/2014 00:50:17,1380254738,9/6/2014 00:49:46,clixsense,1,13959386,USA,CA,Sylmar,98.154.225.168,5,line01,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_01.jpg
+542475945,9/6/2014 01:06:26,1380275217,9/6/2014 01:05:24,instagc,1,28240756,USA,PA,West Chester,96.227.220.64,5,line01,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_01.jpg
+542475945,9/6/2014 01:07:00,1380275938,9/6/2014 01:05:23,neodev,1,25638993,USA,FL,Miami,108.76.254.42,5,line01,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_01.jpg
+542475945,9/6/2014 01:21:40,1380294541,9/6/2014 01:20:20,instagc,1,29240431,USA,WV,Charleston,184.14.50.12,5,line01,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_01.jpg
+542475945,9/6/2014 01:31:04,1380306725,9/6/2014 01:15:35,instagc,1,22501383,USA,MO,Lone Jack,71.1.125.187,5,line01,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_01.jpg
+542475946,9/5/2014 21:46:47,1379981311,9/5/2014 21:45:00,eup_slw,1.0,18571337,USA,IL,Chicago,24.1.163.235,20,line02,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_02.jpg
+542475946,9/5/2014 21:49:44,1379984252,9/5/2014 21:46:57,neodev,1.0,22098386,USA,NY,Greenwich,67.248.253.125,20,line02,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_02.jpg
+542475946,9/5/2014 21:53:45,1379988581,9/5/2014 21:52:53,tremorgames,1,28273588,USA,CA,Salinas,99.162.70.178,21,line02,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_02.jpg
+542475946,9/5/2014 22:08:19,1380009044,9/5/2014 22:04:22,points4rewards,1.0,28703583,USA,"","",97.73.91.62,20,line02,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_02.jpg
+542475946,9/5/2014 22:16:24,1380020666,9/5/2014 22:15:35,meprizescf,1.0,28483210,USA,"","",75.143.134.247,20,line02,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_02.jpg
+542475946,9/5/2014 22:23:03,1380030406,9/5/2014 22:22:26,bitcoinget,1.0,27316326,USA,NY,Hicksville,47.18.83.100,18,line02,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_02.jpg
+542475946,9/5/2014 22:27:39,1380037560,9/5/2014 22:26:28,instagc,1.0,13864884,USA,AZ,Gilbert,184.98.144.82,20,line02,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_02.jpg
+542475946,9/5/2014 22:35:12,1380049793,9/5/2014 22:33:53,prodege,1.0,13626624,USA,NY,Newburgh,69.206.155.224,20,line02,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_02.jpg
+542475946,9/5/2014 22:43:09,1380062042,9/5/2014 22:39:18,neodev,1.0,28642601,,,"",162.223.93.195,20,line02,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_02.jpg
+542475946,9/5/2014 22:44:23,1380064324,9/5/2014 22:42:32,clixsense,1.0,6472283,USA,WI,Oak Creek,99.107.184.156,0,line02,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_02.jpg
+542475946,9/5/2014 22:49:12,1380072488,9/5/2014 22:40:27,instagc,1.0,13900808,USA,FL,Alachua,174.131.95.198,20,line02,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_02.jpg
+542475946,9/5/2014 23:17:16,1380117524,9/5/2014 23:16:13,instagc,1.0,19636746,USA,NY,Andover,192.182.218.78,20,line02,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_02.jpg
+542475946,9/5/2014 23:22:06,1380124474,9/5/2014 23:20:57,eup_slw,1.0,18329415,USA,PA,Folcroft,64.121.230.236,20,line02,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_02.jpg
+542475946,9/5/2014 23:51:12,1380166787,9/5/2014 23:50:30,clixsense,1.0,6340330,USA,NY,Fort Plain,67.248.115.74,20,line02,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_02.jpg
+542475946,9/5/2014 23:52:59,1380169331,9/5/2014 23:49:48,tremorgames,1.0,28564242,USA,CA,San Francisco,67.116.255.79,20,line02,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_02.jpg
+542475946,9/6/2014 00:37:31,1380236711,9/6/2014 00:35:09,gptking,1.0,27816918,USA,NC,King,75.191.137.100,20,line02,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_02.jpg
+542475946,9/6/2014 00:48:41,1380252569,9/6/2014 00:47:23,clixsense,1.0,13959386,USA,CA,Sylmar,98.154.225.168,20,line02,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_02.jpg
+542475946,9/6/2014 01:09:41,1380279308,9/6/2014 01:08:50,instagc,1.0,28240756,USA,PA,West Chester,96.227.220.64,20,line02,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_02.jpg
+542475946,9/6/2014 01:15:33,1380286683,9/6/2014 01:13:53,instagc,1.0,22501383,USA,MO,Lone Jack,71.1.125.187,20,line02,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_02.jpg
+542475946,9/6/2014 01:17:16,1380288880,9/6/2014 01:16:53,neodev,1.0,25638993,USA,FL,Miami,108.76.254.42,20,line02,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_02.jpg
+542475947,9/5/2014 21:46:47,1379981312,9/5/2014 21:45:00,eup_slw,1.0,18571337,USA,IL,Chicago,24.1.163.235,11,line03,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_03.jpg
+542475947,9/5/2014 21:46:56,1379981458,9/5/2014 21:43:09,neodev,1.0,22098386,USA,NY,Greenwich,67.248.253.125,11,line03,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_03.jpg
+542475947,9/5/2014 21:52:52,1379987696,9/5/2014 21:51:45,tremorgames,1.0,28273588,USA,CA,Salinas,99.162.70.178,11,line03,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_03.jpg
+542475947,9/5/2014 22:04:16,1380003460,9/5/2014 21:59:07,points4rewards,1.0,28703583,USA,"","",97.73.91.62,11,line03,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_03.jpg
+542475947,9/5/2014 22:17:33,1380022375,9/5/2014 22:17:08,meprizescf,1.0,28483210,USA,"","",75.143.134.247,11,line03,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_03.jpg
+542475947,9/5/2014 22:22:25,1380029507,9/5/2014 22:21:48,bitcoinget,1.0,27316326,USA,NY,Hicksville,47.18.83.100,11,line03,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_03.jpg
+542475947,9/5/2014 22:26:27,1380035573,9/5/2014 22:25:07,instagc,1.0,13864884,USA,AZ,Gilbert,184.98.144.82,11,line03,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_03.jpg
+542475947,9/5/2014 22:35:12,1380049794,9/5/2014 22:33:53,prodege,1.0,13626624,USA,NY,Newburgh,69.206.155.224,11,line03,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_03.jpg
+542475947,9/5/2014 22:37:57,1380053829,9/5/2014 22:35:53,instagc,1.0,13900808,USA,FL,Alachua,174.131.95.198,11,line03,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_03.jpg
+542475947,9/5/2014 22:45:36,1380066596,9/5/2014 22:44:24,clixsense,1.0,6472283,USA,WI,Oak Creek,99.107.184.156,11,line03,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_03.jpg
+542475947,9/5/2014 22:50:15,1380074090,9/5/2014 22:47:43,neodev,1.0,28642601,,,"",162.223.93.195,11,line03,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_03.jpg
+542475947,9/5/2014 22:56:22,1380085304,9/5/2014 22:55:09,eup_slw,1.0,18329415,USA,PA,Folcroft,64.121.230.236,11,line03,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_03.jpg
+542475947,9/5/2014 23:17:16,1380117515,9/5/2014 23:16:13,instagc,1.0,19636746,USA,NY,Andover,192.182.218.78,11,line03,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_03.jpg
+542475947,9/5/2014 23:23:15,1380126055,9/5/2014 23:21:53,clixsense,1,7274297,USA,"","",162.207.234.89,11,line03,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_03.jpg
+542475947,9/5/2014 23:52:52,1380169163,9/5/2014 23:51:14,clixsense,1.0,6340330,USA,NY,Fort Plain,67.248.115.74,11,line03,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_03.jpg
+542475947,9/5/2014 23:54:14,1380171067,9/5/2014 23:53:01,tremorgames,1.0,28564242,USA,CA,San Francisco,67.116.255.79,11,line03,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_03.jpg
+542475947,9/6/2014 00:37:31,1380236710,9/6/2014 00:35:09,gptking,1.0,27816918,USA,NC,King,75.191.137.100,11,line03,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_03.jpg
+542475947,9/6/2014 00:50:17,1380254745,9/6/2014 00:49:46,clixsense,1.0,13959386,USA,CA,Sylmar,98.154.225.168,11,line03,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_03.jpg
+542475947,9/6/2014 01:05:21,1380273787,9/6/2014 01:03:55,neodev,1.0,25638993,USA,FL,Miami,108.76.254.42,11,line03,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_03.jpg
+542475947,9/6/2014 01:05:23,1380273823,9/6/2014 01:04:03,instagc,1.0,28240756,USA,PA,West Chester,96.227.220.64,11,line03,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_03.jpg
+542475948,9/5/2014 21:46:47,1379981313,9/5/2014 21:45:00,eup_slw,1.0,18571337,USA,IL,Chicago,24.1.163.235,5,line04,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_04.jpg
+542475948,9/5/2014 21:46:56,1379981464,9/5/2014 21:43:09,neodev,1.0,22098386,USA,NY,Greenwich,67.248.253.125,5,line04,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_04.jpg
+542475948,9/5/2014 21:56:49,1379992874,9/5/2014 21:55:05,points4rewards,1.0,28703583,USA,"","",97.73.91.62,5,line04,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_04.jpg
+542475948,9/5/2014 22:17:33,1380022378,9/5/2014 22:17:08,meprizescf,1.0,28483210,USA,"","",75.143.134.247,5,line04,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_04.jpg
+542475948,9/5/2014 22:24:23,1380032405,9/5/2014 22:23:39,bitcoinget,1.0,27316326,USA,NY,Hicksville,47.18.83.100,5,line04,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_04.jpg
+542475948,9/5/2014 22:26:27,1380035576,9/5/2014 22:25:07,instagc,1.0,13864884,USA,AZ,Gilbert,184.98.144.82,5,line04,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_04.jpg
+542475948,9/5/2014 22:33:51,1380047441,9/5/2014 22:32:32,prodege,1.0,13626624,USA,NY,Newburgh,69.206.155.224,5,line04,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_04.jpg
+542475948,9/5/2014 22:37:57,1380053827,9/5/2014 22:35:53,instagc,1.0,13900808,USA,FL,Alachua,174.131.95.198,5,line04,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_04.jpg
+542475948,9/5/2014 22:45:06,1380065602,9/5/2014 22:43:13,neodev,1.0,28642601,,,"",162.223.93.195,5,line04,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_04.jpg
+542475948,9/5/2014 22:48:43,1380071758,9/5/2014 22:47:43,clixsense,1.0,6472283,USA,WI,Oak Creek,99.107.184.156,5,line04,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_04.jpg
+542475948,9/5/2014 22:56:22,1380085293,9/5/2014 22:55:09,eup_slw,1.0,18329415,USA,PA,Folcroft,64.121.230.236,5,line04,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_04.jpg
+542475948,9/5/2014 23:17:16,1380117526,9/5/2014 23:16:13,instagc,1.0,19636746,USA,NY,Andover,192.182.218.78,5,line04,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_04.jpg
+542475948,9/5/2014 23:23:15,1380126049,9/5/2014 23:21:53,clixsense,1.0,7274297,USA,"","",162.207.234.89,5,line04,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_04.jpg
+542475948,9/5/2014 23:51:12,1380166790,9/5/2014 23:50:30,clixsense,1.0,6340330,USA,NY,Fort Plain,67.248.115.74,5,line04,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_04.jpg
+542475948,9/6/2014 00:02:06,1380182835,9/6/2014 00:00:37,tremorgames,1.0,28564242,USA,CA,San Francisco,67.116.255.79,5,line04,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_04.jpg
+542475948,9/6/2014 00:45:42,1380248563,9/6/2014 00:43:51,gptking,1.0,27816918,USA,NC,King,75.191.137.100,5,line04,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_04.jpg
+542475948,9/6/2014 00:49:44,1380253893,9/6/2014 00:48:44,clixsense,1.0,13959386,USA,CA,Sylmar,98.154.225.168,5,line04,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_04.jpg
+542475948,9/6/2014 01:05:21,1380273785,9/6/2014 01:03:55,neodev,1.0,25638993,USA,FL,Miami,108.76.254.42,5,line04,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_04.jpg
+542475948,9/6/2014 01:09:41,1380279309,9/6/2014 01:08:50,instagc,1.0,28240756,USA,PA,West Chester,96.227.220.64,5,line04,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_04.jpg
+542475948,9/6/2014 01:31:04,1380306719,9/6/2014 01:15:35,instagc,1.0,22501383,USA,MO,Lone Jack,71.1.125.187,5,line04,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_04.jpg
+542475949,9/5/2014 21:47:59,1379982551,9/5/2014 21:46:48,eup_slw,1.0,18571337,USA,IL,Chicago,24.1.163.235,21,line05,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_05.jpg
+542475949,9/5/2014 21:52:16,1379986948,9/5/2014 21:49:45,neodev,1.0,22098386,USA,NY,Greenwich,67.248.253.125,17,line05,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_05.jpg
+542475949,9/5/2014 22:11:19,1380013015,9/5/2014 22:08:24,points4rewards,1.0,28703583,USA,"","",97.73.91.62,25,line05,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_05.jpg
+542475949,9/5/2014 22:17:06,1380021716,9/5/2014 22:16:25,meprizescf,1.0,28483210,USA,"","",75.143.134.247,22,line05,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_05.jpg
+542475949,9/5/2014 22:23:37,1380031410,9/5/2014 22:23:05,bitcoinget,1.0,27316326,USA,NY,Hicksville,47.18.83.100,26,line05,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_05.jpg
+542475949,9/5/2014 22:28:57,1380039575,9/5/2014 22:27:41,instagc,1.0,13864884,USA,AZ,Gilbert,184.98.144.82,26,line05,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_05.jpg
+542475949,9/5/2014 22:31:15,1380043396,9/5/2014 22:30:05,prodege,1.0,13626624,USA,NY,Newburgh,69.206.155.224,21,line05,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_05.jpg
+542475949,9/5/2014 22:47:39,1380070116,9/5/2014 22:45:10,neodev,1.0,28642601,,,"",162.223.93.195,26,line05,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_05.jpg
+542475949,9/5/2014 22:48:43,1380071763,9/5/2014 22:47:43,clixsense,1.0,6472283,USA,WI,Oak Creek,99.107.184.156,22,line05,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_05.jpg
+542475949,9/5/2014 22:52:53,1380078777,9/5/2014 22:49:14,instagc,1.0,13900808,USA,FL,Alachua,174.131.95.198,23,line05,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_05.jpg
+542475949,9/5/2014 23:16:11,1380116196,9/5/2014 23:14:37,instagc,1.0,19636746,USA,NY,Andover,192.182.218.78,20,line05,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_05.jpg
+542475949,9/5/2014 23:48:56,1380163139,9/5/2014 23:47:33,clixsense,1.0,6340330,USA,NY,Fort Plain,67.248.115.74,20,line05,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_05.jpg
+542475949,9/5/2014 23:52:59,1380169332,9/5/2014 23:49:48,tremorgames,1.0,28564242,USA,CA,San Francisco,67.116.255.79,25,line05,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_05.jpg
+542475949,9/6/2014 00:43:49,1380245669,9/6/2014 00:41:30,gptking,1.0,27816918,USA,NC,King,75.191.137.100,18,line05,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_05.jpg
+542475949,9/6/2014 00:51:07,1380255784,9/6/2014 00:50:19,clixsense,1.0,13959386,USA,CA,Sylmar,98.154.225.168,23,line05,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_05.jpg
+542475949,9/6/2014 01:07:00,1380275945,9/6/2014 01:05:23,neodev,1.0,25638993,USA,FL,Miami,108.76.254.42,22,line05,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_05.jpg
+542475949,9/6/2014 01:08:49,1380278255,9/6/2014 01:06:27,instagc,1.0,28240756,USA,PA,West Chester,96.227.220.64,22,line05,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_05.jpg
+542475949,9/6/2014 01:17:51,1380289551,9/6/2014 01:17:10,eup_slw,1.0,18329415,USA,PA,Folcroft,64.121.230.236,23,line05,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_05.jpg
+542475949,9/6/2014 01:21:40,1380294533,9/6/2014 01:20:20,instagc,1.0,29240431,USA,WV,Charleston,184.14.50.12,19,line05,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_05.jpg
+542475949,9/6/2014 01:31:04,1380306722,9/6/2014 01:15:35,instagc,1.0,22501383,USA,MO,Lone Jack,71.1.125.187,25,line05,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_05.jpg
+542475950,9/5/2014 21:43:07,1379976954,9/5/2014 21:41:05,neodev,1.0,22098386,USA,NY,Greenwich,67.248.253.125,6,line06,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_06.jpg
+542475950,9/5/2014 21:47:59,1379982555,9/5/2014 21:46:48,eup_slw,1.0,18571337,USA,IL,Chicago,24.1.163.235,6,line06,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_06.jpg
+542475950,9/5/2014 21:56:49,1379992873,9/5/2014 21:55:05,points4rewards,1.0,28703583,USA,"","",97.73.91.62,6,line06,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_06.jpg
+542475950,9/5/2014 22:16:24,1380020684,9/5/2014 22:15:35,meprizescf,1.0,28483210,USA,"","",75.143.134.247,6,line06,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_06.jpg
+542475950,9/5/2014 22:18:49,1380024123,9/5/2014 22:17:06,instagc,1.0,19636746,USA,NY,Andover,192.182.218.78,6,line06,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_06.jpg
+542475950,9/5/2014 22:23:37,1380031418,9/5/2014 22:23:05,bitcoinget,1.0,27316326,USA,NY,Hicksville,47.18.83.100,6,line06,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_06.jpg
+542475950,9/5/2014 22:26:27,1380035572,9/5/2014 22:25:07,instagc,1.0,13864884,USA,AZ,Gilbert,184.98.144.82,6,line06,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_06.jpg
+542475950,9/5/2014 22:32:30,1380045346,9/5/2014 22:31:18,prodege,1.0,13626624,USA,NY,Newburgh,69.206.155.224,6,line06,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_06.jpg
+542475950,9/5/2014 22:43:09,1380062038,9/5/2014 22:39:18,neodev,1.0,28642601,,,"",162.223.93.195,6,line06,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_06.jpg
+542475950,9/5/2014 22:44:23,1380064320,9/5/2014 22:42:32,clixsense,1.0,6472283,USA,WI,Oak Creek,99.107.184.156,0,line06,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_06.jpg
+542475950,9/5/2014 22:52:53,1380078778,9/5/2014 22:49:14,instagc,1.0,13900808,USA,FL,Alachua,174.131.95.198,6,line06,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_06.jpg
+542475950,9/5/2014 23:20:56,1380122818,9/5/2014 22:56:24,eup_slw,1.0,18329415,USA,PA,Folcroft,64.121.230.236,6,line06,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_06.jpg
+542475950,9/5/2014 23:26:03,1380130084,9/5/2014 23:24:28,clixsense,1.0,7274297,USA,"","",162.207.234.89,6,line06,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_06.jpg
+542475950,9/5/2014 23:51:12,1380166789,9/5/2014 23:50:30,clixsense,1.0,6340330,USA,NY,Fort Plain,67.248.115.74,6,line06,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_06.jpg
+542475950,9/6/2014 00:02:06,1380182840,9/6/2014 00:00:37,tremorgames,1.0,28564242,USA,CA,San Francisco,67.116.255.79,6,line06,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_06.jpg
+542475950,9/6/2014 00:43:49,1380245674,9/6/2014 00:41:30,gptking,1.0,27816918,USA,NC,King,75.191.137.100,6,line06,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_06.jpg
+542475950,9/6/2014 00:48:41,1380252570,9/6/2014 00:47:23,clixsense,1.0,13959386,USA,CA,Sylmar,98.154.225.168,5,line06,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_06.jpg
+542475950,9/6/2014 01:05:23,1380273822,9/6/2014 01:04:03,instagc,1.0,28240756,USA,PA,West Chester,96.227.220.64,6,line06,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_06.jpg
+542475950,9/6/2014 01:15:33,1380286674,9/6/2014 01:13:53,instagc,1.0,22501383,USA,MO,Lone Jack,71.1.125.187,6,line06,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_06.jpg
+542475950,9/6/2014 01:17:16,1380288877,9/6/2014 01:16:53,neodev,1.0,25638993,USA,FL,Miami,108.76.254.42,6,line06,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_06.jpg
+542475951,9/5/2014 21:46:56,1379981457,9/5/2014 21:43:09,neodev,1.0,22098386,USA,NY,Greenwich,67.248.253.125,12,line07,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_07.jpg
+542475951,9/5/2014 21:47:59,1379982578,9/5/2014 21:46:48,eup_slw,1.0,18571337,USA,IL,Chicago,24.1.163.235,12,line07,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_07.jpg
+542475951,9/5/2014 21:53:45,1379988585,9/5/2014 21:52:53,tremorgames,1.0,28273588,USA,CA,Salinas,99.162.70.178,12,line07,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_07.jpg
+542475951,9/5/2014 22:11:19,1380013012,9/5/2014 22:08:24,points4rewards,1.0,28703583,USA,"","",97.73.91.62,12,line07,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_07.jpg
+542475951,9/5/2014 22:15:34,1380019465,9/5/2014 22:14:30,meprizescf,1.0,28483210,USA,"","",75.143.134.247,12,line07,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_07.jpg
+542475951,9/5/2014 22:20:58,1380027316,9/5/2014 22:18:51,instagc,1.0,19636746,USA,NY,Andover,192.182.218.78,12,line07,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_07.jpg
+542475951,9/5/2014 22:22:25,1380029496,9/5/2014 22:21:48,bitcoinget,1.0,27316326,USA,NY,Hicksville,47.18.83.100,12,line07,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_07.jpg
+542475951,9/5/2014 22:28:57,1380039572,9/5/2014 22:27:41,instagc,1.0,13864884,USA,AZ,Gilbert,184.98.144.82,12,line07,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_07.jpg
+542475951,9/5/2014 22:31:15,1380043393,9/5/2014 22:30:05,prodege,1.0,13626624,USA,NY,Newburgh,69.206.155.224,12,line07,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_07.jpg
+542475951,9/5/2014 22:43:09,1380062026,9/5/2014 22:39:18,neodev,1.0,28642601,,,"",162.223.93.195,12,line07,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_07.jpg
+542475951,9/5/2014 22:47:43,1380070222,9/5/2014 22:45:37,clixsense,1.0,6472283,USA,WI,Oak Creek,99.107.184.156,12,line07,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_07.jpg
+542475951,9/5/2014 22:52:53,1380078776,9/5/2014 22:49:14,instagc,1.0,13900808,USA,FL,Alachua,174.131.95.198,12,line07,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_07.jpg
+542475951,9/5/2014 23:22:06,1380124468,9/5/2014 23:20:57,eup_slw,1.0,18329415,USA,PA,Folcroft,64.121.230.236,12,line07,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_07.jpg
+542475951,9/5/2014 23:23:15,1380126061,9/5/2014 23:21:53,clixsense,1.0,7274297,USA,"","",162.207.234.89,12,line07,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_07.jpg
+542475951,9/5/2014 23:50:28,1380165723,9/5/2014 23:48:57,clixsense,1.0,6340330,USA,NY,Fort Plain,67.248.115.74,12,line07,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_07.jpg
+542475951,9/5/2014 23:54:14,1380171066,9/5/2014 23:53:01,tremorgames,1.0,28564242,USA,CA,San Francisco,67.116.255.79,12,line07,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_07.jpg
+542475951,9/6/2014 00:43:49,1380245670,9/6/2014 00:41:30,gptking,1.0,27816918,USA,NC,King,75.191.137.100,12,line07,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_07.jpg
+542475951,9/6/2014 00:50:17,1380254741,9/6/2014 00:49:46,clixsense,1.0,13959386,USA,CA,Sylmar,98.154.225.168,12,line07,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_07.jpg
+542475951,9/6/2014 01:06:26,1380275218,9/6/2014 01:05:24,instagc,1.0,28240756,USA,PA,West Chester,96.227.220.64,12,line07,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_07.jpg
+542475951,9/6/2014 01:07:00,1380275942,9/6/2014 01:05:23,neodev,1.0,25638993,USA,FL,Miami,108.76.254.42,12,line07,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_07.jpg
+542475952,9/5/2014 21:43:07,1379976955,9/5/2014 21:41:05,neodev,1.0,22098386,USA,NY,Greenwich,67.248.253.125,14,line08,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_08.jpg
+542475952,9/5/2014 21:49:09,1379983704,9/5/2014 21:48:01,eup_slw,1.0,18571337,USA,IL,Chicago,24.1.163.235,15,line08,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_08.jpg
+542475952,9/5/2014 22:04:16,1380003457,9/5/2014 21:59:07,points4rewards,1.0,28703583,USA,"","",97.73.91.62,18,line08,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_08.jpg
+542475952,9/5/2014 22:15:34,1380019466,9/5/2014 22:14:30,meprizescf,1.0,28483210,USA,"","",75.143.134.247,15,line08,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_08.jpg
+542475952,9/5/2014 22:24:23,1380032403,9/5/2014 22:23:39,bitcoinget,1.0,27316326,USA,NY,Hicksville,47.18.83.100,14,line08,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_08.jpg
+542475952,9/5/2014 22:29:47,1380040839,9/5/2014 22:28:59,instagc,1.0,13864884,USA,AZ,Gilbert,184.98.144.82,17,line08,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_08.jpg
+542475952,9/5/2014 22:32:30,1380045343,9/5/2014 22:31:18,prodege,1.0,13626624,USA,NY,Newburgh,69.206.155.224,14,line08,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_08.jpg
+542475952,9/5/2014 22:44:23,1380064322,9/5/2014 22:42:32,clixsense,1.0,6472283,USA,WI,Oak Creek,99.107.184.156,14,line08,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_08.jpg
+542475952,9/5/2014 22:50:15,1380074094,9/5/2014 22:47:43,neodev,1.0,28642601,,,"",162.223.93.195,18,line08,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_08.jpg
+542475952,9/5/2014 22:52:53,1380078775,9/5/2014 22:49:14,instagc,1.0,13900808,USA,FL,Alachua,174.131.95.198,17,line08,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_08.jpg
+542475952,9/5/2014 23:16:11,1380116197,9/5/2014 23:14:37,instagc,1.0,19636746,USA,NY,Andover,192.182.218.78,16,line08,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_08.jpg
+542475952,9/5/2014 23:26:03,1380130078,9/5/2014 23:24:28,clixsense,1.0,7274297,USA,"","",162.207.234.89,17,line08,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_08.jpg
+542475952,9/5/2014 23:48:56,1380163142,9/5/2014 23:47:33,clixsense,1.0,6340330,USA,NY,Fort Plain,67.248.115.74,15,line08,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_08.jpg
+542475952,9/6/2014 00:00:35,1380180618,9/5/2014 23:54:15,tremorgames,1.0,28564242,USA,CA,San Francisco,67.116.255.79,18,line08,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_08.jpg
+542475952,9/6/2014 00:45:42,1380248566,9/6/2014 00:43:51,gptking,1.0,27816918,USA,NC,King,75.191.137.100,18,line08,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_08.jpg
+542475952,9/6/2014 00:50:17,1380254740,9/6/2014 00:49:46,clixsense,1.0,13959386,USA,CA,Sylmar,98.154.225.168,16,line08,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_08.jpg
+542475952,9/6/2014 01:05:23,1380273834,9/6/2014 01:04:03,instagc,1.0,28240756,USA,PA,West Chester,96.227.220.64,17,line08,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_08.jpg
+542475952,9/6/2014 01:07:00,1380275940,9/6/2014 01:05:23,neodev,1.0,25638993,USA,FL,Miami,108.76.254.42,16,line08,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_08.jpg
+542475952,9/6/2014 01:17:51,1380289550,9/6/2014 01:17:10,eup_slw,1.0,18329415,USA,PA,Folcroft,64.121.230.236,15,line08,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_08.jpg
+542475952,9/6/2014 01:21:40,1380294558,9/6/2014 01:20:20,instagc,1.0,29240431,USA,WV,Charleston,184.14.50.12,15,line08,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_08.jpg
+542475953,9/5/2014 21:49:09,1379983705,9/5/2014 21:48:01,eup_slw,1.0,18571337,USA,IL,Chicago,24.1.163.235,23,line09,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_09.jpg
+542475953,9/5/2014 21:49:44,1379984253,9/5/2014 21:46:57,neodev,1.0,22098386,USA,NY,Greenwich,67.248.253.125,22,line09,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_09.jpg
+542475953,9/5/2014 22:08:19,1380009042,9/5/2014 22:04:22,points4rewards,1.0,28703583,USA,"","",97.73.91.62,26,line09,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_09.jpg
+542475953,9/5/2014 22:15:34,1380019461,9/5/2014 22:14:30,meprizescf,1.0,28483210,USA,"","",75.143.134.247,23,line09,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_09.jpg
+542475953,9/5/2014 22:20:58,1380027311,9/5/2014 22:18:51,instagc,1.0,19636746,USA,NY,Andover,192.182.218.78,22,line09,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_09.jpg
+542475953,9/5/2014 22:22:25,1380029497,9/5/2014 22:21:48,bitcoinget,1.0,27316326,USA,NY,Hicksville,47.18.83.100,21,line09,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_09.jpg
+542475953,9/5/2014 22:27:28,1380037286,9/5/2014 22:25:50,instagc,1,19378092,USA,PA,Reading,174.55.181.238,22,line09,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_09.jpg
+542475953,9/5/2014 22:28:57,1380039570,9/5/2014 22:27:41,instagc,1.0,13864884,USA,AZ,Gilbert,184.98.144.82,25,line09,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_09.jpg
+542475953,9/5/2014 22:33:51,1380047435,9/5/2014 22:32:32,prodege,1.0,13626624,USA,NY,Newburgh,69.206.155.224,24,line09,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_09.jpg
+542475953,9/5/2014 22:37:57,1380053835,9/5/2014 22:35:53,instagc,1.0,13900808,USA,FL,Alachua,174.131.95.198,24,line09,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_09.jpg
+542475953,9/5/2014 22:47:39,1380070117,9/5/2014 22:45:10,neodev,1.0,28642601,,,"",162.223.93.195,24,line09,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_09.jpg
+542475953,9/5/2014 22:47:43,1380070223,9/5/2014 22:45:37,clixsense,1.0,6472283,USA,WI,Oak Creek,99.107.184.156,23,line09,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_09.jpg
+542475953,9/5/2014 23:20:56,1380122814,9/5/2014 22:56:24,eup_slw,1.0,18329415,USA,PA,Folcroft,64.121.230.236,23,line09,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_09.jpg
+542475953,9/5/2014 23:26:03,1380130082,9/5/2014 23:24:28,clixsense,1.0,7274297,USA,"","",162.207.234.89,23,line09,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_09.jpg
+542475953,9/5/2014 23:50:28,1380165729,9/5/2014 23:48:57,clixsense,1.0,6340330,USA,NY,Fort Plain,67.248.115.74,23,line09,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_09.jpg
+542475953,9/6/2014 00:00:35,1380180616,9/5/2014 23:54:15,tremorgames,1.0,28564242,USA,CA,San Francisco,67.116.255.79,23,line09,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_09.jpg
+542475953,9/6/2014 00:41:27,1380242217,9/6/2014 00:37:32,gptking,1.0,27816918,USA,NC,King,75.191.137.100,21,line09,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_09.jpg
+542475953,9/6/2014 00:49:44,1380253897,9/6/2014 00:48:44,clixsense,1.0,13959386,USA,CA,Sylmar,98.154.225.168,22,line09,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_09.jpg
+542475953,9/6/2014 01:05:21,1380273783,9/6/2014 01:03:55,neodev,1.0,25638993,USA,FL,Miami,108.76.254.42,21,line09,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_09.jpg
+542475953,9/6/2014 01:06:26,1380275216,9/6/2014 01:05:24,instagc,1.0,28240756,USA,PA,West Chester,96.227.220.64,21,line09,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_09.jpg
+542475954,9/5/2014 21:43:07,1379976956,9/5/2014 21:41:05,neodev,1.0,22098386,USA,NY,Greenwich,67.248.253.125,23,line10,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_10.jpg
+542475954,9/5/2014 21:49:09,1379983709,9/5/2014 21:48:01,eup_slw,1.0,18571337,USA,IL,Chicago,24.1.163.235,28,line10,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_10.jpg
+542475954,9/5/2014 22:08:19,1380009041,9/5/2014 22:04:22,points4rewards,1.0,28703583,USA,"","",97.73.91.62,26,line10,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_10.jpg
+542475954,9/5/2014 22:17:06,1380021717,9/5/2014 22:16:25,meprizescf,1.0,28483210,USA,"","",75.143.134.247,25,line10,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_10.jpg
+542475954,9/5/2014 22:22:25,1380029495,9/5/2014 22:21:48,bitcoinget,1.0,27316326,USA,NY,Hicksville,47.18.83.100,26,line10,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_10.jpg
+542475954,9/5/2014 22:26:27,1380035575,9/5/2014 22:25:07,instagc,1.0,13864884,USA,AZ,Gilbert,184.98.144.82,26,line10,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_10.jpg
+542475954,9/5/2014 22:35:12,1380049799,9/5/2014 22:33:53,prodege,1.0,13626624,USA,NY,Newburgh,69.206.155.224,24,line10,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_10.jpg
+542475954,9/5/2014 22:35:51,1380050692,9/5/2014 22:33:24,instagc,1.0,13900808,USA,FL,Alachua,174.131.95.198,26,line10,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_10.jpg
+542475954,9/5/2014 22:45:06,1380065603,9/5/2014 22:43:13,neodev,1.0,28642601,,,"",162.223.93.195,26,line10,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_10.jpg
+542475954,9/5/2014 22:45:36,1380066585,9/5/2014 22:44:24,clixsense,1.0,6472283,USA,WI,Oak Creek,99.107.184.156,19,line10,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_10.jpg
+542475954,9/5/2014 23:16:11,1380116200,9/5/2014 23:14:37,instagc,1.0,19636746,USA,NY,Andover,192.182.218.78,20,line10,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_10.jpg
+542475954,9/5/2014 23:20:56,1380122810,9/5/2014 22:56:24,eup_slw,1.0,18329415,USA,PA,Folcroft,64.121.230.236,22,line10,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_10.jpg
+542475954,9/5/2014 23:24:27,1380127875,9/5/2014 23:23:20,clixsense,1.0,7274297,USA,"","",162.207.234.89,25,line10,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_10.jpg
+542475954,9/5/2014 23:52:52,1380169176,9/5/2014 23:51:14,clixsense,1.0,6340330,USA,NY,Fort Plain,67.248.115.74,21,line10,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_10.jpg
+542475954,9/6/2014 00:02:06,1380182838,9/6/2014 00:00:37,tremorgames,1.0,28564242,USA,CA,San Francisco,67.116.255.79,26,line10,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_10.jpg
+542475954,9/6/2014 00:43:49,1380245668,9/6/2014 00:41:30,gptking,1.0,27816918,USA,NC,King,75.191.137.100,19,line10,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_10.jpg
+542475954,9/6/2014 00:48:41,1380252585,9/6/2014 00:47:23,clixsense,1.0,13959386,USA,CA,Sylmar,98.154.225.168,26,line10,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_10.jpg
+542475954,9/6/2014 01:05:23,1380273824,9/6/2014 01:04:03,instagc,1.0,28240756,USA,PA,West Chester,96.227.220.64,25,line10,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_10.jpg
+542475954,9/6/2014 01:16:52,1380288385,9/6/2014 01:15:58,neodev,1.0,25638993,USA,FL,Miami,108.76.254.42,20,line10,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_10.jpg
+542475954,9/6/2014 01:31:04,1380306726,9/6/2014 01:15:35,instagc,1.0,22501383,USA,MO,Lone Jack,71.1.125.187,25,line10,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_10.jpg
+542475955,9/5/2014 21:46:56,1379981459,9/5/2014 21:43:09,neodev,1.0,22098386,USA,NY,Greenwich,67.248.253.125,14,line11,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_11.jpg
+542475955,9/5/2014 21:50:20,1379984870,9/5/2014 21:49:11,eup_slw,1.0,18571337,USA,IL,Chicago,24.1.163.235,14,line11,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_11.jpg
+542475955,9/5/2014 21:52:52,1379987683,9/5/2014 21:51:45,tremorgames,1.0,28273588,USA,CA,Salinas,99.162.70.178,14,line11,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_11.jpg
+542475955,9/5/2014 21:56:49,1379992872,9/5/2014 21:55:05,points4rewards,1.0,28703583,USA,"","",97.73.91.62,15,line11,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_11.jpg
+542475955,9/5/2014 22:17:33,1380022374,9/5/2014 22:17:08,meprizescf,1.0,28483210,USA,"","",75.143.134.247,14,line11,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_11.jpg
+542475955,9/5/2014 22:23:03,1380030405,9/5/2014 22:22:26,bitcoinget,1.0,27316326,USA,NY,Hicksville,47.18.83.100,14,line11,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_11.jpg
+542475955,9/5/2014 22:29:47,1380040842,9/5/2014 22:28:59,instagc,1.0,13864884,USA,AZ,Gilbert,184.98.144.82,15,line11,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_11.jpg
+542475955,9/5/2014 22:32:30,1380045344,9/5/2014 22:31:18,prodege,1.0,13626624,USA,NY,Newburgh,69.206.155.224,14,line11,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_11.jpg
+542475955,9/5/2014 22:35:51,1380050697,9/5/2014 22:33:24,instagc,1.0,13900808,USA,FL,Alachua,174.131.95.198,14,line11,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_11.jpg
+542475955,9/5/2014 22:45:06,1380065600,9/5/2014 22:43:13,neodev,1.0,28642601,,,"",162.223.93.195,15,line11,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_11.jpg
+542475955,9/5/2014 22:48:43,1380071764,9/5/2014 22:47:43,clixsense,1.0,6472283,USA,WI,Oak Creek,99.107.184.156,14,line11,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_11.jpg
+542475955,9/5/2014 23:17:16,1380117523,9/5/2014 23:16:13,instagc,1.0,19636746,USA,NY,Andover,192.182.218.78,14,line11,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_11.jpg
+542475955,9/5/2014 23:22:06,1380124469,9/5/2014 23:20:57,eup_slw,1.0,18329415,USA,PA,Folcroft,64.121.230.236,15,line11,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_11.jpg
+542475955,9/5/2014 23:24:27,1380127864,9/5/2014 23:23:20,clixsense,1.0,7274297,USA,"","",162.207.234.89,15,line11,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_11.jpg
+542475955,9/5/2014 23:50:28,1380165726,9/5/2014 23:48:57,clixsense,1.0,6340330,USA,NY,Fort Plain,67.248.115.74,14,line11,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_11.jpg
+542475955,9/6/2014 00:00:35,1380180615,9/5/2014 23:54:15,tremorgames,1.0,28564242,USA,CA,San Francisco,67.116.255.79,15,line11,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_11.jpg
+542475955,9/6/2014 00:43:49,1380245672,9/6/2014 00:41:30,gptking,1.0,27816918,USA,NC,King,75.191.137.100,14,line11,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_11.jpg
+542475955,9/6/2014 00:49:44,1380253896,9/6/2014 00:48:44,clixsense,1.0,13959386,USA,CA,Sylmar,98.154.225.168,15,line11,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_11.jpg
+542475955,9/6/2014 01:07:00,1380275952,9/6/2014 01:05:23,neodev,1.0,25638993,USA,FL,Miami,108.76.254.42,14,line11,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_11.jpg
+542475955,9/6/2014 01:08:49,1380278253,9/6/2014 01:06:27,instagc,1.0,28240756,USA,PA,West Chester,96.227.220.64,15,line11,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_11.jpg
+542475956,9/5/2014 21:47:59,1379982559,9/5/2014 21:46:48,eup_slw,1.0,18571337,USA,IL,Chicago,24.1.163.235,22,line12,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_12.jpg
+542475956,9/5/2014 21:49:44,1379984269,9/5/2014 21:46:57,neodev,1.0,22098386,USA,NY,Greenwich,67.248.253.125,21,line12,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_12.jpg
+542475956,9/5/2014 22:04:16,1380003459,9/5/2014 21:59:07,points4rewards,1.0,28703583,USA,"","",97.73.91.62,23,line12,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_12.jpg
+542475956,9/5/2014 22:16:24,1380020665,9/5/2014 22:15:35,meprizescf,1.0,28483210,USA,"","",75.143.134.247,22,line12,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_12.jpg
+542475956,9/5/2014 22:18:49,1380024105,9/5/2014 22:17:06,instagc,1.0,19636746,USA,NY,Andover,192.182.218.78,20,line12,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_12.jpg
+542475956,9/5/2014 22:24:23,1380032411,9/5/2014 22:23:39,bitcoinget,1.0,27316326,USA,NY,Hicksville,47.18.83.100,17,line12,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_12.jpg
+542475956,9/5/2014 22:26:27,1380035574,9/5/2014 22:25:07,instagc,1.0,13864884,USA,AZ,Gilbert,184.98.144.82,23,line12,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_12.jpg
+542475956,9/5/2014 22:27:28,1380037277,9/5/2014 22:25:50,instagc,1.0,19378092,USA,PA,Reading,174.55.181.238,22,line12,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_12.jpg
+542475956,9/5/2014 22:35:12,1380049795,9/5/2014 22:33:53,prodege,1.0,13626624,USA,NY,Newburgh,69.206.155.224,22,line12,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_12.jpg
+542475956,9/5/2014 22:43:09,1380062039,9/5/2014 22:39:18,neodev,1.0,28642601,,,"",162.223.93.195,23,line12,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_12.jpg
+542475956,9/5/2014 22:47:43,1380070220,9/5/2014 22:45:37,clixsense,1.0,6472283,USA,WI,Oak Creek,99.107.184.156,22,line12,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_12.jpg
+542475956,9/5/2014 22:49:12,1380072492,9/5/2014 22:40:27,instagc,1.0,13900808,USA,FL,Alachua,174.131.95.198,21,line12,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_12.jpg
+542475956,9/5/2014 22:56:22,1380085306,9/5/2014 22:55:09,eup_slw,1.0,18329415,USA,PA,Folcroft,64.121.230.236,22,line12,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_12.jpg
+542475956,9/5/2014 23:26:03,1380130079,9/5/2014 23:24:28,clixsense,1.0,7274297,USA,"","",162.207.234.89,22,line12,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_12.jpg
+542475956,9/5/2014 23:52:52,1380169170,9/5/2014 23:51:14,clixsense,1.0,6340330,USA,NY,Fort Plain,67.248.115.74,20,line12,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_12.jpg
+542475956,9/6/2014 00:00:35,1380180617,9/5/2014 23:54:15,tremorgames,1.0,28564242,USA,CA,San Francisco,67.116.255.79,23,line12,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_12.jpg
+542475956,9/6/2014 00:45:42,1380248565,9/6/2014 00:43:51,gptking,1.0,27816918,USA,NC,King,75.191.137.100,22,line12,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_12.jpg
+542475956,9/6/2014 00:49:44,1380253895,9/6/2014 00:48:44,clixsense,1.0,13959386,USA,CA,Sylmar,98.154.225.168,22,line12,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_12.jpg
+542475956,9/6/2014 01:09:41,1380279312,9/6/2014 01:08:50,instagc,1.0,28240756,USA,PA,West Chester,96.227.220.64,24,line12,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_12.jpg
+542475956,9/6/2014 01:16:52,1380288381,9/6/2014 01:15:58,neodev,1.0,25638993,USA,FL,Miami,108.76.254.42,22,line12,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_12.jpg
+542475957,9/5/2014 21:49:44,1379984251,9/5/2014 21:46:57,neodev,1.0,22098386,USA,NY,Greenwich,67.248.253.125,15,line13,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_13.jpg
+542475957,9/5/2014 21:50:20,1379984871,9/5/2014 21:49:11,eup_slw,1.0,18571337,USA,IL,Chicago,24.1.163.235,16,line13,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_13.jpg
+542475957,9/5/2014 21:53:45,1379988587,9/5/2014 21:52:53,tremorgames,1.0,28273588,USA,CA,Salinas,99.162.70.178,16,line13,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_13.jpg
+542475957,9/5/2014 22:04:16,1380003461,9/5/2014 21:59:07,points4rewards,1.0,28703583,USA,"","",97.73.91.62,17,line13,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_13.jpg
+542475957,9/5/2014 22:16:24,1380020667,9/5/2014 22:15:35,meprizescf,1.0,28483210,USA,"","",75.143.134.247,16,line13,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_13.jpg
+542475957,9/5/2014 22:18:49,1380024129,9/5/2014 22:17:06,instagc,1.0,19636746,USA,NY,Andover,192.182.218.78,16,line13,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_13.jpg
+542475957,9/5/2014 22:24:23,1380032406,9/5/2014 22:23:39,bitcoinget,1.0,27316326,USA,NY,Hicksville,47.18.83.100,10,line13,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_13.jpg
+542475957,9/5/2014 22:27:28,1380037279,9/5/2014 22:25:50,instagc,1.0,19378092,USA,PA,Reading,174.55.181.238,18,line13,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_13.jpg
+542475957,9/5/2014 22:27:39,1380037554,9/5/2014 22:26:28,instagc,1.0,13864884,USA,AZ,Gilbert,184.98.144.82,18,line13,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_13.jpg
+542475957,9/5/2014 22:32:30,1380045341,9/5/2014 22:31:18,prodege,1.0,13626624,USA,NY,Newburgh,69.206.155.224,17,line13,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_13.jpg
+542475957,9/5/2014 22:45:36,1380066595,9/5/2014 22:44:24,clixsense,1.0,6472283,USA,WI,Oak Creek,99.107.184.156,15,line13,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_13.jpg
+542475957,9/5/2014 22:47:39,1380070112,9/5/2014 22:45:10,neodev,1.0,28642601,,,"",162.223.93.195,16,line13,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_13.jpg
+542475957,9/5/2014 22:49:12,1380072494,9/5/2014 22:40:27,instagc,1.0,13900808,USA,FL,Alachua,174.131.95.198,16,line13,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_13.jpg
+542475957,9/5/2014 23:20:56,1380122817,9/5/2014 22:56:24,eup_slw,1.0,18329415,USA,PA,Folcroft,64.121.230.236,17,line13,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_13.jpg
+542475957,9/5/2014 23:24:27,1380127863,9/5/2014 23:23:20,clixsense,1.0,7274297,USA,"","",162.207.234.89,18,line13,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_13.jpg
+542475957,9/5/2014 23:52:52,1380169168,9/5/2014 23:51:14,clixsense,1.0,6340330,USA,NY,Fort Plain,67.248.115.74,13,line13,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_13.jpg
+542475957,9/5/2014 23:54:14,1380171069,9/5/2014 23:53:01,tremorgames,1.0,28564242,USA,CA,San Francisco,67.116.255.79,17,line13,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_13.jpg
+542475957,9/6/2014 00:41:27,1380242213,9/6/2014 00:37:32,gptking,1.0,27816918,USA,NC,King,75.191.137.100,14,line13,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_13.jpg
+542475957,9/6/2014 00:51:07,1380255780,9/6/2014 00:50:19,clixsense,1.0,13959386,USA,CA,Sylmar,98.154.225.168,16,line13,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_13.jpg
+542475957,9/6/2014 01:09:41,1380279318,9/6/2014 01:08:50,instagc,1.0,28240756,USA,PA,West Chester,96.227.220.64,16,line13,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_13.jpg
+542475958,9/5/2014 21:46:47,1379981308,9/5/2014 21:45:00,eup_slw,1.0,18571337,USA,IL,Chicago,24.1.163.235,28,line14,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_14.jpg
+542475958,9/5/2014 21:46:56,1379981460,9/5/2014 21:43:09,neodev,1.0,22098386,USA,NY,Greenwich,67.248.253.125,30,line14,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_14.jpg
+542475958,9/5/2014 21:52:52,1379987685,9/5/2014 21:51:45,tremorgames,1.0,28273588,USA,CA,Salinas,99.162.70.178,25,line14,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_14.jpg
+542475958,9/5/2014 22:04:16,1380003458,9/5/2014 21:59:07,points4rewards,1.0,28703583,USA,"","",97.73.91.62,58,line14,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_14.jpg
+542475958,9/5/2014 22:17:33,1380022376,9/5/2014 22:17:08,meprizescf,1.0,28483210,USA,"","",75.143.134.247,32,line14,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_14.jpg
+542475958,9/5/2014 22:23:37,1380031411,9/5/2014 22:23:05,bitcoinget,1.0,27316326,USA,NY,Hicksville,47.18.83.100,17,line14,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_14.jpg
+542475958,9/5/2014 22:27:28,1380037283,9/5/2014 22:25:50,instagc,1.0,19378092,USA,PA,Reading,174.55.181.238,54,line14,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_14.jpg
+542475958,9/5/2014 22:29:47,1380040850,9/5/2014 22:28:59,instagc,1.0,13864884,USA,AZ,Gilbert,184.98.144.82,47,line14,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_14.jpg
+542475958,9/5/2014 22:35:12,1380049800,9/5/2014 22:33:53,prodege,1.0,13626624,USA,NY,Newburgh,69.206.155.224,30,line14,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_14.jpg
+542475958,9/5/2014 22:44:23,1380064319,9/5/2014 22:42:32,clixsense,1.0,6472283,USA,WI,Oak Creek,99.107.184.156,34,line14,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_14.jpg
+542475958,9/5/2014 22:45:06,1380065601,9/5/2014 22:43:13,neodev,1.0,28642601,,,"",162.223.93.195,60,line14,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_14.jpg
+542475958,9/5/2014 22:52:53,1380078773,9/5/2014 22:49:14,instagc,1.0,13900808,USA,FL,Alachua,174.131.95.198,55,line14,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_14.jpg
+542475958,9/5/2014 23:16:11,1380116202,9/5/2014 23:14:37,instagc,1.0,19636746,USA,NY,Andover,192.182.218.78,30,line14,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_14.jpg
+542475958,9/5/2014 23:23:15,1380126071,9/5/2014 23:21:53,clixsense,1.0,7274297,USA,"","",162.207.234.89,57,line14,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_14.jpg
+542475958,9/5/2014 23:50:28,1380165730,9/5/2014 23:48:57,clixsense,1.0,6340330,USA,NY,Fort Plain,67.248.115.74,26,line14,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_14.jpg
+542475958,9/5/2014 23:52:59,1380169330,9/5/2014 23:49:48,tremorgames,1.0,28564242,USA,CA,San Francisco,67.116.255.79,55,line14,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_14.jpg
+542475958,9/6/2014 00:41:27,1380242212,9/6/2014 00:37:32,gptking,1.0,27816918,USA,NC,King,75.191.137.100,35,line14,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_14.jpg
+542475958,9/6/2014 00:48:41,1380252563,9/6/2014 00:47:23,clixsense,1.0,13959386,USA,CA,Sylmar,98.154.225.168,45,line14,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_14.jpg
+542475958,9/6/2014 01:09:41,1380279306,9/6/2014 01:08:50,instagc,1.0,28240756,USA,PA,West Chester,96.227.220.64,70,line14,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_14.jpg
+542475958,9/6/2014 01:16:52,1380288386,9/6/2014 01:15:58,neodev,1.0,25638993,USA,FL,Miami,108.76.254.42,34,line14,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_14.jpg
+542475959,9/5/2014 21:46:47,1379981315,9/5/2014 21:45:00,eup_slw,1.0,18571337,USA,IL,Chicago,24.1.163.235,17,line15,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_15.jpg
+542475959,9/5/2014 21:52:16,1379986952,9/5/2014 21:49:45,neodev,1.0,22098386,USA,NY,Greenwich,67.248.253.125,16,line15,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_15.jpg
+542475959,9/5/2014 22:08:19,1380009055,9/5/2014 22:04:22,points4rewards,1.0,28703583,USA,"","",97.73.91.62,17,line15,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_15.jpg
+542475959,9/5/2014 22:16:24,1380020659,9/5/2014 22:15:35,meprizescf,1.0,28483210,USA,"","",75.143.134.247,16,line15,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_15.jpg
+542475959,9/5/2014 22:18:49,1380024121,9/5/2014 22:17:06,instagc,1.0,19636746,USA,NY,Andover,192.182.218.78,14,line15,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_15.jpg
+542475959,9/5/2014 22:24:23,1380032412,9/5/2014 22:23:39,bitcoinget,1.0,27316326,USA,NY,Hicksville,47.18.83.100,15,line15,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_15.jpg
+542475959,9/5/2014 22:27:39,1380037555,9/5/2014 22:26:28,instagc,1.0,13864884,USA,AZ,Gilbert,184.98.144.82,17,line15,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_15.jpg
+542475959,9/5/2014 22:31:15,1380043394,9/5/2014 22:30:05,prodege,1.0,13626624,USA,NY,Newburgh,69.206.155.224,16,line15,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_15.jpg
+542475959,9/5/2014 22:45:36,1380066593,9/5/2014 22:44:24,clixsense,1.0,6472283,USA,WI,Oak Creek,99.107.184.156,16,line15,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_15.jpg
+542475959,9/5/2014 22:49:12,1380072486,9/5/2014 22:40:27,instagc,1.0,13900808,USA,FL,Alachua,174.131.95.198,16,line15,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_15.jpg
+542475959,9/5/2014 22:50:15,1380074100,9/5/2014 22:47:43,neodev,1.0,28642601,,,"",162.223.93.195,17,line15,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_15.jpg
+542475959,9/5/2014 23:22:06,1380124470,9/5/2014 23:20:57,eup_slw,1.0,18329415,USA,PA,Folcroft,64.121.230.236,15,line15,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_15.jpg
+542475959,9/5/2014 23:26:03,1380130076,9/5/2014 23:24:28,clixsense,1.0,7274297,USA,"","",162.207.234.89,18,line15,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_15.jpg
+542475959,9/5/2014 23:48:56,1380163137,9/5/2014 23:47:33,clixsense,1.0,6340330,USA,NY,Fort Plain,67.248.115.74,16,line15,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_15.jpg
+542475959,9/5/2014 23:52:59,1380169341,9/5/2014 23:49:48,tremorgames,1.0,28564242,USA,CA,San Francisco,67.116.255.79,17,line15,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_15.jpg
+542475959,9/6/2014 00:37:31,1380236714,9/6/2014 00:35:09,gptking,1.0,27816918,USA,NC,King,75.191.137.100,16,line15,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_15.jpg
+542475959,9/6/2014 00:48:41,1380252568,9/6/2014 00:47:23,clixsense,1.0,13959386,USA,CA,Sylmar,98.154.225.168,17,line15,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_15.jpg
+542475959,9/6/2014 01:05:21,1380273784,9/6/2014 01:03:55,neodev,1.0,25638993,USA,FL,Miami,108.76.254.42,17,line15,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_15.jpg
+542475959,9/6/2014 01:06:26,1380275211,9/6/2014 01:05:24,instagc,1.0,28240756,USA,PA,West Chester,96.227.220.64,17,line15,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_15.jpg
+542475959,9/6/2014 01:21:40,1380294532,9/6/2014 01:20:20,instagc,1.0,29240431,USA,WV,Charleston,184.14.50.12,16,line15,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_15.jpg
+542475960,9/5/2014 21:43:07,1379976952,9/5/2014 21:41:05,neodev,1.0,22098386,USA,NY,Greenwich,67.248.253.125,8,line16,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_16.jpg
+542475960,9/5/2014 21:49:09,1379983706,9/5/2014 21:48:01,eup_slw,1.0,18571337,USA,IL,Chicago,24.1.163.235,8,line16,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_16.jpg
+542475960,9/5/2014 22:08:19,1380009046,9/5/2014 22:04:22,points4rewards,1.0,28703583,USA,"","",97.73.91.62,8,line16,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_16.jpg
+542475960,9/5/2014 22:15:34,1380019472,9/5/2014 22:14:30,meprizescf,1.0,28483210,USA,"","",75.143.134.247,8,line16,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_16.jpg
+542475960,9/5/2014 22:23:03,1380030411,9/5/2014 22:22:26,bitcoinget,1.0,27316326,USA,NY,Hicksville,47.18.83.100,8,line16,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_16.jpg
+542475960,9/5/2014 22:28:57,1380039571,9/5/2014 22:27:41,instagc,1.0,13864884,USA,AZ,Gilbert,184.98.144.82,8,line16,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_16.jpg
+542475960,9/5/2014 22:33:51,1380047438,9/5/2014 22:32:32,prodege,1.0,13626624,USA,NY,Newburgh,69.206.155.224,7,line16,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_16.jpg
+542475960,9/5/2014 22:37:57,1380053825,9/5/2014 22:35:53,instagc,1.0,13900808,USA,FL,Alachua,174.131.95.198,8,line16,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_16.jpg
+542475960,9/5/2014 22:48:43,1380071752,9/5/2014 22:47:43,clixsense,1.0,6472283,USA,WI,Oak Creek,99.107.184.156,8,line16,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_16.jpg
+542475960,9/5/2014 22:50:15,1380074111,9/5/2014 22:47:43,neodev,1.0,28642601,,,"",162.223.93.195,8,line16,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_16.jpg
+542475960,9/5/2014 23:16:11,1380116204,9/5/2014 23:14:37,instagc,1.0,19636746,USA,NY,Andover,192.182.218.78,8,line16,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_16.jpg
+542475960,9/5/2014 23:23:15,1380126073,9/5/2014 23:21:53,clixsense,1.0,7274297,USA,"","",162.207.234.89,8,line16,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_16.jpg
+542475960,9/5/2014 23:51:12,1380166791,9/5/2014 23:50:30,clixsense,1.0,6340330,USA,NY,Fort Plain,67.248.115.74,8,line16,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_16.jpg
+542475960,9/5/2014 23:54:14,1380171070,9/5/2014 23:53:01,tremorgames,1.0,28564242,USA,CA,San Francisco,67.116.255.79,8,line16,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_16.jpg
+542475960,9/6/2014 00:45:42,1380248569,9/6/2014 00:43:51,gptking,1.0,27816918,USA,NC,King,75.191.137.100,8,line16,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_16.jpg
+542475960,9/6/2014 00:50:17,1380254742,9/6/2014 00:49:46,clixsense,1.0,13959386,USA,CA,Sylmar,98.154.225.168,8,line16,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_16.jpg
+542475960,9/6/2014 01:05:23,1380273832,9/6/2014 01:04:03,instagc,1.0,28240756,USA,PA,West Chester,96.227.220.64,8,line16,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_16.jpg
+542475960,9/6/2014 01:15:33,1380286677,9/6/2014 01:13:53,instagc,1.0,22501383,USA,MO,Lone Jack,71.1.125.187,8,line16,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_16.jpg
+542475960,9/6/2014 01:16:52,1380288388,9/6/2014 01:15:58,neodev,1.0,25638993,USA,FL,Miami,108.76.254.42,8,line16,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_16.jpg
+542475960,9/6/2014 01:17:51,1380289557,9/6/2014 01:17:10,eup_slw,1.0,18329415,USA,PA,Folcroft,64.121.230.236,8,line16,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_16.jpg
+542475961,9/5/2014 21:43:07,1379976959,9/5/2014 21:41:05,neodev,1.0,22098386,USA,NY,Greenwich,67.248.253.125,15,line17,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_17.jpg
+542475961,9/5/2014 21:50:20,1379984868,9/5/2014 21:49:11,eup_slw,1.0,18571337,USA,IL,Chicago,24.1.163.235,16,line17,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_17.jpg
+542475961,9/5/2014 21:52:52,1379987690,9/5/2014 21:51:45,tremorgames,1.0,28273588,USA,CA,Salinas,99.162.70.178,16,line17,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_17.jpg
+542475961,9/5/2014 22:11:19,1380013006,9/5/2014 22:08:24,points4rewards,1.0,28703583,USA,"","",97.73.91.62,17,line17,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_17.jpg
+542475961,9/5/2014 22:17:06,1380021728,9/5/2014 22:16:25,meprizescf,1.0,28483210,USA,"","",75.143.134.247,16,line17,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_17.jpg
+542475961,9/5/2014 22:20:58,1380027309,9/5/2014 22:18:51,instagc,1.0,19636746,USA,NY,Andover,192.182.218.78,15,line17,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_17.jpg
+542475961,9/5/2014 22:23:03,1380030401,9/5/2014 22:22:26,bitcoinget,1.0,27316326,USA,NY,Hicksville,47.18.83.100,16,line17,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_17.jpg
+542475961,9/5/2014 22:27:39,1380037553,9/5/2014 22:26:28,instagc,1.0,13864884,USA,AZ,Gilbert,184.98.144.82,16,line17,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_17.jpg
+542475961,9/5/2014 22:33:51,1380047436,9/5/2014 22:32:32,prodege,1.0,13626624,USA,NY,Newburgh,69.206.155.224,16,line17,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_17.jpg
+542475961,9/5/2014 22:35:51,1380050686,9/5/2014 22:33:24,instagc,1.0,13900808,USA,FL,Alachua,174.131.95.198,16,line17,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_17.jpg
+542475961,9/5/2014 22:44:23,1380064315,9/5/2014 22:42:32,clixsense,1.0,6472283,USA,WI,Oak Creek,99.107.184.156,15,line17,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_17.jpg
+542475961,9/5/2014 22:47:39,1380070111,9/5/2014 22:45:10,neodev,1.0,28642601,,,"",162.223.93.195,17,line17,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_17.jpg
+542475961,9/5/2014 23:20:56,1380122816,9/5/2014 22:56:24,eup_slw,1.0,18329415,USA,PA,Folcroft,64.121.230.236,18,line17,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_17.jpg
+542475961,9/5/2014 23:52:52,1380169164,9/5/2014 23:51:14,clixsense,1.0,6340330,USA,NY,Fort Plain,67.248.115.74,15,line17,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_17.jpg
+542475961,9/6/2014 00:02:06,1380182837,9/6/2014 00:00:37,tremorgames,1.0,28564242,USA,CA,San Francisco,67.116.255.79,18,line17,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_17.jpg
+542475961,9/6/2014 00:41:27,1380242214,9/6/2014 00:37:32,gptking,1.0,27816918,USA,NC,King,75.191.137.100,15,line17,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_17.jpg
+542475961,9/6/2014 00:51:07,1380255783,9/6/2014 00:50:19,clixsense,1.0,13959386,USA,CA,Sylmar,98.154.225.168,16,line17,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_17.jpg
+542475961,9/6/2014 01:05:21,1380273786,9/6/2014 01:03:55,neodev,1.0,25638993,USA,FL,Miami,108.76.254.42,17,line17,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_17.jpg
+542475961,9/6/2014 01:06:26,1380275219,9/6/2014 01:05:24,instagc,1.0,28240756,USA,PA,West Chester,96.227.220.64,17,line17,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_17.jpg
+542475961,9/6/2014 01:31:04,1380306720,9/6/2014 01:15:35,instagc,1.0,22501383,USA,MO,Lone Jack,71.1.125.187,17,line17,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_17.jpg
+542475962,9/5/2014 21:47:59,1379982556,9/5/2014 21:46:48,eup_slw,1.0,18571337,USA,IL,Chicago,24.1.163.235,25,line18,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_18.jpg
+542475962,9/5/2014 21:52:16,1379986957,9/5/2014 21:49:45,neodev,1.0,22098386,USA,NY,Greenwich,67.248.253.125,30,line18,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_18.jpg
+542475962,9/5/2014 21:53:45,1379988583,9/5/2014 21:52:53,tremorgames,1.0,28273588,USA,CA,Salinas,99.162.70.178,24,line18,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_18.jpg
+542475962,9/5/2014 22:11:19,1380013014,9/5/2014 22:08:24,points4rewards,1.0,28703583,USA,"","",97.73.91.62,25,line18,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_18.jpg
+542475962,9/5/2014 22:15:34,1380019467,9/5/2014 22:14:30,meprizescf,1.0,28483210,USA,"","",75.143.134.247,23,line18,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_18.jpg
+542475962,9/5/2014 22:20:58,1380027313,9/5/2014 22:18:51,instagc,1.0,19636746,USA,NY,Andover,192.182.218.78,25,line18,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_18.jpg
+542475962,9/5/2014 22:23:03,1380030403,9/5/2014 22:22:26,bitcoinget,1.0,27316326,USA,NY,Hicksville,47.18.83.100,15,line18,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_18.jpg
+542475962,9/5/2014 22:27:39,1380037556,9/5/2014 22:26:28,instagc,1.0,13864884,USA,AZ,Gilbert,184.98.144.82,25,line18,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_18.jpg
+542475962,9/5/2014 22:32:30,1380045345,9/5/2014 22:31:18,prodege,1.0,13626624,USA,NY,Newburgh,69.206.155.224,23,line18,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_18.jpg
+542475962,9/5/2014 22:45:06,1380065606,9/5/2014 22:43:13,neodev,1.0,28642601,,,"",162.223.93.195,27,line18,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_18.jpg
+542475962,9/5/2014 22:45:36,1380066592,9/5/2014 22:44:24,clixsense,1.0,6472283,USA,WI,Oak Creek,99.107.184.156,23,line18,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_18.jpg
+542475962,9/5/2014 22:49:12,1380072497,9/5/2014 22:40:27,instagc,1.0,13900808,USA,FL,Alachua,174.131.95.198,25,line18,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_18.jpg
+542475962,9/5/2014 23:24:27,1380127857,9/5/2014 23:23:20,clixsense,1.0,7274297,USA,"","",162.207.234.89,25,line18,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_18.jpg
+542475962,9/5/2014 23:50:28,1380165722,9/5/2014 23:48:57,clixsense,1.0,6340330,USA,NY,Fort Plain,67.248.115.74,25,line18,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_18.jpg
+542475962,9/5/2014 23:52:59,1380169334,9/5/2014 23:49:48,tremorgames,1.0,28564242,USA,CA,San Francisco,67.116.255.79,25,line18,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_18.jpg
+542475962,9/6/2014 00:37:31,1380236713,9/6/2014 00:35:09,gptking,1.0,27816918,USA,NC,King,75.191.137.100,23,line18,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_18.jpg
+542475962,9/6/2014 00:49:44,1380253894,9/6/2014 00:48:44,clixsense,1.0,13959386,USA,CA,Sylmar,98.154.225.168,25,line18,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_18.jpg
+542475962,9/6/2014 01:08:49,1380278251,9/6/2014 01:06:27,instagc,1.0,28240756,USA,PA,West Chester,96.227.220.64,30,line18,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_18.jpg
+542475962,9/6/2014 01:15:33,1380286678,9/6/2014 01:13:53,instagc,1.0,22501383,USA,MO,Lone Jack,71.1.125.187,24,line18,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_18.jpg
+542475962,9/6/2014 01:17:16,1380288882,9/6/2014 01:16:53,neodev,1.0,25638993,USA,FL,Miami,108.76.254.42,22,line18,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_18.jpg
+542475963,9/5/2014 21:49:44,1379984255,9/5/2014 21:46:57,neodev,1.0,22098386,USA,NY,Greenwich,67.248.253.125,10,line19,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_19.jpg
+542475963,9/5/2014 21:50:20,1379984869,9/5/2014 21:49:11,eup_slw,1.0,18571337,USA,IL,Chicago,24.1.163.235,10,line19,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_19.jpg
+542475963,9/5/2014 21:52:52,1379987678,9/5/2014 21:51:45,tremorgames,1.0,28273588,USA,CA,Salinas,99.162.70.178,9,line19,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_19.jpg
+542475963,9/5/2014 21:56:49,1379992870,9/5/2014 21:55:05,points4rewards,1.0,28703583,USA,"","",97.73.91.62,11,line19,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_19.jpg
+542475963,9/5/2014 22:17:33,1380022377,9/5/2014 22:17:08,meprizescf,1.0,28483210,USA,"","",75.143.134.247,10,line19,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_19.jpg
+542475963,9/5/2014 22:20:58,1380027315,9/5/2014 22:18:51,instagc,1.0,19636746,USA,NY,Andover,192.182.218.78,10,line19,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_19.jpg
+542475963,9/5/2014 22:23:37,1380031416,9/5/2014 22:23:05,bitcoinget,1.0,27316326,USA,NY,Hicksville,47.18.83.100,10,line19,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_19.jpg
+542475963,9/5/2014 22:27:28,1380037282,9/5/2014 22:25:50,instagc,1.0,19378092,USA,PA,Reading,174.55.181.238,10,line19,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_19.jpg
+542475963,9/5/2014 22:29:47,1380040840,9/5/2014 22:28:59,instagc,1.0,13864884,USA,AZ,Gilbert,184.98.144.82,11,line19,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_19.jpg
+542475963,9/5/2014 22:31:15,1380043397,9/5/2014 22:30:05,prodege,1.0,13626624,USA,NY,Newburgh,69.206.155.224,10,line19,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_19.jpg
+542475963,9/5/2014 22:35:51,1380050714,9/5/2014 22:33:24,instagc,1.0,13900808,USA,FL,Alachua,174.131.95.198,10,line19,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_19.jpg
+542475963,9/5/2014 22:43:09,1380062027,9/5/2014 22:39:18,neodev,1.0,28642601,,,"",162.223.93.195,9,line19,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_19.jpg
+542475963,9/5/2014 22:48:43,1380071762,9/5/2014 22:47:43,clixsense,1.0,6472283,USA,WI,Oak Creek,99.107.184.156,11,line19,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_19.jpg
+542475963,9/5/2014 22:56:22,1380085300,9/5/2014 22:55:09,eup_slw,1.0,18329415,USA,PA,Folcroft,64.121.230.236,10,line19,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_19.jpg
+542475963,9/5/2014 23:24:27,1380127860,9/5/2014 23:23:20,clixsense,1.0,7274297,USA,"","",162.207.234.89,10,line19,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_19.jpg
+542475963,9/5/2014 23:48:56,1380163145,9/5/2014 23:47:33,clixsense,1.0,6340330,USA,NY,Fort Plain,67.248.115.74,10,line19,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_19.jpg
+542475963,9/6/2014 00:00:35,1380180619,9/5/2014 23:54:15,tremorgames,1.0,28564242,USA,CA,San Francisco,67.116.255.79,10,line19,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_19.jpg
+542475963,9/6/2014 00:37:31,1380236728,9/6/2014 00:35:09,gptking,1.0,27816918,USA,NC,King,75.191.137.100,10,line19,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_19.jpg
+542475963,9/6/2014 00:51:07,1380255786,9/6/2014 00:50:19,clixsense,1.0,13959386,USA,CA,Sylmar,98.154.225.168,10,line19,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_19.jpg
+542475963,9/6/2014 01:08:49,1380278250,9/6/2014 01:06:27,instagc,1.0,28240756,USA,PA,West Chester,96.227.220.64,11,line19,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_19.jpg
+542475964,9/5/2014 21:50:20,1379984867,9/5/2014 21:49:11,eup_slw,1.0,18571337,USA,IL,Chicago,24.1.163.235,9,line20,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_20.jpg
+542475964,9/5/2014 21:52:16,1379986956,9/5/2014 21:49:45,neodev,1.0,22098386,USA,NY,Greenwich,67.248.253.125,9,line20,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_20.jpg
+542475964,9/5/2014 21:53:45,1379988580,9/5/2014 21:52:53,tremorgames,1.0,28273588,USA,CA,Salinas,99.162.70.178,9,line20,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_20.jpg
+542475964,9/5/2014 21:56:49,1379992871,9/5/2014 21:55:05,points4rewards,1.0,28703583,USA,"","",97.73.91.62,9,line20,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_20.jpg
+542475964,9/5/2014 22:17:06,1380021715,9/5/2014 22:16:25,meprizescf,1.0,28483210,USA,"","",75.143.134.247,9,line20,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_20.jpg
+542475964,9/5/2014 22:23:37,1380031415,9/5/2014 22:23:05,bitcoinget,1.0,27316326,USA,NY,Hicksville,47.18.83.100,9,line20,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_20.jpg
+542475964,9/5/2014 22:28:57,1380039574,9/5/2014 22:27:41,instagc,1.0,13864884,USA,AZ,Gilbert,184.98.144.82,9,line20,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_20.jpg
+542475964,9/5/2014 22:33:51,1380047437,9/5/2014 22:32:32,prodege,1.0,13626624,USA,NY,Newburgh,69.206.155.224,9,line20,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_20.jpg
+542475964,9/5/2014 22:37:57,1380053842,9/5/2014 22:35:53,instagc,1.0,13900808,USA,FL,Alachua,174.131.95.198,9,line20,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_20.jpg
+542475964,9/5/2014 22:47:43,1380070219,9/5/2014 22:45:37,clixsense,1.0,6472283,USA,WI,Oak Creek,99.107.184.156,9,line20,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_20.jpg
+542475964,9/5/2014 22:50:15,1380074114,9/5/2014 22:47:43,neodev,1.0,28642601,,,"",162.223.93.195,9,line20,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_20.jpg
+542475964,9/5/2014 23:17:16,1380117522,9/5/2014 23:16:13,instagc,1.0,19636746,USA,NY,Andover,192.182.218.78,9,line20,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_20.jpg
+542475964,9/5/2014 23:22:06,1380124466,9/5/2014 23:20:57,eup_slw,1.0,18329415,USA,PA,Folcroft,64.121.230.236,9,line20,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_20.jpg
+542475964,9/5/2014 23:51:12,1380166788,9/5/2014 23:50:30,clixsense,1.0,6340330,USA,NY,Fort Plain,67.248.115.74,9,line20,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_20.jpg
+542475964,9/6/2014 00:02:06,1380182834,9/6/2014 00:00:37,tremorgames,1.0,28564242,USA,CA,San Francisco,67.116.255.79,9,line20,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_20.jpg
+542475964,9/6/2014 00:45:42,1380248574,9/6/2014 00:43:51,gptking,1.0,27816918,USA,NC,King,75.191.137.100,9,line20,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_20.jpg
+542475964,9/6/2014 00:51:07,1380255785,9/6/2014 00:50:19,clixsense,1.0,13959386,USA,CA,Sylmar,98.154.225.168,9,line20,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_20.jpg
+542475964,9/6/2014 01:08:49,1380278248,9/6/2014 01:06:27,instagc,1.0,28240756,USA,PA,West Chester,96.227.220.64,9,line20,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_20.jpg
+542475964,9/6/2014 01:15:33,1380286680,9/6/2014 01:13:53,instagc,1.0,22501383,USA,MO,Lone Jack,71.1.125.187,9,line20,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_20.jpg
+542475964,9/6/2014 01:16:52,1380288382,9/6/2014 01:15:58,neodev,1.0,25638993,USA,FL,Miami,108.76.254.42,9,line20,https://dl.dropboxusercontent.com/u/82816032/img_line2/line_20.jpg

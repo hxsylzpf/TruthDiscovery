@@ -1,0 +1,101 @@
+_unit_id,_created_at,_canary,_id,_started_at,_channel,_trust,_worker_id,_country,_region,_city,_ip,how_long_is_the_line,how_long_is_the_waiting_time,id,image_url
+460399037,5/8/2014 23:43:43,,1262253097,5/8/2014 23:43:01,bitcoinget,1,21678835,USA,KY,Ashland,69.23.50.160,medium line,twenty minutes,line01,https://dl.dropboxusercontent.com/u/82816032/img_tasks/line_01.jpg
+460399037,5/9/2014 00:12:15,,1262270077,5/9/2014 00:12:01,instagc,1,19378092,USA,PA,Reading,174.55.181.238,25,40,line01,https://dl.dropboxusercontent.com/u/82816032/img_tasks/line_01.jpg
+460399037,5/9/2014 00:15:07,,1262271810,5/9/2014 00:14:56,gptking,1,22893964,USA,IL,West Frankfort,173.25.210.76,long,long,line01,https://dl.dropboxusercontent.com/u/82816032/img_tasks/line_01.jpg
+460399037,5/9/2014 00:19:20,,1262274453,5/9/2014 00:19:05,zoombucks,1,5919735,USA,PA,Lansdale,96.245.83.248,very long,very long,line01,https://dl.dropboxusercontent.com/u/82816032/img_tasks/line_01.jpg
+460399037,5/9/2014 00:28:17,,1262280300,5/9/2014 00:27:36,cashcrate,1,22084320,USA,TX,Devine,108.218.193.27,medium,one hour,line01,https://dl.dropboxusercontent.com/u/82816032/img_tasks/line_01.jpg
+460399037,5/9/2014 00:40:28,,1262287817,5/9/2014 00:40:14,instagc,1,25569616,USA,OR,Coos Bay,71.94.239.74,medium,20 minutes,line01,https://dl.dropboxusercontent.com/u/82816032/img_tasks/line_01.jpg
+460399037,5/9/2014 00:42:29,,1262289081,5/9/2014 00:42:17,instagc,1,17935654,USA,OR,Portland,98.246.193.140,long,1 hour,line01,https://dl.dropboxusercontent.com/u/82816032/img_tasks/line_01.jpg
+460399037,5/9/2014 01:15:59,,1262308177,5/9/2014 01:15:26,clixsense,1,6488338,USA,CA,San Diego,24.165.13.234,22 plus more in front and back,1 hour,line01,https://dl.dropboxusercontent.com/u/82816032/img_tasks/line_01.jpg
+460399037,5/9/2014 01:32:33,,1262317262,5/9/2014 01:31:34,neodev,1,17484496,USA,AZ,Tempe,184.95.55.22,Ver long,NA,line01,https://dl.dropboxusercontent.com/u/82816032/img_tasks/line_01.jpg
+460399037,5/9/2014 02:15:15,,1262340535,5/9/2014 02:15:06,eup_slw,1,17973743,USA,,,50.182.204.196,long as hell,long as hell,line01,https://dl.dropboxusercontent.com/u/82816032/img_tasks/line_01.jpg
+460399038,5/9/2014 00:05:19,,1262265742,5/9/2014 00:04:08,eup_slw,1,18329415,USA,PA,Folcroft,64.121.230.236,average,15 minutes,line02,https://dl.dropboxusercontent.com/u/82816032/img_tasks/line_02.jpg
+460399038,5/9/2014 00:12:01,,1262269934,5/9/2014 00:11:26,instagc,1,19378092,USA,PA,Reading,174.55.181.238,15,15,line02,https://dl.dropboxusercontent.com/u/82816032/img_tasks/line_02.jpg
+460399038,5/9/2014 00:14:23,,1262271412,5/9/2014 00:11:05,gptking,1,22893964,USA,IL,West Frankfort,173.25.210.76,long,long,line02,https://dl.dropboxusercontent.com/u/82816032/img_tasks/line_02.jpg
+460399038,5/9/2014 00:20:25,,1262275166,5/9/2014 00:19:51,zoombucks,1,5919735,USA,PA,Lansdale,96.245.83.248,very long,very long,line02,https://dl.dropboxusercontent.com/u/82816032/img_tasks/line_02.jpg
+460399038,5/9/2014 00:29:30,,1262281149,5/9/2014 00:29:05,cashcrate,1,22084320,USA,TX,Devine,108.218.193.27,medium,30 minutes,line02,https://dl.dropboxusercontent.com/u/82816032/img_tasks/line_02.jpg
+460399038,5/9/2014 00:35:16,,1262284878,5/9/2014 00:34:58,bitcoinget,1,21678835,USA,KY,Ashland,69.23.50.160,long,ten minutes,line02,https://dl.dropboxusercontent.com/u/82816032/img_tasks/line_02.jpg
+460399038,5/9/2014 00:40:42,,1262287967,5/9/2014 00:40:28,instagc,1,25569616,USA,OR,Coos Bay,71.94.239.74,medium,10 minutes,line02,https://dl.dropboxusercontent.com/u/82816032/img_tasks/line_02.jpg
+460399038,5/9/2014 00:43:09,,1262289465,5/9/2014 00:42:30,instagc,1,17935654,USA,OR,Portland,98.246.193.140,7-8 people,7-10 minutes,line02,https://dl.dropboxusercontent.com/u/82816032/img_tasks/line_02.jpg
+460399038,5/9/2014 00:46:24,,1262291300,5/9/2014 00:45:23,neodev,1,26166288,USA,CA,Fremont,64.71.142.219,7 people,30 minutes,line02,https://dl.dropboxusercontent.com/u/82816032/img_tasks/line_02.jpg
+460399038,5/9/2014 01:17:40,,1262309071,5/9/2014 01:15:59,clixsense,1,6488338,USA,CA,San Diego,24.165.13.234,21 visible people divided equally between three lines,10 to 15 minutes,line02,https://dl.dropboxusercontent.com/u/82816032/img_tasks/line_02.jpg
+460399039,5/8/2014 23:43:43,,1262253098,5/8/2014 23:43:01,bitcoinget,1,21678835,USA,KY,Ashland,69.23.50.160,very long,probably an hour,line03,https://dl.dropboxusercontent.com/u/82816032/img_tasks/line_03.jpg
+460399039,5/9/2014 00:05:32,,1262265883,5/9/2014 00:05:21,clixsense,1,7274297,USA,,,162.207.234.89,50+ people,20 minutes,line03,https://dl.dropboxusercontent.com/u/82816032/img_tasks/line_03.jpg
+460399039,5/9/2014 00:14:42,,1262271602,5/9/2014 00:14:23,gptking,1,22893964,USA,IL,West Frankfort,173.25.210.76,long,long,line03,https://dl.dropboxusercontent.com/u/82816032/img_tasks/line_03.jpg
+460399039,5/9/2014 00:20:45,,1262275369,5/9/2014 00:20:25,zoombucks,1,5919735,USA,PA,Lansdale,96.245.83.248,very long,very long,line03,https://dl.dropboxusercontent.com/u/82816032/img_tasks/line_03.jpg
+460399039,5/9/2014 00:29:05,,1262280812,5/9/2014 00:28:36,cashcrate,1,22084320,USA,TX,Devine,108.218.193.27,long,two hours,line03,https://dl.dropboxusercontent.com/u/82816032/img_tasks/line_03.jpg
+460399039,5/9/2014 00:30:18,,1262281596,5/9/2014 00:29:58,instagc,1,25569616,USA,OR,Coos Bay,71.94.239.74,very,20 minutes,line03,https://dl.dropboxusercontent.com/u/82816032/img_tasks/line_03.jpg
+460399039,5/9/2014 00:42:17,,1262288967,5/9/2014 00:41:46,instagc,1,17935654,USA,OR,Portland,98.246.193.140,long,1 hour,line03,https://dl.dropboxusercontent.com/u/82816032/img_tasks/line_03.jpg
+460399039,5/9/2014 01:15:25,,1262307905,5/9/2014 01:13:48,clixsense,1,6488338,USA,CA,San Diego,24.165.13.234,20 plus more in front,45 minutes,line03,https://dl.dropboxusercontent.com/u/82816032/img_tasks/line_03.jpg
+460399039,5/9/2014 01:33:10,,1262317533,5/9/2014 01:32:34,neodev,1,17484496,USA,AZ,Tempe,184.95.55.22,NA,NA,line03,https://dl.dropboxusercontent.com/u/82816032/img_tasks/line_03.jpg
+460399039,5/9/2014 02:14:50,,1262340310,5/9/2014 02:14:02,eup_slw,1,17973743,USA,,,50.182.204.196,long as hell,long as hell,line03,https://dl.dropboxusercontent.com/u/82816032/img_tasks/line_03.jpg
+460399040,5/9/2014 00:04:49,,1262265393,5/9/2014 00:03:57,clixsense,1,7274297,USA,,,162.207.234.89,10 people,5 minutes,line04,https://dl.dropboxusercontent.com/u/82816032/img_tasks/line_04.jpg
+460399040,5/9/2014 00:15:25,,1262272031,5/9/2014 00:15:07,gptking,1,22893964,USA,IL,West Frankfort,173.25.210.76,nottoolong,nottoolong,line04,https://dl.dropboxusercontent.com/u/82816032/img_tasks/line_04.jpg
+460399040,5/9/2014 00:19:50,,1262274755,5/9/2014 00:19:20,zoombucks,1,5919735,USA,PA,Lansdale,96.245.83.248,9 people,not very long,line04,https://dl.dropboxusercontent.com/u/82816032/img_tasks/line_04.jpg
+460399040,5/9/2014 00:28:35,,1262280498,5/9/2014 00:28:17,cashcrate,1,22084320,USA,TX,Devine,108.218.193.27,short,30 minutes,line04,https://dl.dropboxusercontent.com/u/82816032/img_tasks/line_04.jpg
+460399040,5/9/2014 00:30:39,,1262281842,5/9/2014 00:30:31,instagc,1,25569616,USA,OR,Coos Bay,71.94.239.74,short,5 minutes,line04,https://dl.dropboxusercontent.com/u/82816032/img_tasks/line_04.jpg
+460399040,5/9/2014 00:34:58,,1262284694,5/9/2014 00:34:26,bitcoinget,1,21678835,USA,KY,Ashland,69.23.50.160,short,five minutes,line04,https://dl.dropboxusercontent.com/u/82816032/img_tasks/line_04.jpg
+460399040,5/9/2014 00:41:45,,1262288600,5/9/2014 00:40:50,instagc,1,17935654,USA,OR,Portland,98.246.193.140,10 people,15 minutes,line04,https://dl.dropboxusercontent.com/u/82816032/img_tasks/line_04.jpg
+460399040,5/9/2014 00:46:24,,1262291301,5/9/2014 00:45:23,neodev,1,26166288,USA,CA,Fremont,64.71.142.219,7 people,45 minutes,line04,https://dl.dropboxusercontent.com/u/82816032/img_tasks/line_04.jpg
+460399040,5/9/2014 01:13:48,,1262307077,5/9/2014 01:12:33,clixsense,1,6488338,USA,CA,San Diego,24.165.13.234,10 people,20 minutes,line04,https://dl.dropboxusercontent.com/u/82816032/img_tasks/line_04.jpg
+460399040,5/9/2014 01:33:45,,1262317863,5/9/2014 01:33:31,neodev,1,17484496,USA,AZ,Tempe,184.95.55.22,NA,NA,line04,https://dl.dropboxusercontent.com/u/82816032/img_tasks/line_04.jpg
+460399041,5/9/2014 00:04:49,,1262265387,5/9/2014 00:03:57,clixsense,1,7274297,USA,,,162.207.234.89,100+ People,30 minutes,line05,https://dl.dropboxusercontent.com/u/82816032/img_tasks/line_05.jpg
+460399041,5/9/2014 00:11:26,,1262269545,5/9/2014 00:10:40,instagc,1,19378092,USA,PA,Reading,174.55.181.238,50,2,line05,https://dl.dropboxusercontent.com/u/82816032/img_tasks/line_05.jpg
+460399041,5/9/2014 00:15:25,,1262272030,5/9/2014 00:15:07,gptking,1,22893964,USA,IL,West Frankfort,173.25.210.76,long,long,line05,https://dl.dropboxusercontent.com/u/82816032/img_tasks/line_05.jpg
+460399041,5/9/2014 00:19:05,,1262274306,5/9/2014 00:18:31,zoombucks,1,5919735,USA,PA,Lansdale,96.245.83.248,very long,very long,line05,https://dl.dropboxusercontent.com/u/82816032/img_tasks/line_05.jpg
+460399041,5/9/2014 00:27:35,,1262279880,5/9/2014 00:26:38,cashcrate,1,22084320,USA,TX,Devine,108.218.193.27,very long,2 hours,line05,https://dl.dropboxusercontent.com/u/82816032/img_tasks/line_05.jpg
+460399041,5/9/2014 00:30:30,,1262281742,5/9/2014 00:30:18,instagc,1,25569616,USA,OR,Coos Bay,71.94.239.74,very long,an hour,line05,https://dl.dropboxusercontent.com/u/82816032/img_tasks/line_05.jpg
+460399041,5/9/2014 00:34:26,,1262284464,5/9/2014 00:34:03,bitcoinget,1,21678835,USA,KY,Ashland,69.23.50.160,verylong,hours,line05,https://dl.dropboxusercontent.com/u/82816032/img_tasks/line_05.jpg
+460399041,5/9/2014 00:35:35,,1262285041,5/9/2014 00:28:49,fusioncash,1,10594502,USA,KS,Wichita,99.60.39.16,80,6-8 hours,line05,https://dl.dropboxusercontent.com/u/82816032/img_tasks/line_05.jpg
+460399041,5/9/2014 00:42:17,,1262288966,5/9/2014 00:41:46,instagc,1,17935654,USA,OR,Portland,98.246.193.140,long,1 and a half hours,line05,https://dl.dropboxusercontent.com/u/82816032/img_tasks/line_05.jpg
+460399041,5/9/2014 01:33:45,,1262317862,5/9/2014 01:33:31,neodev,1,17484496,USA,AZ,Tempe,184.95.55.22,NA,NA,line05,https://dl.dropboxusercontent.com/u/82816032/img_tasks/line_05.jpg
+460399042,5/8/2014 23:44:09,,1262253295,5/8/2014 23:43:43,bitcoinget,1,21678835,USA,KY,Ashland,69.23.50.160,short,ten minutes,line06,https://dl.dropboxusercontent.com/u/82816032/img_tasks/line_06.jpg
+460399042,5/9/2014 00:14:42,,1262271597,5/9/2014 00:14:23,gptking,1,22893964,USA,IL,West Frankfort,173.25.210.76,nottoolong,nottoolong,line06,https://dl.dropboxusercontent.com/u/82816032/img_tasks/line_06.jpg
+460399042,5/9/2014 00:20:25,,1262275165,5/9/2014 00:19:51,zoombucks,1,5919735,USA,PA,Lansdale,96.245.83.248,5,10 min,line06,https://dl.dropboxusercontent.com/u/82816032/img_tasks/line_06.jpg
+460399042,5/9/2014 00:29:49,,1262281341,5/9/2014 00:29:30,cashcrate,1,22084320,USA,TX,Devine,108.218.193.27,short,15 minutes,line06,https://dl.dropboxusercontent.com/u/82816032/img_tasks/line_06.jpg
+460399042,5/9/2014 00:40:42,,1262287970,5/9/2014 00:40:28,instagc,1,25569616,USA,OR,Coos Bay,71.94.239.74,short,10 minutes,line06,https://dl.dropboxusercontent.com/u/82816032/img_tasks/line_06.jpg
+460399042,5/9/2014 00:43:38,,1262289777,5/9/2014 00:43:10,instagc,1,17935654,USA,OR,Portland,98.246.193.140,6 people,5-10 minutes,line06,https://dl.dropboxusercontent.com/u/82816032/img_tasks/line_06.jpg
+460399042,5/9/2014 01:17:40,,1262309074,5/9/2014 01:15:59,clixsense,1,6488338,USA,CA,San Diego,24.165.13.234,5 people waiting to be cashed out,10 minutes,line06,https://dl.dropboxusercontent.com/u/82816032/img_tasks/line_06.jpg
+460399042,5/9/2014 01:33:31,,1262317736,5/9/2014 01:33:20,neodev,1,17484496,USA,AZ,Tempe,184.95.55.22,NA,NA,line06,https://dl.dropboxusercontent.com/u/82816032/img_tasks/line_06.jpg
+460399042,5/9/2014 02:15:06,,1262340442,5/9/2014 02:14:50,eup_slw,1,17973743,USA,,,50.182.204.196,long as hell,long as hell,line06,https://dl.dropboxusercontent.com/u/82816032/img_tasks/line_06.jpg
+460399042,5/9/2014 02:18:50,,1262342370,5/9/2014 02:18:25,eup_slw,1,26634265,USA,,,23.112.146.185,6 people long,10 minutes,line06,https://dl.dropboxusercontent.com/u/82816032/img_tasks/line_06.jpg
+460399043,5/8/2014 23:44:09,,1262253291,5/8/2014 23:43:43,bitcoinget,1,21678835,USA,KY,Ashland,69.23.50.160,long line,twenty minutes,line07,https://dl.dropboxusercontent.com/u/82816032/img_tasks/line_07.jpg
+460399043,5/9/2014 00:11:26,,1262269544,5/9/2014 00:10:40,instagc,1,19378092,USA,PA,Reading,174.55.181.238,20,30,line07,https://dl.dropboxusercontent.com/u/82816032/img_tasks/line_07.jpg
+460399043,5/9/2014 00:14:55,,1262271729,5/9/2014 00:14:43,gptking,1,22893964,USA,IL,West Frankfort,173.25.210.76,long,long,line07,https://dl.dropboxusercontent.com/u/82816032/img_tasks/line_07.jpg
+460399043,5/9/2014 00:19:05,,1262274298,5/9/2014 00:18:31,zoombucks,1,5919735,USA,PA,Lansdale,96.245.83.248,very long,very long,line07,https://dl.dropboxusercontent.com/u/82816032/img_tasks/line_07.jpg
+460399043,5/9/2014 00:28:17,,1262280301,5/9/2014 00:27:36,cashcrate,1,22084320,USA,TX,Devine,108.218.193.27,long,2 hours,line07,https://dl.dropboxusercontent.com/u/82816032/img_tasks/line_07.jpg
+460399043,5/9/2014 00:40:28,,1262287818,5/9/2014 00:40:14,instagc,1,25569616,USA,OR,Coos Bay,71.94.239.74,long,20 minutes,line07,https://dl.dropboxusercontent.com/u/82816032/img_tasks/line_07.jpg
+460399043,5/9/2014 00:43:53,,1262289865,5/9/2014 00:43:39,instagc,1,17935654,USA,OR,Portland,98.246.193.140,long,30 minutes,line07,https://dl.dropboxusercontent.com/u/82816032/img_tasks/line_07.jpg
+460399043,5/9/2014 01:15:25,,1262307904,5/9/2014 01:13:48,clixsense,1,6488338,USA,CA,San Diego,24.165.13.234,13 plus more in front and back,30 minutes,line07,https://dl.dropboxusercontent.com/u/82816032/img_tasks/line_07.jpg
+460399043,5/9/2014 01:33:10,,1262317532,5/9/2014 01:32:34,neodev,1,17484496,USA,AZ,Tempe,184.95.55.22,NA,NA,line07,https://dl.dropboxusercontent.com/u/82816032/img_tasks/line_07.jpg
+460399043,5/9/2014 02:14:50,,1262340308,5/9/2014 02:14:02,eup_slw,1,17973743,USA,,,50.182.204.196,long as hell,long as hell,line07,https://dl.dropboxusercontent.com/u/82816032/img_tasks/line_07.jpg
+460399044,5/8/2014 23:44:21,,1262253425,5/8/2014 23:44:09,bitcoinget,1,21678835,USA,KY,Ashland,69.23.50.160,short line,ten minutes,line08,https://dl.dropboxusercontent.com/u/82816032/img_tasks/line_08.jpg
+460399044,5/9/2014 00:05:21,,1262265765,5/9/2014 00:04:49,clixsense,1,7274297,USA,,,162.207.234.89,5 people,15 minutes,line08,https://dl.dropboxusercontent.com/u/82816032/img_tasks/line_08.jpg
+460399044,5/9/2014 00:15:43,,1262272250,5/9/2014 00:15:25,gptking,1,22893964,USA,IL,West Frankfort,173.25.210.76,short,short,line08,https://dl.dropboxusercontent.com/u/82816032/img_tasks/line_08.jpg
+460399044,5/9/2014 00:20:45,,1262275370,5/9/2014 00:20:25,zoombucks,1,5919735,USA,PA,Lansdale,96.245.83.248,5,15 min,line08,https://dl.dropboxusercontent.com/u/82816032/img_tasks/line_08.jpg
+460399044,5/9/2014 00:29:30,,1262281147,5/9/2014 00:29:05,cashcrate,1,22084320,USA,TX,Devine,108.218.193.27,short,10 minutes,line08,https://dl.dropboxusercontent.com/u/82816032/img_tasks/line_08.jpg
+460399044,5/9/2014 00:30:30,,1262281743,5/9/2014 00:30:18,instagc,1,25569616,USA,OR,Coos Bay,71.94.239.74,short,10 minutes,line08,https://dl.dropboxusercontent.com/u/82816032/img_tasks/line_08.jpg
+460399044,5/9/2014 00:35:35,,1262285036,5/9/2014 00:28:49,fusioncash,1,10594502,USA,KS,Wichita,99.60.39.16,5 people,15-20 minutes,line08,https://dl.dropboxusercontent.com/u/82816032/img_tasks/line_08.jpg
+460399044,5/9/2014 00:41:45,,1262288606,5/9/2014 00:40:50,instagc,1,17935654,USA,OR,Portland,98.246.193.140,5 people,5 minutes,line08,https://dl.dropboxusercontent.com/u/82816032/img_tasks/line_08.jpg
+460399044,5/9/2014 01:13:48,,1262307072,5/9/2014 01:12:33,clixsense,1,6488338,USA,CA,San Diego,24.165.13.234,5 people,8 minutes,line08,https://dl.dropboxusercontent.com/u/82816032/img_tasks/line_08.jpg
+460399044,5/9/2014 01:33:31,,1262317737,5/9/2014 01:33:20,neodev,1,17484496,USA,AZ,Tempe,184.95.55.22,NA,NA,line08,https://dl.dropboxusercontent.com/u/82816032/img_tasks/line_08.jpg
+460399045,5/9/2014 00:12:01,,1262269916,5/9/2014 00:11:26,instagc,1,19378092,USA,PA,Reading,174.55.181.238,50,60,line09,https://dl.dropboxusercontent.com/u/82816032/img_tasks/line_09.jpg
+460399045,5/9/2014 00:14:23,,1262271411,5/9/2014 00:11:05,gptking,1,22893964,USA,IL,West Frankfort,173.25.210.76,long,long,line09,https://dl.dropboxusercontent.com/u/82816032/img_tasks/line_09.jpg
+460399045,5/9/2014 00:19:20,,1262274455,5/9/2014 00:19:05,zoombucks,1,5919735,USA,PA,Lansdale,96.245.83.248,very long,very long,line09,https://dl.dropboxusercontent.com/u/82816032/img_tasks/line_09.jpg
+460399045,5/9/2014 00:29:05,,1262280808,5/9/2014 00:28:36,cashcrate,1,22084320,USA,TX,Devine,108.218.193.27,long,3 hours,line09,https://dl.dropboxusercontent.com/u/82816032/img_tasks/line_09.jpg
+460399045,5/9/2014 00:34:58,,1262284678,5/9/2014 00:34:26,bitcoinget,1,21678835,USA,KY,Ashland,69.23.50.160,pretty long,thirty minutes,line09,https://dl.dropboxusercontent.com/u/82816032/img_tasks/line_09.jpg
+460399045,5/9/2014 00:40:51,,1262288047,5/9/2014 00:40:43,instagc,1,25569616,USA,OR,Coos Bay,71.94.239.74,long,30 minutes,line09,https://dl.dropboxusercontent.com/u/82816032/img_tasks/line_09.jpg
+460399045,5/9/2014 00:43:38,,1262289774,5/9/2014 00:43:10,instagc,1,17935654,USA,OR,Portland,98.246.193.140,long,45 minutes,line09,https://dl.dropboxusercontent.com/u/82816032/img_tasks/line_09.jpg
+460399045,5/9/2014 01:18:19,,1262309441,5/9/2014 01:17:40,clixsense,1,6488338,USA,CA,San Diego,24.165.13.234,More than 25 people,30 minutes,line09,https://dl.dropboxusercontent.com/u/82816032/img_tasks/line_09.jpg
+460399045,5/9/2014 01:33:17,,1262317611,5/9/2014 01:33:10,neodev,1,17484496,USA,AZ,Tempe,184.95.55.22,NA,NA,line09,https://dl.dropboxusercontent.com/u/82816032/img_tasks/line_09.jpg
+460399045,5/9/2014 02:15:06,,1262340443,5/9/2014 02:14:50,eup_slw,1,17973743,USA,,,50.182.204.196,long as hell,long as hell,line09,https://dl.dropboxusercontent.com/u/82816032/img_tasks/line_09.jpg
+460399046,5/9/2014 00:05:19,,1262265737,5/9/2014 00:04:08,eup_slw,1,18329415,USA,PA,Folcroft,64.121.230.236,seems to be never ending,hours,line10,https://dl.dropboxusercontent.com/u/82816032/img_tasks/line_10.jpg
+460399046,5/9/2014 00:05:21,,1262265766,5/9/2014 00:04:49,clixsense,1,7274297,USA,,,162.207.234.89,Not a line,Not a line,line10,https://dl.dropboxusercontent.com/u/82816032/img_tasks/line_10.jpg
+460399046,5/9/2014 00:15:07,,1262271817,5/9/2014 00:14:56,gptking,1,22893964,USA,IL,West Frankfort,173.25.210.76,long,long,line10,https://dl.dropboxusercontent.com/u/82816032/img_tasks/line_10.jpg
+460399046,5/9/2014 00:20:56,,1262275462,5/9/2014 00:20:46,zoombucks,1,5919735,USA,PA,Lansdale,96.245.83.248,very long,very long,line10,https://dl.dropboxusercontent.com/u/82816032/img_tasks/line_10.jpg
+460399046,5/9/2014 00:27:35,,1262279877,5/9/2014 00:26:38,cashcrate,1,22084320,USA,TX,Devine,108.218.193.27,very long,4 hours,line10,https://dl.dropboxusercontent.com/u/82816032/img_tasks/line_10.jpg
+460399046,5/9/2014 00:30:18,,1262281598,5/9/2014 00:29:58,instagc,1,25569616,USA,OR,Coos Bay,71.94.239.74,extremely,hours,line10,https://dl.dropboxusercontent.com/u/82816032/img_tasks/line_10.jpg
+460399046,5/9/2014 00:34:26,,1262284471,5/9/2014 00:34:03,bitcoinget,1,21678835,USA,KY,Ashland,69.23.50.160,huge,several hours,line10,https://dl.dropboxusercontent.com/u/82816032/img_tasks/line_10.jpg
+460399046,5/9/2014 00:43:09,,1262289466,5/9/2014 00:42:30,instagc,1,17935654,USA,OR,Portland,98.246.193.140,really long,multiple hours,line10,https://dl.dropboxusercontent.com/u/82816032/img_tasks/line_10.jpg
+460399046,5/9/2014 01:18:19,,1262309442,5/9/2014 01:17:40,clixsense,1,6488338,USA,CA,San Diego,24.165.13.234,More than 100 people,2 hours,line10,https://dl.dropboxusercontent.com/u/82816032/img_tasks/line_10.jpg
+460399046,5/9/2014 01:32:33,,1262317254,5/9/2014 01:31:34,neodev,1,17484496,USA,AZ,Tempe,184.95.55.22,Very long,NA,line10,https://dl.dropboxusercontent.com/u/82816032/img_tasks/line_10.jpg

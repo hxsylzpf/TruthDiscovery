@@ -1,0 +1,451 @@
+_unit_id,_created_at,_id,_started_at,_tainted,_channel,_trust,_worker_id,_country,_region,_city,_ip,how_many_birds_can_you_see_in_the_image,the_difficulty_of_this_task_is,id,image_url
+695760138,3/27/2015 21:06,1599742305,3/27/2015 21:06,FALSE,bitcoinget,1,31256687,USA,NY,Brooklyn,69.112.8.202,5,Easy,bird01,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_01.jpg
+695760138,3/27/2015 21:10,1599743525,3/27/2015 21:08,FALSE,pocketmoneygpt,0.7222,28884030,USA,WI,Minocqua,75.143.134.247,5,Easy,bird01,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_01.jpg
+695760138,3/27/2015 21:19,1599746944,3/27/2015 21:04,FALSE,cotter,0.6111,29964039,USA,NV,Reno,71.94.24.147,5,Easy,bird01,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_01.jpg
+695760138,3/27/2015 21:20,1599747234,3/27/2015 21:17,FALSE,points4rewards,0.5556,20306700,USA,WA,Bothell,50.46.244.34,5,Easy,bird01,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_01.jpg
+695760138,3/27/2015 21:23,1599748154,3/27/2015 21:10,FALSE,instagc,0.4444,30326470,USA,CA,El Cajon,170.213.131.190,5,Easy,bird01,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_01.jpg
+695760138,3/27/2015 21:24,1599748505,3/27/2015 21:18,FALSE,superrewards,0.5741,24796792,USA,NY,New York,72.80.63.240,5,Easy,bird01,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_01.jpg
+695760138,3/27/2015 21:26,1599749108,3/27/2015 21:24,FALSE,clixsense,0.6508,30130805,USA,MI,Wyandotte,63.141.18.150,5,Easy,bird01,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_01.jpg
+695760138,3/27/2015 21:40,1599753029,3/27/2015 21:25,FALSE,tremorgames,0.5833,31906954,USA,NY,Middletown,74.68.51.54,5,Easy,bird01,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_01.jpg
+695760138,3/27/2015 21:45,1599754803,3/27/2015 21:41,FALSE,neodev,0.6389,32188611,USA,UT,Providence,173.244.197.106,5,Easy,bird01,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_01.jpg
+695760138,3/27/2015 21:53,1599757215,3/27/2015 21:49,FALSE,instagc,0.7111,13581319,USA,IL,Mount Vernon,66.232.166.86,5,Easy,bird01,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_01.jpg
+695760138,3/27/2015 21:55,1599757926,3/27/2015 21:51,FALSE,instagc,0.6111,30506788,USA,MO,Springfield,50.81.216.165,5,Easy,bird01,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_01.jpg
+695760138,3/27/2015 21:57,1599758599,3/27/2015 21:55,FALSE,eup_slw,0.6111,20965903,USA,TX,Houston,50.197.200.185,5,Easy,bird01,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_01.jpg
+695760138,3/27/2015 22:03,1599760338,3/27/2015 21:59,FALSE,bitcoinget,0.6496,25212093,USA,CT,Manchester,72.209.17.149,5,Easy,bird01,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_01.jpg
+695760138,3/27/2015 22:05,1599761172,3/27/2015 22:01,FALSE,instagc,0.6825,30550260,USA,VA,Richmond,76.27.164.82,5,Easy,bird01,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_01.jpg
+695760138,3/27/2015 22:47,1599779178,3/27/2015 22:35,FALSE,quickrewards,0.6429,8672587,USA,TX,El Paso,209.194.208.150,5,Easy,bird01,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_01.jpg
+695760138,3/27/2015 22:50,1599779958,3/27/2015 22:39,FALSE,instagc,0.4097,30549979,USA,MO,Branson,184.157.8.10,5,Easy,bird01,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_01.jpg
+695760138,3/27/2015 22:59,1599783028,3/27/2015 22:53,FALSE,zoombucks,0.5347,31588441,USA,OH,Columbus,65.60.215.9,5,Easy,bird01,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_01.jpg
+695760138,3/27/2015 22:59,1599783042,3/27/2015 22:52,FALSE,clixsense,0.6389,19495345,USA,AL,Decatur,74.237.180.157,5,Easy,bird01,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_01.jpg
+695760138,3/27/2015 23:09,1599786402,3/27/2015 23:05,FALSE,clixsense,0.6433,6524027,USA,PA,West Chester,173.75.250.18,5,Easy,bird01,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_01.jpg
+695760138,3/27/2015 23:12,1599787454,3/27/2015 23:09,FALSE,instagc,0.7056,31184650,USA,IA,Mason City,173.26.27.82,5,Easy,bird01,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_01.jpg
+695760138,3/27/2015 23:46,1599800381,3/27/2015 23:40,FALSE,superrewards,0.6878,28396934,USA,CA,San Francisco,99.108.138.235,5,Easy,bird01,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_01.jpg
+695760138,3/27/2015 23:50,1599802597,3/27/2015 23:46,FALSE,clixsense,0.7222,31379566,USA,IL,Joliet,75.49.217.33,5,Easy,bird01,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_01.jpg
+695760138,3/27/2015 23:55,1599805082,3/27/2015 23:53,FALSE,fusioncash,0.657,20623511,USA,OH,Cleveland,99.126.171.25,5,Easy,bird01,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_01.jpg
+695760138,3/28/2015 0:00,1599807162,3/27/2015 23:58,FALSE,prodege,0.6325,10959404,USA,CA,Studio City,108.217.110.104,5,Easy,bird01,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_01.jpg
+695760138,3/28/2015 0:00,1599807350,3/27/2015 23:57,FALSE,instagc,0.7094,31732182,USA,MD,College Park,206.196.186.238,5,Easy,bird01,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_01.jpg
+695760138,3/28/2015 0:01,1599807584,3/27/2015 23:46,FALSE,clixsense,0.5,11106820,USA,MA,Taunton,173.48.52.95,5,Easy,bird01,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_01.jpg
+695760138,3/28/2015 1:02,1599845143,3/28/2015 1:00,FALSE,neodev,0.6872,25638993,USA,FL,Miami,108.76.254.42,5,Easy,bird01,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_01.jpg
+695760138,3/28/2015 1:33,1599863231,3/28/2015 1:29,FALSE,clixsense,0.5873,9289735,USA,IL,Chicago,69.210.240.120,5,Easy,bird01,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_01.jpg
+695760138,3/28/2015 1:37,1599865234,3/28/2015 1:34,FALSE,neodev,0.7203,31755236,USA,DE,,108.59.8.218,5,Easy,bird01,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_01.jpg
+695760138,3/28/2015 1:39,1599866997,3/28/2015 1:31,FALSE,gifthulk,0.6074,18666417,USA,PA,Meadville,24.101.97.237,5,Easy,bird01,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_01.jpg
+695760138,3/28/2015 2:17,1599890964,3/28/2015 2:13,FALSE,neodev,0.6703,30695793,USA,CA,Palo Alto,15.219.169.72,5,Easy,bird01,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_01.jpg
+695760138,3/28/2015 2:23,1599894288,3/28/2015 2:18,FALSE,neodev,0.7097,31463401,USA,CA,San Jose,23.27.220.206,5,Easy,bird01,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_01.jpg
+695760138,3/28/2015 4:06,1599969869,3/28/2015 4:02,FALSE,bitcoinget,0.6633,24960279,USA,NY,Bronx,24.184.59.169,5,Easy,bird01,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_01.jpg
+695760138,3/28/2015 4:10,1599971971,3/28/2015 4:05,FALSE,instagc,0.6667,23962923,USA,CA,Van Nuys,172.248.184.29,5,Easy,bird01,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_01.jpg
+695760138,3/28/2015 4:45,1599992458,3/28/2015 4:39,FALSE,prodege,0.7333,6309240,USA,CA,San Diego,66.27.81.67,5,Easy,bird01,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_01.jpg
+695760138,3/28/2015 5:06,1600011023,3/28/2015 5:03,FALSE,instagc,0.6451,30774743,USA,CA,Santa Ana,23.240.186.186,5,Easy,bird01,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_01.jpg
+695760138,3/28/2015 5:17,1600017748,3/28/2015 5:06,FALSE,prodege,0.6967,30689579,USA,IL,Naperville,99.135.169.218,5,Easy,bird01,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_01.jpg
+695760138,3/28/2015 5:32,1600026971,3/28/2015 5:25,FALSE,instagc,0.7368,21464190,USA,MN,Northfield,96.42.97.81,5,Easy,bird01,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_01.jpg
+695760138,3/28/2015 6:13,1600053095,3/28/2015 6:02,FALSE,clixsense,0.6068,6363498,USA,GA,Fort Valley,23.125.3.6,5,Easy,bird01,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_01.jpg
+695760138,3/28/2015 8:09,1600112533,3/28/2015 8:07,FALSE,instagc,0.5306,21088425,USA,MI,Battle Creek,107.140.176.37,5,Easy,bird01,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_01.jpg
+695760138,3/28/2015 8:28,1600120950,3/28/2015 8:25,FALSE,instagc,0.7236,27770607,USA,TX,El Paso,173.175.164.207,5,Easy,bird01,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_01.jpg
+695760138,3/28/2015 8:32,1600123041,3/28/2015 8:28,FALSE,clixsense,0.6958,6340330,USA,NY,Canajoharie,67.248.115.74,5,Easy,bird01,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_01.jpg
+695760138,3/28/2015 8:43,1600127850,3/28/2015 8:37,FALSE,clixsense,0.6382,20512953,USA,CA,Fairfield,76.232.182.5,5,Easy,bird01,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_01.jpg
+695760138,3/28/2015 10:50,1600205103,3/28/2015 10:49,FALSE,fusioncash,0.4672,22139728,USA,NY,Watertown,66.67.91.242,5,Easy,bird01,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_01.jpg
+695760138,3/28/2015 11:17,1600210954,3/28/2015 11:11,FALSE,gifthulk,0.601,23743236,USA,,,73.208.31.70,5,Easy,bird01,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_01.jpg
+695760138,3/28/2015 11:49,1600215597,3/28/2015 11:44,FALSE,points4rewards,0.6184,28755767,USA,VA,Chester,68.57.118.32,5,Easy,bird01,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_01.jpg
+695760138,3/28/2015 11:50,1600215725,3/28/2015 11:48,FALSE,neodev,0.5437,31659226,USA,NY,Rochester,192.254.77.56,5,Easy,bird01,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_01.jpg
+695760138,3/28/2015 12:42,1600227322,3/28/2015 12:41,FALSE,bitcoinget,0.721,21743413,USA,WA,Lynnwood,67.183.5.219,5,Easy,bird01,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_01.jpg
+695760138,3/28/2015 12:58,1600230406,3/28/2015 12:55,FALSE,prodege,0.5556,2145087,USA,NY,New York,107.107.63.100,5,Easy,bird01,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_01.jpg
+695760138,3/28/2015 13:00,1600230754,3/28/2015 12:56,FALSE,clixsense,0.6356,19638651,USA,SC,Summerville,174.107.73.211,5,Easy,bird01,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_01.jpg
+695760139,3/27/2015 21:06,1599742300,3/27/2015 21:06,FALSE,bitcoinget,1,31256687,USA,NY,Brooklyn,69.112.8.202,12,Easy,bird02,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_02.jpg
+695760139,3/27/2015 21:10,1599743519,3/27/2015 21:08,FALSE,pocketmoneygpt,0.7222,28884030,USA,WI,Minocqua,75.143.134.247,19,Easy,bird02,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_02.jpg
+695760139,3/27/2015 21:19,1599746945,3/27/2015 21:04,FALSE,cotter,0.6111,29964039,USA,NV,Reno,71.94.24.147,19,Easy,bird02,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_02.jpg
+695760139,3/27/2015 21:20,1599747237,3/27/2015 21:17,FALSE,points4rewards,0.5556,20306700,USA,WA,Bothell,50.46.244.34,19,Easy,bird02,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_02.jpg
+695760139,3/27/2015 21:23,1599748159,3/27/2015 21:10,FALSE,instagc,0.4444,30326470,USA,CA,El Cajon,170.213.131.190,18,Normal,bird02,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_02.jpg
+695760139,3/27/2015 21:24,1599748503,3/27/2015 21:18,FALSE,superrewards,0.5741,24796792,USA,NY,New York,72.80.63.240,19,Easy,bird02,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_02.jpg
+695760139,3/27/2015 21:26,1599749101,3/27/2015 21:24,FALSE,clixsense,0.6508,30130805,USA,MI,Wyandotte,63.141.18.150,19,Easy,bird02,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_02.jpg
+695760139,3/27/2015 21:40,1599753031,3/27/2015 21:25,FALSE,tremorgames,0.5833,31906954,USA,NY,Middletown,74.68.51.54,19,Normal,bird02,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_02.jpg
+695760139,3/27/2015 21:45,1599754787,3/27/2015 21:41,FALSE,neodev,0.6389,32188611,USA,UT,Providence,173.244.197.106,19,Easy,bird02,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_02.jpg
+695760139,3/27/2015 21:53,1599757221,3/27/2015 21:49,FALSE,instagc,0.7111,13581319,USA,IL,Mount Vernon,66.232.166.86,20,Easy,bird02,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_02.jpg
+695760139,3/27/2015 21:55,1599757910,3/27/2015 21:51,FALSE,instagc,0.6111,30506788,USA,MO,Springfield,50.81.216.165,19,Normal,bird02,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_02.jpg
+695760139,3/27/2015 21:57,1599758596,3/27/2015 21:55,FALSE,eup_slw,0.6111,20965903,USA,TX,Houston,50.197.200.185,19,Easy,bird02,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_02.jpg
+695760139,3/27/2015 22:03,1599760334,3/27/2015 21:59,FALSE,bitcoinget,0.6496,25212093,USA,CT,Manchester,72.209.17.149,20,Normal,bird02,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_02.jpg
+695760139,3/27/2015 22:05,1599761189,3/27/2015 22:01,FALSE,instagc,0.6825,30550260,USA,VA,Richmond,76.27.164.82,18,Normal,bird02,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_02.jpg
+695760139,3/27/2015 22:47,1599779180,3/27/2015 22:35,FALSE,quickrewards,0.6429,8672587,USA,TX,El Paso,209.194.208.150,19,Normal,bird02,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_02.jpg
+695760139,3/27/2015 22:50,1599779962,3/27/2015 22:39,FALSE,instagc,0.4097,30549979,USA,MO,Branson,184.157.8.10,19,Easy,bird02,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_02.jpg
+695760139,3/27/2015 22:59,1599783022,3/27/2015 22:53,FALSE,zoombucks,0.5347,31588441,USA,OH,Columbus,65.60.215.9,19,Normal,bird02,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_02.jpg
+695760139,3/27/2015 22:59,1599783041,3/27/2015 22:52,FALSE,clixsense,0.6389,19495345,USA,AL,Decatur,74.237.180.157,20,Normal,bird02,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_02.jpg
+695760139,3/27/2015 23:09,1599786393,3/27/2015 23:05,FALSE,clixsense,0.6433,6524027,USA,PA,West Chester,173.75.250.18,21,Normal,bird02,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_02.jpg
+695760139,3/27/2015 23:12,1599787446,3/27/2015 23:09,FALSE,instagc,0.7056,31184650,USA,IA,Mason City,173.26.27.82,19,Normal,bird02,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_02.jpg
+695760139,3/27/2015 23:46,1599800375,3/27/2015 23:40,FALSE,superrewards,0.6878,28396934,USA,CA,San Francisco,99.108.138.235,19,Easy,bird02,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_02.jpg
+695760139,3/27/2015 23:50,1599802602,3/27/2015 23:46,FALSE,clixsense,0.7222,31379566,USA,IL,Joliet,75.49.217.33,19,Normal,bird02,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_02.jpg
+695760139,3/27/2015 23:55,1599805110,3/27/2015 23:53,FALSE,fusioncash,0.657,20623511,USA,OH,Cleveland,99.126.171.25,19,Normal,bird02,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_02.jpg
+695760139,3/28/2015 0:00,1599807158,3/27/2015 23:58,FALSE,prodege,0.6325,10959404,USA,CA,Studio City,108.217.110.104,19,Normal,bird02,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_02.jpg
+695760139,3/28/2015 0:00,1599807358,3/27/2015 23:57,FALSE,instagc,0.7094,31732182,USA,MD,College Park,206.196.186.238,19,Normal,bird02,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_02.jpg
+695760139,3/28/2015 0:01,1599807582,3/27/2015 23:46,FALSE,clixsense,0.5,11106820,USA,MA,Taunton,173.48.52.95,20,Normal,bird02,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_02.jpg
+695760139,3/28/2015 1:02,1599845138,3/28/2015 1:00,FALSE,neodev,0.6872,25638993,USA,FL,Miami,108.76.254.42,19,Easy,bird02,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_02.jpg
+695760139,3/28/2015 1:33,1599863222,3/28/2015 1:29,FALSE,clixsense,0.5873,9289735,USA,IL,Chicago,69.210.240.120,19,Hard,bird02,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_02.jpg
+695760139,3/28/2015 1:37,1599865230,3/28/2015 1:34,FALSE,neodev,0.7203,31755236,USA,DE,,108.59.8.218,18,Easy,bird02,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_02.jpg
+695760139,3/28/2015 1:39,1599866999,3/28/2015 1:31,FALSE,gifthulk,0.6074,18666417,USA,PA,Meadville,24.101.97.237,19,Easy,bird02,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_02.jpg
+695760139,3/28/2015 2:17,1599890966,3/28/2015 2:13,FALSE,neodev,0.6703,30695793,USA,CA,Palo Alto,15.219.169.72,19,Normal,bird02,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_02.jpg
+695760139,3/28/2015 2:23,1599894273,3/28/2015 2:18,FALSE,neodev,0.7097,31463401,USA,CA,San Jose,23.27.220.206,19,Normal,bird02,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_02.jpg
+695760139,3/28/2015 4:06,1599969872,3/28/2015 4:02,FALSE,bitcoinget,0.6633,24960279,USA,NY,Bronx,24.184.59.169,20,Normal,bird02,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_02.jpg
+695760139,3/28/2015 4:10,1599971966,3/28/2015 4:05,FALSE,instagc,0.6667,23962923,USA,CA,Van Nuys,172.248.184.29,19,Easy,bird02,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_02.jpg
+695760139,3/28/2015 4:45,1599992466,3/28/2015 4:39,FALSE,prodege,0.7333,6309240,USA,CA,San Diego,66.27.81.67,19,Easy,bird02,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_02.jpg
+695760139,3/28/2015 5:06,1600011035,3/28/2015 5:03,FALSE,instagc,0.6451,30774743,USA,CA,Santa Ana,23.240.186.186,19,Normal,bird02,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_02.jpg
+695760139,3/28/2015 5:17,1600017743,3/28/2015 5:06,FALSE,prodege,0.6967,30689579,USA,IL,Naperville,99.135.169.218,19,Normal,bird02,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_02.jpg
+695760139,3/28/2015 5:32,1600026982,3/28/2015 5:25,FALSE,instagc,0.7368,21464190,USA,MN,Northfield,96.42.97.81,20,Normal,bird02,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_02.jpg
+695760139,3/28/2015 6:13,1600053089,3/28/2015 6:02,FALSE,clixsense,0.6068,6363498,USA,GA,Fort Valley,23.125.3.6,19,Easy,bird02,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_02.jpg
+695760139,3/28/2015 8:09,1600112532,3/28/2015 8:07,FALSE,instagc,0.5306,21088425,USA,MI,Battle Creek,107.140.176.37,19,Normal,bird02,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_02.jpg
+695760139,3/28/2015 8:28,1600120953,3/28/2015 8:25,FALSE,instagc,0.7236,27770607,USA,TX,El Paso,173.175.164.207,19,Easy,bird02,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_02.jpg
+695760139,3/28/2015 8:32,1600123037,3/28/2015 8:28,FALSE,clixsense,0.6958,6340330,USA,NY,Canajoharie,67.248.115.74,19,Normal,bird02,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_02.jpg
+695760139,3/28/2015 8:43,1600127857,3/28/2015 8:37,FALSE,clixsense,0.6382,20512953,USA,CA,Fairfield,76.232.182.5,19,Easy,bird02,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_02.jpg
+695760139,3/28/2015 10:50,1600205084,3/28/2015 10:49,FALSE,fusioncash,0.4672,22139728,USA,NY,Watertown,66.67.91.242,15,Normal,bird02,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_02.jpg
+695760139,3/28/2015 11:17,1600210956,3/28/2015 11:11,FALSE,gifthulk,0.601,23743236,USA,,,73.208.31.70,19,Easy,bird02,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_02.jpg
+695760139,3/28/2015 11:49,1600215596,3/28/2015 11:44,FALSE,points4rewards,0.6184,28755767,USA,VA,Chester,68.57.118.32,19,Easy,bird02,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_02.jpg
+695760139,3/28/2015 11:50,1600215731,3/28/2015 11:48,FALSE,neodev,0.5437,31659226,USA,NY,Rochester,192.254.77.56,22,Easy,bird02,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_02.jpg
+695760139,3/28/2015 12:42,1600227320,3/28/2015 12:41,FALSE,bitcoinget,0.721,21743413,USA,WA,Lynnwood,67.183.5.219,17,Easy,bird02,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_02.jpg
+695760139,3/28/2015 12:58,1600230403,3/28/2015 12:55,FALSE,prodege,0.5556,2145087,USA,NY,New York,107.107.63.100,19,Normal,bird02,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_02.jpg
+695760139,3/28/2015 13:00,1600230752,3/28/2015 12:56,FALSE,clixsense,0.6356,19638651,USA,SC,Summerville,174.107.73.211,19,Normal,bird02,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_02.jpg
+695760140,3/27/2015 21:06,1599742301,3/27/2015 21:06,FALSE,bitcoinget,1,31256687,USA,NY,Brooklyn,69.112.8.202,10,Easy,bird03,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_03.jpg
+695760140,3/27/2015 21:10,1599743527,3/27/2015 21:08,FALSE,pocketmoneygpt,0.7222,28884030,USA,WI,Minocqua,75.143.134.247,27,Normal,bird03,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_03.jpg
+695760140,3/27/2015 21:19,1599746941,3/27/2015 21:04,FALSE,cotter,0.6111,29964039,USA,NV,Reno,71.94.24.147,34,Normal,bird03,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_03.jpg
+695760140,3/27/2015 21:20,1599747235,3/27/2015 21:17,FALSE,points4rewards,0.5556,20306700,USA,WA,Bothell,50.46.244.34,31,Hard,bird03,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_03.jpg
+695760140,3/27/2015 21:23,1599748169,3/27/2015 21:10,FALSE,instagc,0.4444,30326470,USA,CA,El Cajon,170.213.131.190,33,Hard,bird03,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_03.jpg
+695760140,3/27/2015 21:24,1599748509,3/27/2015 21:18,FALSE,superrewards,0.5741,24796792,USA,NY,New York,72.80.63.240,33,Normal,bird03,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_03.jpg
+695760140,3/27/2015 21:26,1599749102,3/27/2015 21:24,FALSE,clixsense,0.6508,30130805,USA,MI,Wyandotte,63.141.18.150,27,Hard,bird03,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_03.jpg
+695760140,3/27/2015 21:40,1599753019,3/27/2015 21:25,FALSE,tremorgames,0.5833,31906954,USA,NY,Middletown,74.68.51.54,30,Normal,bird03,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_03.jpg
+695760140,3/27/2015 21:45,1599754798,3/27/2015 21:41,FALSE,neodev,0.6389,32188611,USA,UT,Providence,173.244.197.106,20,Normal,bird03,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_03.jpg
+695760140,3/27/2015 21:53,1599757224,3/27/2015 21:49,FALSE,instagc,0.7111,13581319,USA,IL,Mount Vernon,66.232.166.86,30,Normal,bird03,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_03.jpg
+695760140,3/27/2015 21:55,1599757912,3/27/2015 21:51,FALSE,instagc,0.6111,30506788,USA,MO,Springfield,50.81.216.165,31,Hard,bird03,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_03.jpg
+695760140,3/27/2015 21:57,1599758600,3/27/2015 21:55,FALSE,eup_slw,0.6111,20965903,USA,TX,Houston,50.197.200.185,32,Easy,bird03,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_03.jpg
+695760140,3/27/2015 22:03,1599760331,3/27/2015 21:59,FALSE,bitcoinget,0.6496,25212093,USA,CT,Manchester,72.209.17.149,30,Hard,bird03,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_03.jpg
+695760140,3/27/2015 22:05,1599761184,3/27/2015 22:01,FALSE,instagc,0.6825,30550260,USA,VA,Richmond,76.27.164.82,30,Hard,bird03,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_03.jpg
+695760140,3/27/2015 22:47,1599779186,3/27/2015 22:35,FALSE,quickrewards,0.6429,8672587,USA,TX,El Paso,209.194.208.150,35,Hard,bird03,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_03.jpg
+695760140,3/27/2015 22:50,1599779967,3/27/2015 22:39,FALSE,instagc,0.4097,30549979,USA,MO,Branson,184.157.8.10,33,Normal,bird03,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_03.jpg
+695760140,3/27/2015 22:59,1599783030,3/27/2015 22:53,FALSE,zoombucks,0.5347,31588441,USA,OH,Columbus,65.60.215.9,31,Normal,bird03,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_03.jpg
+695760140,3/27/2015 22:59,1599783031,3/27/2015 22:52,FALSE,clixsense,0.6389,19495345,USA,AL,Decatur,74.237.180.157,36,Normal,bird03,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_03.jpg
+695760140,3/27/2015 23:09,1599786398,3/27/2015 23:05,FALSE,clixsense,0.6433,6524027,USA,PA,West Chester,173.75.250.18,29,Normal,bird03,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_03.jpg
+695760140,3/27/2015 23:12,1599787460,3/27/2015 23:09,FALSE,instagc,0.7056,31184650,USA,IA,Mason City,173.26.27.82,32,Normal,bird03,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_03.jpg
+695760140,3/27/2015 23:46,1599800378,3/27/2015 23:40,FALSE,superrewards,0.6878,28396934,USA,CA,San Francisco,99.108.138.235,35,Normal,bird03,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_03.jpg
+695760140,3/27/2015 23:50,1599802599,3/27/2015 23:46,FALSE,clixsense,0.7222,31379566,USA,IL,Joliet,75.49.217.33,29,Normal,bird03,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_03.jpg
+695760140,3/27/2015 23:55,1599805086,3/27/2015 23:53,FALSE,fusioncash,0.657,20623511,USA,OH,Cleveland,99.126.171.25,32,Hard,bird03,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_03.jpg
+695760140,3/28/2015 0:00,1599807155,3/27/2015 23:58,FALSE,prodege,0.6325,10959404,USA,CA,Studio City,108.217.110.104,30,Hard,bird03,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_03.jpg
+695760140,3/28/2015 0:00,1599807349,3/27/2015 23:57,FALSE,instagc,0.7094,31732182,USA,MD,College Park,206.196.186.238,27,Hard,bird03,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_03.jpg
+695760140,3/28/2015 0:01,1599807576,3/27/2015 23:46,FALSE,clixsense,0.5,11106820,USA,MA,Taunton,173.48.52.95,30,Normal,bird03,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_03.jpg
+695760140,3/28/2015 1:02,1599845165,3/28/2015 1:00,FALSE,neodev,0.6872,25638993,USA,FL,Miami,108.76.254.42,22,Normal,bird03,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_03.jpg
+695760140,3/28/2015 1:33,1599863229,3/28/2015 1:29,FALSE,clixsense,0.5873,9289735,USA,IL,Chicago,69.210.240.120,30,Hard,bird03,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_03.jpg
+695760140,3/28/2015 1:37,1599865228,3/28/2015 1:34,FALSE,neodev,0.7203,31755236,USA,DE,,108.59.8.218,34,Normal,bird03,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_03.jpg
+695760140,3/28/2015 1:39,1599867003,3/28/2015 1:31,FALSE,gifthulk,0.6074,18666417,USA,PA,Meadville,24.101.97.237,27,Normal,bird03,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_03.jpg
+695760140,3/28/2015 2:17,1599890965,3/28/2015 2:13,FALSE,neodev,0.6703,30695793,USA,CA,Palo Alto,15.219.169.72,29,Hard,bird03,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_03.jpg
+695760140,3/28/2015 2:23,1599894263,3/28/2015 2:18,FALSE,neodev,0.7097,31463401,USA,CA,San Jose,23.27.220.206,30,Hard,bird03,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_03.jpg
+695760140,3/28/2015 4:06,1599969871,3/28/2015 4:02,FALSE,bitcoinget,0.6633,24960279,USA,NY,Bronx,24.184.59.169,34,Normal,bird03,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_03.jpg
+695760140,3/28/2015 4:10,1599971969,3/28/2015 4:05,FALSE,instagc,0.6667,23962923,USA,CA,Van Nuys,172.248.184.29,29,Hard,bird03,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_03.jpg
+695760140,3/28/2015 4:45,1599992454,3/28/2015 4:39,FALSE,prodege,0.7333,6309240,USA,CA,San Diego,66.27.81.67,32,Normal,bird03,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_03.jpg
+695760140,3/28/2015 5:06,1600011025,3/28/2015 5:03,FALSE,instagc,0.6451,30774743,USA,CA,Santa Ana,23.240.186.186,31,Hard,bird03,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_03.jpg
+695760140,3/28/2015 5:17,1600017751,3/28/2015 5:06,FALSE,prodege,0.6967,30689579,USA,IL,Naperville,99.135.169.218,28,Hard,bird03,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_03.jpg
+695760140,3/28/2015 5:32,1600026976,3/28/2015 5:25,FALSE,instagc,0.7368,21464190,USA,MN,Northfield,96.42.97.81,33,Hard,bird03,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_03.jpg
+695760140,3/28/2015 6:13,1600053088,3/28/2015 6:02,FALSE,clixsense,0.6068,6363498,USA,GA,Fort Valley,23.125.3.6,25,Hard,bird03,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_03.jpg
+695760140,3/28/2015 8:09,1600112536,3/28/2015 8:07,FALSE,instagc,0.5306,21088425,USA,MI,Battle Creek,107.140.176.37,30,Normal,bird03,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_03.jpg
+695760140,3/28/2015 8:28,1600120955,3/28/2015 8:25,FALSE,instagc,0.7236,27770607,USA,TX,El Paso,173.175.164.207,29,Hard,bird03,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_03.jpg
+695760140,3/28/2015 8:32,1600123043,3/28/2015 8:28,FALSE,clixsense,0.6958,6340330,USA,NY,Canajoharie,67.248.115.74,31,Hard,bird03,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_03.jpg
+695760140,3/28/2015 8:43,1600127853,3/28/2015 8:37,FALSE,clixsense,0.6382,20512953,USA,CA,Fairfield,76.232.182.5,32,Normal,bird03,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_03.jpg
+695760140,3/28/2015 10:50,1600205096,3/28/2015 10:49,FALSE,fusioncash,0.4672,22139728,USA,NY,Watertown,66.67.91.242,20,Normal,bird03,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_03.jpg
+695760140,3/28/2015 11:17,1600210952,3/28/2015 11:11,FALSE,gifthulk,0.601,23743236,USA,,,73.208.31.70,33,Normal,bird03,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_03.jpg
+695760140,3/28/2015 11:49,1600215603,3/28/2015 11:44,FALSE,points4rewards,0.6184,28755767,USA,VA,Chester,68.57.118.32,30,Normal,bird03,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_03.jpg
+695760140,3/28/2015 11:50,1600215728,3/28/2015 11:48,FALSE,neodev,0.5437,31659226,USA,NY,Rochester,192.254.77.56,23,Normal,bird03,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_03.jpg
+695760140,3/28/2015 12:42,1600227325,3/28/2015 12:41,FALSE,bitcoinget,0.721,21743413,USA,WA,Lynnwood,67.183.5.219,30,Normal,bird03,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_03.jpg
+695760140,3/28/2015 12:58,1600230405,3/28/2015 12:55,FALSE,prodege,0.5556,2145087,USA,NY,New York,107.107.63.100,31,Hard,bird03,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_03.jpg
+695760140,3/28/2015 13:00,1600230750,3/28/2015 12:56,FALSE,clixsense,0.6356,19638651,USA,SC,Summerville,174.107.73.211,30,Hard,bird03,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_03.jpg
+695760141,3/27/2015 21:06,1599742303,3/27/2015 21:06,FALSE,bitcoinget,1,31256687,USA,NY,Brooklyn,69.112.8.202,13,Easy,bird04,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_04.jpg
+695760141,3/27/2015 21:10,1599743520,3/27/2015 21:08,FALSE,pocketmoneygpt,0.7222,28884030,USA,WI,Minocqua,75.143.134.247,52,Hard,bird04,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_04.jpg
+695760141,3/27/2015 21:19,1599746939,3/27/2015 21:04,FALSE,cotter,0.6111,29964039,USA,NV,Reno,71.94.24.147,44,Normal,bird04,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_04.jpg
+695760141,3/27/2015 21:20,1599747230,3/27/2015 21:17,FALSE,points4rewards,0.5556,20306700,USA,WA,Bothell,50.46.244.34,40,Hard,bird04,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_04.jpg
+695760141,3/27/2015 21:23,1599748161,3/27/2015 21:10,FALSE,instagc,0.4444,30326470,USA,CA,El Cajon,170.213.131.190,35,Hard,bird04,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_04.jpg
+695760141,3/27/2015 21:24,1599748502,3/27/2015 21:18,FALSE,superrewards,0.5741,24796792,USA,NY,New York,72.80.63.240,47,Normal,bird04,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_04.jpg
+695760141,3/27/2015 21:26,1599749091,3/27/2015 21:24,FALSE,clixsense,0.6508,30130805,USA,MI,Wyandotte,63.141.18.150,46,Hard,bird04,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_04.jpg
+695760141,3/27/2015 21:40,1599753025,3/27/2015 21:25,FALSE,tremorgames,0.5833,31906954,USA,NY,Middletown,74.68.51.54,38,Hard,bird04,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_04.jpg
+695760141,3/27/2015 21:45,1599754789,3/27/2015 21:41,FALSE,neodev,0.6389,32188611,USA,UT,Providence,173.244.197.106,42,Hard,bird04,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_04.jpg
+695760141,3/27/2015 21:53,1599757227,3/27/2015 21:49,FALSE,instagc,0.7111,13581319,USA,IL,Mount Vernon,66.232.166.86,30,Hard,bird04,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_04.jpg
+695760141,3/27/2015 21:55,1599757907,3/27/2015 21:51,FALSE,instagc,0.6111,30506788,USA,MO,Springfield,50.81.216.165,35,Hard,bird04,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_04.jpg
+695760141,3/27/2015 21:57,1599758598,3/27/2015 21:55,FALSE,eup_slw,0.6111,20965903,USA,TX,Houston,50.197.200.185,45,Hard,bird04,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_04.jpg
+695760141,3/27/2015 22:03,1599760333,3/27/2015 21:59,FALSE,bitcoinget,0.6496,25212093,USA,CT,Manchester,72.209.17.149,45,Hard,bird04,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_04.jpg
+695760141,3/27/2015 22:05,1599761191,3/27/2015 22:01,FALSE,instagc,0.6825,30550260,USA,VA,Richmond,76.27.164.82,50,Hard,bird04,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_04.jpg
+695760141,3/27/2015 22:47,1599779185,3/27/2015 22:35,FALSE,quickrewards,0.6429,8672587,USA,TX,El Paso,209.194.208.150,50,Hard,bird04,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_04.jpg
+695760141,3/27/2015 22:50,1599779965,3/27/2015 22:39,FALSE,instagc,0.4097,30549979,USA,MO,Branson,184.157.8.10,43,Normal,bird04,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_04.jpg
+695760141,3/27/2015 22:59,1599783024,3/27/2015 22:53,FALSE,zoombucks,0.5347,31588441,USA,OH,Columbus,65.60.215.9,44,Hard,bird04,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_04.jpg
+695760141,3/27/2015 22:59,1599783040,3/27/2015 22:52,FALSE,clixsense,0.6389,19495345,USA,AL,Decatur,74.237.180.157,45,Hard,bird04,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_04.jpg
+695760141,3/27/2015 23:09,1599786411,3/27/2015 23:05,FALSE,clixsense,0.6433,6524027,USA,PA,West Chester,173.75.250.18,42,Hard,bird04,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_04.jpg
+695760141,3/27/2015 23:12,1599787459,3/27/2015 23:09,FALSE,instagc,0.7056,31184650,USA,IA,Mason City,173.26.27.82,40,Hard,bird04,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_04.jpg
+695760141,3/27/2015 23:46,1599800399,3/27/2015 23:40,FALSE,superrewards,0.6878,28396934,USA,CA,San Francisco,99.108.138.235,47,Hard,bird04,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_04.jpg
+695760141,3/27/2015 23:50,1599802607,3/27/2015 23:46,FALSE,clixsense,0.7222,31379566,USA,IL,Joliet,75.49.217.33,30,Hard,bird04,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_04.jpg
+695760141,3/27/2015 23:55,1599805091,3/27/2015 23:53,FALSE,fusioncash,0.657,20623511,USA,OH,Cleveland,99.126.171.25,38,Hard,bird04,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_04.jpg
+695760141,3/28/2015 0:00,1599807163,3/27/2015 23:58,FALSE,prodege,0.6325,10959404,USA,CA,Studio City,108.217.110.104,55,Hard,bird04,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_04.jpg
+695760141,3/28/2015 0:00,1599807351,3/27/2015 23:57,FALSE,instagc,0.7094,31732182,USA,MD,College Park,206.196.186.238,45,Hard,bird04,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_04.jpg
+695760141,3/28/2015 0:01,1599807579,3/27/2015 23:46,FALSE,clixsense,0.5,11106820,USA,MA,Taunton,173.48.52.95,50,Normal,bird04,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_04.jpg
+695760141,3/28/2015 1:02,1599845136,3/28/2015 1:00,FALSE,neodev,0.6872,25638993,USA,FL,Miami,108.76.254.42,42,Hard,bird04,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_04.jpg
+695760141,3/28/2015 1:33,1599863232,3/28/2015 1:29,FALSE,clixsense,0.5873,9289735,USA,IL,Chicago,69.210.240.120,45,Hard,bird04,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_04.jpg
+695760141,3/28/2015 1:37,1599865235,3/28/2015 1:34,FALSE,neodev,0.7203,31755236,USA,DE,,108.59.8.218,43,Hard,bird04,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_04.jpg
+695760141,3/28/2015 1:39,1599866994,3/28/2015 1:31,FALSE,gifthulk,0.6074,18666417,USA,PA,Meadville,24.101.97.237,43,Normal,bird04,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_04.jpg
+695760141,3/28/2015 2:17,1599890960,3/28/2015 2:13,FALSE,neodev,0.6703,30695793,USA,CA,Palo Alto,15.219.169.72,44,Hard,bird04,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_04.jpg
+695760141,3/28/2015 2:23,1599894270,3/28/2015 2:18,FALSE,neodev,0.7097,31463401,USA,CA,San Jose,23.27.220.206,40,Hard,bird04,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_04.jpg
+695760141,3/28/2015 4:06,1599969878,3/28/2015 4:02,FALSE,bitcoinget,0.6633,24960279,USA,NY,Bronx,24.184.59.169,50,Hard,bird04,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_04.jpg
+695760141,3/28/2015 4:10,1599971972,3/28/2015 4:05,FALSE,instagc,0.6667,23962923,USA,CA,Van Nuys,172.248.184.29,39,Hard,bird04,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_04.jpg
+695760141,3/28/2015 4:45,1599992449,3/28/2015 4:39,FALSE,prodege,0.7333,6309240,USA,CA,San Diego,66.27.81.67,40,Hard,bird04,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_04.jpg
+695760141,3/28/2015 5:06,1600011022,3/28/2015 5:03,FALSE,instagc,0.6451,30774743,USA,CA,Santa Ana,23.240.186.186,30,Hard,bird04,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_04.jpg
+695760141,3/28/2015 5:17,1600017746,3/28/2015 5:06,FALSE,prodege,0.6967,30689579,USA,IL,Naperville,99.135.169.218,39,Hard,bird04,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_04.jpg
+695760141,3/28/2015 5:32,1600026962,3/28/2015 5:25,FALSE,instagc,0.7368,21464190,USA,MN,Northfield,96.42.97.81,45,Hard,bird04,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_04.jpg
+695760141,3/28/2015 6:13,1600053083,3/28/2015 6:02,FALSE,clixsense,0.6068,6363498,USA,GA,Fort Valley,23.125.3.6,43,Hard,bird04,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_04.jpg
+695760141,3/28/2015 8:09,1600112537,3/28/2015 8:07,FALSE,instagc,0.5306,21088425,USA,MI,Battle Creek,107.140.176.37,30,Hard,bird04,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_04.jpg
+695760141,3/28/2015 8:28,1600120966,3/28/2015 8:25,FALSE,instagc,0.7236,27770607,USA,TX,El Paso,173.175.164.207,37,Hard,bird04,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_04.jpg
+695760141,3/28/2015 8:32,1600123031,3/28/2015 8:28,FALSE,clixsense,0.6958,6340330,USA,NY,Canajoharie,67.248.115.74,40,Hard,bird04,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_04.jpg
+695760141,3/28/2015 8:43,1600127860,3/28/2015 8:37,FALSE,clixsense,0.6382,20512953,USA,CA,Fairfield,76.232.182.5,47,Hard,bird04,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_04.jpg
+695760141,3/28/2015 10:50,1600205095,3/28/2015 10:49,FALSE,fusioncash,0.4672,22139728,USA,NY,Watertown,66.67.91.242,35,Normal,bird04,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_04.jpg
+695760141,3/28/2015 11:17,1600210957,3/28/2015 11:11,FALSE,gifthulk,0.601,23743236,USA,,,73.208.31.70,45,Hard,bird04,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_04.jpg
+695760141,3/28/2015 11:49,1600215601,3/28/2015 11:44,FALSE,points4rewards,0.6184,28755767,USA,VA,Chester,68.57.118.32,42,Hard,bird04,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_04.jpg
+695760141,3/28/2015 11:50,1600215730,3/28/2015 11:48,FALSE,neodev,0.5437,31659226,USA,NY,Rochester,192.254.77.56,15,Hard,bird04,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_04.jpg
+695760141,3/28/2015 12:42,1600227323,3/28/2015 12:41,FALSE,bitcoinget,0.721,21743413,USA,WA,Lynnwood,67.183.5.219,50,Hard,bird04,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_04.jpg
+695760141,3/28/2015 12:58,1600230404,3/28/2015 12:55,FALSE,prodege,0.5556,2145087,USA,NY,New York,107.107.63.100,30,Hard,bird04,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_04.jpg
+695760141,3/28/2015 13:00,1600230749,3/28/2015 12:56,FALSE,clixsense,0.6356,19638651,USA,SC,Summerville,174.107.73.211,42,Hard,bird04,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_04.jpg
+695760142,3/27/2015 21:06,1599742298,3/27/2015 21:06,FALSE,bitcoinget,1,31256687,USA,NY,Brooklyn,69.112.8.202,10,Easy,bird05,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_05.jpg
+695760142,3/27/2015 21:10,1599743522,3/27/2015 21:08,FALSE,pocketmoneygpt,0.7222,28884030,USA,WI,Minocqua,75.143.134.247,37,Normal,bird05,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_05.jpg
+695760142,3/27/2015 21:19,1599746946,3/27/2015 21:04,FALSE,cotter,0.6111,29964039,USA,NV,Reno,71.94.24.147,36,Hard,bird05,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_05.jpg
+695760142,3/27/2015 21:20,1599747232,3/27/2015 21:17,FALSE,points4rewards,0.5556,20306700,USA,WA,Bothell,50.46.244.34,32,Hard,bird05,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_05.jpg
+695760142,3/27/2015 21:23,1599748164,3/27/2015 21:10,FALSE,instagc,0.4444,30326470,USA,CA,El Cajon,170.213.131.190,45,Hard,bird05,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_05.jpg
+695760142,3/27/2015 21:24,1599748508,3/27/2015 21:18,FALSE,superrewards,0.5741,24796792,USA,NY,New York,72.80.63.240,34,Normal,bird05,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_05.jpg
+695760142,3/27/2015 21:26,1599749105,3/27/2015 21:24,FALSE,clixsense,0.6508,30130805,USA,MI,Wyandotte,63.141.18.150,50,Hard,bird05,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_05.jpg
+695760142,3/27/2015 21:40,1599753020,3/27/2015 21:25,FALSE,tremorgames,0.5833,31906954,USA,NY,Middletown,74.68.51.54,43,Hard,bird05,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_05.jpg
+695760142,3/27/2015 21:45,1599754812,3/27/2015 21:41,FALSE,neodev,0.6389,32188611,USA,UT,Providence,173.244.197.106,25,Hard,bird05,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_05.jpg
+695760142,3/27/2015 21:53,1599757228,3/27/2015 21:49,FALSE,instagc,0.7111,13581319,USA,IL,Mount Vernon,66.232.166.86,38,Hard,bird05,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_05.jpg
+695760142,3/27/2015 21:55,1599757908,3/27/2015 21:51,FALSE,instagc,0.6111,30506788,USA,MO,Springfield,50.81.216.165,34,Hard,bird05,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_05.jpg
+695760142,3/27/2015 21:57,1599758606,3/27/2015 21:55,FALSE,eup_slw,0.6111,20965903,USA,TX,Houston,50.197.200.185,37,Hard,bird05,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_05.jpg
+695760142,3/27/2015 22:03,1599760328,3/27/2015 21:59,FALSE,bitcoinget,0.6496,25212093,USA,CT,Manchester,72.209.17.149,35,Hard,bird05,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_05.jpg
+695760142,3/27/2015 22:05,1599761176,3/27/2015 22:01,FALSE,instagc,0.6825,30550260,USA,VA,Richmond,76.27.164.82,38,Hard,bird05,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_05.jpg
+695760142,3/27/2015 22:47,1599779171,3/27/2015 22:35,FALSE,quickrewards,0.6429,8672587,USA,TX,El Paso,209.194.208.150,39,Hard,bird05,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_05.jpg
+695760142,3/27/2015 22:50,1599779957,3/27/2015 22:39,FALSE,instagc,0.4097,30549979,USA,MO,Branson,184.157.8.10,36,Normal,bird05,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_05.jpg
+695760142,3/27/2015 22:59,1599783035,3/27/2015 22:53,FALSE,zoombucks,0.5347,31588441,USA,OH,Columbus,65.60.215.9,41,Hard,bird05,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_05.jpg
+695760142,3/27/2015 22:59,1599783043,3/27/2015 22:52,FALSE,clixsense,0.6389,19495345,USA,AL,Decatur,74.237.180.157,37,Hard,bird05,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_05.jpg
+695760142,3/27/2015 23:09,1599786401,3/27/2015 23:05,FALSE,clixsense,0.6433,6524027,USA,PA,West Chester,173.75.250.18,36,Hard,bird05,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_05.jpg
+695760142,3/27/2015 23:12,1599787461,3/27/2015 23:09,FALSE,instagc,0.7056,31184650,USA,IA,Mason City,173.26.27.82,40,Hard,bird05,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_05.jpg
+695760142,3/27/2015 23:46,1599800391,3/27/2015 23:40,FALSE,superrewards,0.6878,28396934,USA,CA,San Francisco,99.108.138.235,36,Hard,bird05,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_05.jpg
+695760142,3/27/2015 23:50,1599802604,3/27/2015 23:46,FALSE,clixsense,0.7222,31379566,USA,IL,Joliet,75.49.217.33,35,Hard,bird05,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_05.jpg
+695760142,3/27/2015 23:55,1599805089,3/27/2015 23:53,FALSE,fusioncash,0.657,20623511,USA,OH,Cleveland,99.126.171.25,43,Hard,bird05,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_05.jpg
+695760142,3/28/2015 0:00,1599807157,3/27/2015 23:58,FALSE,prodege,0.6325,10959404,USA,CA,Studio City,108.217.110.104,40,Hard,bird05,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_05.jpg
+695760142,3/28/2015 0:00,1599807339,3/27/2015 23:57,FALSE,instagc,0.7094,31732182,USA,MD,College Park,206.196.186.238,38,Hard,bird05,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_05.jpg
+695760142,3/28/2015 0:01,1599807583,3/27/2015 23:46,FALSE,clixsense,0.5,11106820,USA,MA,Taunton,173.48.52.95,38,Normal,bird05,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_05.jpg
+695760142,3/28/2015 1:02,1599845135,3/28/2015 1:00,FALSE,neodev,0.6872,25638993,USA,FL,Miami,108.76.254.42,24,Hard,bird05,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_05.jpg
+695760142,3/28/2015 1:33,1599863228,3/28/2015 1:29,FALSE,clixsense,0.5873,9289735,USA,IL,Chicago,69.210.240.120,37,Hard,bird05,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_05.jpg
+695760142,3/28/2015 1:37,1599865231,3/28/2015 1:34,FALSE,neodev,0.7203,31755236,USA,DE,,108.59.8.218,35,Hard,bird05,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_05.jpg
+695760142,3/28/2015 1:39,1599867002,3/28/2015 1:31,FALSE,gifthulk,0.6074,18666417,USA,PA,Meadville,24.101.97.237,38,Hard,bird05,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_05.jpg
+695760142,3/28/2015 2:17,1599890959,3/28/2015 2:13,FALSE,neodev,0.6703,30695793,USA,CA,Palo Alto,15.219.169.72,32,Hard,bird05,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_05.jpg
+695760142,3/28/2015 2:23,1599894262,3/28/2015 2:18,FALSE,neodev,0.7097,31463401,USA,CA,San Jose,23.27.220.206,25,Hard,bird05,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_05.jpg
+695760142,3/28/2015 4:06,1599969877,3/28/2015 4:02,FALSE,bitcoinget,0.6633,24960279,USA,NY,Bronx,24.184.59.169,34,Normal,bird05,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_05.jpg
+695760142,3/28/2015 4:10,1599971970,3/28/2015 4:05,FALSE,instagc,0.6667,23962923,USA,CA,Van Nuys,172.248.184.29,30,Hard,bird05,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_05.jpg
+695760142,3/28/2015 4:45,1599992451,3/28/2015 4:39,FALSE,prodege,0.7333,6309240,USA,CA,San Diego,66.27.81.67,36,Hard,bird05,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_05.jpg
+695760142,3/28/2015 5:06,1600011027,3/28/2015 5:03,FALSE,instagc,0.6451,30774743,USA,CA,Santa Ana,23.240.186.186,35,Hard,bird05,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_05.jpg
+695760142,3/28/2015 5:17,1600017744,3/28/2015 5:06,FALSE,prodege,0.6967,30689579,USA,IL,Naperville,99.135.169.218,40,Hard,bird05,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_05.jpg
+695760142,3/28/2015 5:32,1600026973,3/28/2015 5:25,FALSE,instagc,0.7368,21464190,USA,MN,Northfield,96.42.97.81,38,Hard,bird05,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_05.jpg
+695760142,3/28/2015 6:13,1600053091,3/28/2015 6:02,FALSE,clixsense,0.6068,6363498,USA,GA,Fort Valley,23.125.3.6,36,Normal,bird05,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_05.jpg
+695760142,3/28/2015 8:09,1600112531,3/28/2015 8:07,FALSE,instagc,0.5306,21088425,USA,MI,Battle Creek,107.140.176.37,30,Normal,bird05,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_05.jpg
+695760142,3/28/2015 8:28,1600120954,3/28/2015 8:25,FALSE,instagc,0.7236,27770607,USA,TX,El Paso,173.175.164.207,38,Hard,bird05,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_05.jpg
+695760142,3/28/2015 8:32,1600123039,3/28/2015 8:28,FALSE,clixsense,0.6958,6340330,USA,NY,Canajoharie,67.248.115.74,33,Hard,bird05,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_05.jpg
+695760142,3/28/2015 8:43,1600127859,3/28/2015 8:37,FALSE,clixsense,0.6382,20512953,USA,CA,Fairfield,76.232.182.5,40,Hard,bird05,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_05.jpg
+695760142,3/28/2015 10:50,1600205085,3/28/2015 10:49,FALSE,fusioncash,0.4672,22139728,USA,NY,Watertown,66.67.91.242,21,Normal,bird05,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_05.jpg
+695760142,3/28/2015 11:17,1600210955,3/28/2015 11:11,FALSE,gifthulk,0.601,23743236,USA,,,73.208.31.70,42,Normal,bird05,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_05.jpg
+695760142,3/28/2015 11:49,1600215600,3/28/2015 11:44,FALSE,points4rewards,0.6184,28755767,USA,VA,Chester,68.57.118.32,39,Normal,bird05,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_05.jpg
+695760142,3/28/2015 11:50,1600215733,3/28/2015 11:48,FALSE,neodev,0.5437,31659226,USA,NY,Rochester,192.254.77.56,23,Normal,bird05,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_05.jpg
+695760142,3/28/2015 12:42,1600227326,3/28/2015 12:41,FALSE,bitcoinget,0.721,21743413,USA,WA,Lynnwood,67.183.5.219,33,Hard,bird05,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_05.jpg
+695760142,3/28/2015 12:58,1600230407,3/28/2015 12:55,FALSE,prodege,0.5556,2145087,USA,NY,New York,107.107.63.100,40,Hard,bird05,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_05.jpg
+695760142,3/28/2015 13:00,1600230747,3/28/2015 12:56,FALSE,clixsense,0.6356,19638651,USA,SC,Summerville,174.107.73.211,40,Hard,bird05,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_05.jpg
+695760143,3/27/2015 21:06,1599742302,3/27/2015 21:06,FALSE,bitcoinget,1,31256687,USA,NY,Brooklyn,69.112.8.202,8,Easy,bird06,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_06.jpg
+695760143,3/27/2015 21:10,1599743521,3/27/2015 21:08,FALSE,pocketmoneygpt,0.7222,28884030,USA,WI,Minocqua,75.143.134.247,12,Easy,bird06,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_06.jpg
+695760143,3/27/2015 21:19,1599746949,3/27/2015 21:04,FALSE,cotter,0.6111,29964039,USA,NV,Reno,71.94.24.147,13,Easy,bird06,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_06.jpg
+695760143,3/27/2015 21:20,1599747228,3/27/2015 21:17,FALSE,points4rewards,0.5556,20306700,USA,WA,Bothell,50.46.244.34,12,Normal,bird06,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_06.jpg
+695760143,3/27/2015 21:23,1599748160,3/27/2015 21:10,FALSE,instagc,0.4444,30326470,USA,CA,El Cajon,170.213.131.190,12,Normal,bird06,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_06.jpg
+695760143,3/27/2015 21:24,1599748504,3/27/2015 21:18,FALSE,superrewards,0.5741,24796792,USA,NY,New York,72.80.63.240,13,Normal,bird06,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_06.jpg
+695760143,3/27/2015 21:26,1599749099,3/27/2015 21:24,FALSE,clixsense,0.6508,30130805,USA,MI,Wyandotte,63.141.18.150,13,Normal,bird06,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_06.jpg
+695760143,3/27/2015 21:40,1599753016,3/27/2015 21:25,FALSE,tremorgames,0.5833,31906954,USA,NY,Middletown,74.68.51.54,13,Normal,bird06,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_06.jpg
+695760143,3/27/2015 21:45,1599754802,3/27/2015 21:41,FALSE,neodev,0.6389,32188611,USA,UT,Providence,173.244.197.106,13,Easy,bird06,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_06.jpg
+695760143,3/27/2015 21:53,1599757220,3/27/2015 21:49,FALSE,instagc,0.7111,13581319,USA,IL,Mount Vernon,66.232.166.86,12,Easy,bird06,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_06.jpg
+695760143,3/27/2015 21:55,1599757911,3/27/2015 21:51,FALSE,instagc,0.6111,30506788,USA,MO,Springfield,50.81.216.165,12,Easy,bird06,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_06.jpg
+695760143,3/27/2015 21:57,1599758605,3/27/2015 21:55,FALSE,eup_slw,0.6111,20965903,USA,TX,Houston,50.197.200.185,13,Easy,bird06,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_06.jpg
+695760143,3/27/2015 22:03,1599760324,3/27/2015 21:59,FALSE,bitcoinget,0.6496,25212093,USA,CT,Manchester,72.209.17.149,13,Normal,bird06,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_06.jpg
+695760143,3/27/2015 22:05,1599761190,3/27/2015 22:01,FALSE,instagc,0.6825,30550260,USA,VA,Richmond,76.27.164.82,13,Easy,bird06,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_06.jpg
+695760143,3/27/2015 22:47,1599779187,3/27/2015 22:35,FALSE,quickrewards,0.6429,8672587,USA,TX,El Paso,209.194.208.150,13,Easy,bird06,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_06.jpg
+695760143,3/27/2015 22:50,1599779966,3/27/2015 22:39,FALSE,instagc,0.4097,30549979,USA,MO,Branson,184.157.8.10,12,Easy,bird06,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_06.jpg
+695760143,3/27/2015 22:59,1599783027,3/27/2015 22:53,FALSE,zoombucks,0.5347,31588441,USA,OH,Columbus,65.60.215.9,12,Easy,bird06,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_06.jpg
+695760143,3/27/2015 22:59,1599783039,3/27/2015 22:52,FALSE,clixsense,0.6389,19495345,USA,AL,Decatur,74.237.180.157,13,Easy,bird06,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_06.jpg
+695760143,3/27/2015 23:09,1599786405,3/27/2015 23:05,FALSE,clixsense,0.6433,6524027,USA,PA,West Chester,173.75.250.18,12,Easy,bird06,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_06.jpg
+695760143,3/27/2015 23:12,1599787458,3/27/2015 23:09,FALSE,instagc,0.7056,31184650,USA,IA,Mason City,173.26.27.82,13,Easy,bird06,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_06.jpg
+695760143,3/27/2015 23:46,1599800383,3/27/2015 23:40,FALSE,superrewards,0.6878,28396934,USA,CA,San Francisco,99.108.138.235,13,Easy,bird06,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_06.jpg
+695760143,3/27/2015 23:50,1599802603,3/27/2015 23:46,FALSE,clixsense,0.7222,31379566,USA,IL,Joliet,75.49.217.33,12,Easy,bird06,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_06.jpg
+695760143,3/27/2015 23:55,1599805087,3/27/2015 23:53,FALSE,fusioncash,0.657,20623511,USA,OH,Cleveland,99.126.171.25,12,Normal,bird06,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_06.jpg
+695760143,3/28/2015 0:00,1599807160,3/27/2015 23:58,FALSE,prodege,0.6325,10959404,USA,CA,Studio City,108.217.110.104,12,Normal,bird06,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_06.jpg
+695760143,3/28/2015 0:00,1599807338,3/27/2015 23:57,FALSE,instagc,0.7094,31732182,USA,MD,College Park,206.196.186.238,13,Easy,bird06,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_06.jpg
+695760143,3/28/2015 0:01,1599807587,3/27/2015 23:46,FALSE,clixsense,0.5,11106820,USA,MA,Taunton,173.48.52.95,13,Easy,bird06,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_06.jpg
+695760143,3/28/2015 1:02,1599845137,3/28/2015 1:00,FALSE,neodev,0.6872,25638993,USA,FL,Miami,108.76.254.42,13,Easy,bird06,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_06.jpg
+695760143,3/28/2015 1:33,1599863230,3/28/2015 1:29,FALSE,clixsense,0.5873,9289735,USA,IL,Chicago,69.210.240.120,12,Normal,bird06,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_06.jpg
+695760143,3/28/2015 1:37,1599865250,3/28/2015 1:34,FALSE,neodev,0.7203,31755236,USA,DE,,108.59.8.218,12,Easy,bird06,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_06.jpg
+695760143,3/28/2015 1:39,1599866990,3/28/2015 1:31,FALSE,gifthulk,0.6074,18666417,USA,PA,Meadville,24.101.97.237,12,Easy,bird06,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_06.jpg
+695760143,3/28/2015 2:17,1599890967,3/28/2015 2:13,FALSE,neodev,0.6703,30695793,USA,CA,Palo Alto,15.219.169.72,13,Normal,bird06,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_06.jpg
+695760143,3/28/2015 2:23,1599894268,3/28/2015 2:18,FALSE,neodev,0.7097,31463401,USA,CA,San Jose,23.27.220.206,13,Easy,bird06,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_06.jpg
+695760143,3/28/2015 4:06,1599969876,3/28/2015 4:02,FALSE,bitcoinget,0.6633,24960279,USA,NY,Bronx,24.184.59.169,13,Easy,bird06,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_06.jpg
+695760143,3/28/2015 4:10,1599971965,3/28/2015 4:05,FALSE,instagc,0.6667,23962923,USA,CA,Van Nuys,172.248.184.29,12,Easy,bird06,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_06.jpg
+695760143,3/28/2015 4:45,1599992462,3/28/2015 4:39,FALSE,prodege,0.7333,6309240,USA,CA,San Diego,66.27.81.67,13,Easy,bird06,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_06.jpg
+695760143,3/28/2015 5:06,1600011021,3/28/2015 5:03,FALSE,instagc,0.6451,30774743,USA,CA,Santa Ana,23.240.186.186,11,Normal,bird06,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_06.jpg
+695760143,3/28/2015 5:17,1600017742,3/28/2015 5:06,FALSE,prodege,0.6967,30689579,USA,IL,Naperville,99.135.169.218,12,Easy,bird06,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_06.jpg
+695760143,3/28/2015 5:32,1600026978,3/28/2015 5:25,FALSE,instagc,0.7368,21464190,USA,MN,Northfield,96.42.97.81,13,Easy,bird06,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_06.jpg
+695760143,3/28/2015 6:13,1600053086,3/28/2015 6:02,FALSE,clixsense,0.6068,6363498,USA,GA,Fort Valley,23.125.3.6,12,Normal,bird06,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_06.jpg
+695760143,3/28/2015 8:09,1600112534,3/28/2015 8:07,FALSE,instagc,0.5306,21088425,USA,MI,Battle Creek,107.140.176.37,13,Easy,bird06,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_06.jpg
+695760143,3/28/2015 8:28,1600120952,3/28/2015 8:25,FALSE,instagc,0.7236,27770607,USA,TX,El Paso,173.175.164.207,12,Easy,bird06,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_06.jpg
+695760143,3/28/2015 8:32,1600123045,3/28/2015 8:28,FALSE,clixsense,0.6958,6340330,USA,NY,Canajoharie,67.248.115.74,13,Normal,bird06,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_06.jpg
+695760143,3/28/2015 8:43,1600127858,3/28/2015 8:37,FALSE,clixsense,0.6382,20512953,USA,CA,Fairfield,76.232.182.5,12,Normal,bird06,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_06.jpg
+695760143,3/28/2015 10:50,1600205094,3/28/2015 10:49,FALSE,fusioncash,0.4672,22139728,USA,NY,Watertown,66.67.91.242,7,Normal,bird06,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_06.jpg
+695760143,3/28/2015 11:17,1600210962,3/28/2015 11:11,FALSE,gifthulk,0.601,23743236,USA,,,73.208.31.70,12,Easy,bird06,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_06.jpg
+695760143,3/28/2015 11:49,1600215598,3/28/2015 11:44,FALSE,points4rewards,0.6184,28755767,USA,VA,Chester,68.57.118.32,12,Easy,bird06,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_06.jpg
+695760143,3/28/2015 11:50,1600215726,3/28/2015 11:48,FALSE,neodev,0.5437,31659226,USA,NY,Rochester,192.254.77.56,12,Easy,bird06,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_06.jpg
+695760143,3/28/2015 12:42,1600227334,3/28/2015 12:41,FALSE,bitcoinget,0.721,21743413,USA,WA,Lynnwood,67.183.5.219,10,Easy,bird06,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_06.jpg
+695760143,3/28/2015 12:58,1600230408,3/28/2015 12:55,FALSE,prodege,0.5556,2145087,USA,NY,New York,107.107.63.100,12,Normal,bird06,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_06.jpg
+695760143,3/28/2015 13:00,1600230748,3/28/2015 12:56,FALSE,clixsense,0.6356,19638651,USA,SC,Summerville,174.107.73.211,13,Normal,bird06,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_06.jpg
+695760144,3/27/2015 21:06,1599742304,3/27/2015 21:06,FALSE,bitcoinget,1,31256687,USA,NY,Brooklyn,69.112.8.202,14,Easy,bird07,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_07.jpg
+695760144,3/27/2015 21:10,1599743526,3/27/2015 21:08,FALSE,pocketmoneygpt,0.7222,28884030,USA,WI,Minocqua,75.143.134.247,19,Normal,bird07,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_07.jpg
+695760144,3/27/2015 21:19,1599746942,3/27/2015 21:04,FALSE,cotter,0.6111,29964039,USA,NV,Reno,71.94.24.147,20,Easy,bird07,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_07.jpg
+695760144,3/27/2015 21:20,1599747231,3/27/2015 21:17,FALSE,points4rewards,0.5556,20306700,USA,WA,Bothell,50.46.244.34,20,Normal,bird07,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_07.jpg
+695760144,3/27/2015 21:23,1599748170,3/27/2015 21:10,FALSE,instagc,0.4444,30326470,USA,CA,El Cajon,170.213.131.190,21,Normal,bird07,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_07.jpg
+695760144,3/27/2015 21:24,1599748507,3/27/2015 21:18,FALSE,superrewards,0.5741,24796792,USA,NY,New York,72.80.63.240,18,Normal,bird07,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_07.jpg
+695760144,3/27/2015 21:26,1599749107,3/27/2015 21:24,FALSE,clixsense,0.6508,30130805,USA,MI,Wyandotte,63.141.18.150,20,Normal,bird07,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_07.jpg
+695760144,3/27/2015 21:40,1599753023,3/27/2015 21:25,FALSE,tremorgames,0.5833,31906954,USA,NY,Middletown,74.68.51.54,9,Easy,bird07,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_07.jpg
+695760144,3/27/2015 21:45,1599754800,3/27/2015 21:41,FALSE,neodev,0.6389,32188611,USA,UT,Providence,173.244.197.106,19,Normal,bird07,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_07.jpg
+695760144,3/27/2015 21:53,1599757222,3/27/2015 21:49,FALSE,instagc,0.7111,13581319,USA,IL,Mount Vernon,66.232.166.86,21,Normal,bird07,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_07.jpg
+695760144,3/27/2015 21:55,1599757913,3/27/2015 21:51,FALSE,instagc,0.6111,30506788,USA,MO,Springfield,50.81.216.165,20,Normal,bird07,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_07.jpg
+695760144,3/27/2015 21:57,1599758608,3/27/2015 21:55,FALSE,eup_slw,0.6111,20965903,USA,TX,Houston,50.197.200.185,20,Easy,bird07,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_07.jpg
+695760144,3/27/2015 22:03,1599760329,3/27/2015 21:59,FALSE,bitcoinget,0.6496,25212093,USA,CT,Manchester,72.209.17.149,20,Normal,bird07,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_07.jpg
+695760144,3/27/2015 22:05,1599761164,3/27/2015 22:01,FALSE,instagc,0.6825,30550260,USA,VA,Richmond,76.27.164.82,21,Normal,bird07,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_07.jpg
+695760144,3/27/2015 22:47,1599779175,3/27/2015 22:35,FALSE,quickrewards,0.6429,8672587,USA,TX,El Paso,209.194.208.150,20,Normal,bird07,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_07.jpg
+695760144,3/27/2015 22:50,1599779968,3/27/2015 22:39,FALSE,instagc,0.4097,30549979,USA,MO,Branson,184.157.8.10,20,Easy,bird07,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_07.jpg
+695760144,3/27/2015 22:59,1599783020,3/27/2015 22:53,FALSE,zoombucks,0.5347,31588441,USA,OH,Columbus,65.60.215.9,20,Easy,bird07,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_07.jpg
+695760144,3/27/2015 22:59,1599783033,3/27/2015 22:52,FALSE,clixsense,0.6389,19495345,USA,AL,Decatur,74.237.180.157,18,Normal,bird07,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_07.jpg
+695760144,3/27/2015 23:09,1599786400,3/27/2015 23:05,FALSE,clixsense,0.6433,6524027,USA,PA,West Chester,173.75.250.18,20,Easy,bird07,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_07.jpg
+695760144,3/27/2015 23:12,1599787453,3/27/2015 23:09,FALSE,instagc,0.7056,31184650,USA,IA,Mason City,173.26.27.82,18,Normal,bird07,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_07.jpg
+695760144,3/27/2015 23:46,1599800379,3/27/2015 23:40,FALSE,superrewards,0.6878,28396934,USA,CA,San Francisco,99.108.138.235,20,Easy,bird07,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_07.jpg
+695760144,3/27/2015 23:50,1599802615,3/27/2015 23:46,FALSE,clixsense,0.7222,31379566,USA,IL,Joliet,75.49.217.33,20,Normal,bird07,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_07.jpg
+695760144,3/27/2015 23:55,1599805085,3/27/2015 23:53,FALSE,fusioncash,0.657,20623511,USA,OH,Cleveland,99.126.171.25,20,Normal,bird07,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_07.jpg
+695760144,3/28/2015 0:00,1599807159,3/27/2015 23:58,FALSE,prodege,0.6325,10959404,USA,CA,Studio City,108.217.110.104,20,Normal,bird07,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_07.jpg
+695760144,3/28/2015 0:00,1599807344,3/27/2015 23:57,FALSE,instagc,0.7094,31732182,USA,MD,College Park,206.196.186.238,21,Normal,bird07,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_07.jpg
+695760144,3/28/2015 0:01,1599807580,3/27/2015 23:46,FALSE,clixsense,0.5,11106820,USA,MA,Taunton,173.48.52.95,20,Normal,bird07,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_07.jpg
+695760144,3/28/2015 1:02,1599845134,3/28/2015 1:00,FALSE,neodev,0.6872,25638993,USA,FL,Miami,108.76.254.42,19,Normal,bird07,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_07.jpg
+695760144,3/28/2015 1:33,1599863226,3/28/2015 1:29,FALSE,clixsense,0.5873,9289735,USA,IL,Chicago,69.210.240.120,20,Normal,bird07,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_07.jpg
+695760144,3/28/2015 1:37,1599865233,3/28/2015 1:34,FALSE,neodev,0.7203,31755236,USA,DE,,108.59.8.218,21,Normal,bird07,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_07.jpg
+695760144,3/28/2015 1:39,1599867005,3/28/2015 1:31,FALSE,gifthulk,0.6074,18666417,USA,PA,Meadville,24.101.97.237,17,Easy,bird07,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_07.jpg
+695760144,3/28/2015 2:17,1599890963,3/28/2015 2:13,FALSE,neodev,0.6703,30695793,USA,CA,Palo Alto,15.219.169.72,20,Normal,bird07,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_07.jpg
+695760144,3/28/2015 2:23,1599894265,3/28/2015 2:18,FALSE,neodev,0.7097,31463401,USA,CA,San Jose,23.27.220.206,20,Normal,bird07,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_07.jpg
+695760144,3/28/2015 4:06,1599969867,3/28/2015 4:02,FALSE,bitcoinget,0.6633,24960279,USA,NY,Bronx,24.184.59.169,21,Normal,bird07,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_07.jpg
+695760144,3/28/2015 4:10,1599971967,3/28/2015 4:05,FALSE,instagc,0.6667,23962923,USA,CA,Van Nuys,172.248.184.29,19,Easy,bird07,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_07.jpg
+695760144,3/28/2015 4:45,1599992450,3/28/2015 4:39,FALSE,prodege,0.7333,6309240,USA,CA,San Diego,66.27.81.67,20,Normal,bird07,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_07.jpg
+695760144,3/28/2015 5:06,1600011036,3/28/2015 5:03,FALSE,instagc,0.6451,30774743,USA,CA,Santa Ana,23.240.186.186,21,Normal,bird07,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_07.jpg
+695760144,3/28/2015 5:17,1600017745,3/28/2015 5:06,FALSE,prodege,0.6967,30689579,USA,IL,Naperville,99.135.169.218,20,Normal,bird07,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_07.jpg
+695760144,3/28/2015 5:32,1600026969,3/28/2015 5:25,FALSE,instagc,0.7368,21464190,USA,MN,Northfield,96.42.97.81,20,Normal,bird07,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_07.jpg
+695760144,3/28/2015 6:13,1600053082,3/28/2015 6:02,FALSE,clixsense,0.6068,6363498,USA,GA,Fort Valley,23.125.3.6,21,Normal,bird07,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_07.jpg
+695760144,3/28/2015 8:09,1600112543,3/28/2015 8:07,FALSE,instagc,0.5306,21088425,USA,MI,Battle Creek,107.140.176.37,20,Easy,bird07,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_07.jpg
+695760144,3/28/2015 8:28,1600120948,3/28/2015 8:25,FALSE,instagc,0.7236,27770607,USA,TX,El Paso,173.175.164.207,22,Normal,bird07,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_07.jpg
+695760144,3/28/2015 8:32,1600123027,3/28/2015 8:28,FALSE,clixsense,0.6958,6340330,USA,NY,Canajoharie,67.248.115.74,20,Normal,bird07,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_07.jpg
+695760144,3/28/2015 8:43,1600127854,3/28/2015 8:37,FALSE,clixsense,0.6382,20512953,USA,CA,Fairfield,76.232.182.5,20,Easy,bird07,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_07.jpg
+695760144,3/28/2015 10:50,1600205089,3/28/2015 10:49,FALSE,fusioncash,0.4672,22139728,USA,NY,Watertown,66.67.91.242,15,Normal,bird07,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_07.jpg
+695760144,3/28/2015 11:17,1600210959,3/28/2015 11:11,FALSE,gifthulk,0.601,23743236,USA,,,73.208.31.70,20,Easy,bird07,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_07.jpg
+695760144,3/28/2015 11:49,1600215599,3/28/2015 11:44,FALSE,points4rewards,0.6184,28755767,USA,VA,Chester,68.57.118.32,21,Easy,bird07,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_07.jpg
+695760144,3/28/2015 11:50,1600215727,3/28/2015 11:48,FALSE,neodev,0.5437,31659226,USA,NY,Rochester,192.254.77.56,20,Easy,bird07,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_07.jpg
+695760144,3/28/2015 12:42,1600227332,3/28/2015 12:41,FALSE,bitcoinget,0.721,21743413,USA,WA,Lynnwood,67.183.5.219,19,Normal,bird07,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_07.jpg
+695760144,3/28/2015 12:58,1600230402,3/28/2015 12:55,FALSE,prodege,0.5556,2145087,USA,NY,New York,107.107.63.100,20,Hard,bird07,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_07.jpg
+695760144,3/28/2015 13:00,1600230751,3/28/2015 12:56,FALSE,clixsense,0.6356,19638651,USA,SC,Summerville,174.107.73.211,20,Normal,bird07,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_07.jpg
+695760145,3/27/2015 21:06,1599742299,3/27/2015 21:06,FALSE,bitcoinget,1,31256687,USA,NY,Brooklyn,69.112.8.202,12,Easy,bird08,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_08.jpg
+695760145,3/27/2015 21:10,1599743524,3/27/2015 21:08,FALSE,pocketmoneygpt,0.7222,28884030,USA,WI,Minocqua,75.143.134.247,42,Hard,bird08,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_08.jpg
+695760145,3/27/2015 21:19,1599746947,3/27/2015 21:04,FALSE,cotter,0.6111,29964039,USA,NV,Reno,71.94.24.147,62,Hard,bird08,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_08.jpg
+695760145,3/27/2015 21:20,1599747233,3/27/2015 21:17,FALSE,points4rewards,0.5556,20306700,USA,WA,Bothell,50.46.244.34,40,Hard,bird08,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_08.jpg
+695760145,3/27/2015 21:23,1599748152,3/27/2015 21:10,FALSE,instagc,0.4444,30326470,USA,CA,El Cajon,170.213.131.190,53,Hard,bird08,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_08.jpg
+695760145,3/27/2015 21:24,1599748501,3/27/2015 21:18,FALSE,superrewards,0.5741,24796792,USA,NY,New York,72.80.63.240,63,Hard,bird08,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_08.jpg
+695760145,3/27/2015 21:26,1599749106,3/27/2015 21:24,FALSE,clixsense,0.6508,30130805,USA,MI,Wyandotte,63.141.18.150,30,Hard,bird08,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_08.jpg
+695760145,3/27/2015 21:40,1599753039,3/27/2015 21:25,FALSE,tremorgames,0.5833,31906954,USA,NY,Middletown,74.68.51.54,68,Hard,bird08,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_08.jpg
+695760145,3/27/2015 21:45,1599754785,3/27/2015 21:41,FALSE,neodev,0.6389,32188611,USA,UT,Providence,173.244.197.106,40,Hard,bird08,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_08.jpg
+695760145,3/27/2015 21:53,1599757218,3/27/2015 21:49,FALSE,instagc,0.7111,13581319,USA,IL,Mount Vernon,66.232.166.86,60,Hard,bird08,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_08.jpg
+695760145,3/27/2015 21:55,1599757916,3/27/2015 21:51,FALSE,instagc,0.6111,30506788,USA,MO,Springfield,50.81.216.165,63,Hard,bird08,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_08.jpg
+695760145,3/27/2015 21:57,1599758597,3/27/2015 21:55,FALSE,eup_slw,0.6111,20965903,USA,TX,Houston,50.197.200.185,61,Hard,bird08,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_08.jpg
+695760145,3/27/2015 22:03,1599760337,3/27/2015 21:59,FALSE,bitcoinget,0.6496,25212093,USA,CT,Manchester,72.209.17.149,50,Hard,bird08,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_08.jpg
+695760145,3/27/2015 22:05,1599761181,3/27/2015 22:01,FALSE,instagc,0.6825,30550260,USA,VA,Richmond,76.27.164.82,42,Hard,bird08,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_08.jpg
+695760145,3/27/2015 22:47,1599779170,3/27/2015 22:35,FALSE,quickrewards,0.6429,8672587,USA,TX,El Paso,209.194.208.150,67,Hard,bird08,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_08.jpg
+695760145,3/27/2015 22:50,1599779964,3/27/2015 22:39,FALSE,instagc,0.4097,30549979,USA,MO,Branson,184.157.8.10,67,Normal,bird08,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_08.jpg
+695760145,3/27/2015 22:59,1599783023,3/27/2015 22:53,FALSE,zoombucks,0.5347,31588441,USA,OH,Columbus,65.60.215.9,64,Normal,bird08,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_08.jpg
+695760145,3/27/2015 22:59,1599783044,3/27/2015 22:52,FALSE,clixsense,0.6389,19495345,USA,AL,Decatur,74.237.180.157,63,Hard,bird08,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_08.jpg
+695760145,3/27/2015 23:09,1599786399,3/27/2015 23:05,FALSE,clixsense,0.6433,6524027,USA,PA,West Chester,173.75.250.18,53,Hard,bird08,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_08.jpg
+695760145,3/27/2015 23:12,1599787451,3/27/2015 23:09,FALSE,instagc,0.7056,31184650,USA,IA,Mason City,173.26.27.82,30,Hard,bird08,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_08.jpg
+695760145,3/27/2015 23:46,1599800388,3/27/2015 23:40,FALSE,superrewards,0.6878,28396934,USA,CA,San Francisco,99.108.138.235,61,Hard,bird08,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_08.jpg
+695760145,3/27/2015 23:50,1599802606,3/27/2015 23:46,FALSE,clixsense,0.7222,31379566,USA,IL,Joliet,75.49.217.33,50,Hard,bird08,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_08.jpg
+695760145,3/27/2015 23:55,1599805080,3/27/2015 23:53,FALSE,fusioncash,0.657,20623511,USA,OH,Cleveland,99.126.171.25,54,Hard,bird08,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_08.jpg
+695760145,3/28/2015 0:00,1599807154,3/27/2015 23:58,FALSE,prodege,0.6325,10959404,USA,CA,Studio City,108.217.110.104,52,Hard,bird08,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_08.jpg
+695760145,3/28/2015 0:00,1599807342,3/27/2015 23:57,FALSE,instagc,0.7094,31732182,USA,MD,College Park,206.196.186.238,61,Hard,bird08,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_08.jpg
+695760145,3/28/2015 0:01,1599807570,3/27/2015 23:46,FALSE,clixsense,0.5,11106820,USA,MA,Taunton,173.48.52.95,55,Normal,bird08,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_08.jpg
+695760145,3/28/2015 1:02,1599845133,3/28/2015 1:00,FALSE,neodev,0.6872,25638993,USA,FL,Miami,108.76.254.42,44,Hard,bird08,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_08.jpg
+695760145,3/28/2015 1:33,1599863233,3/28/2015 1:29,FALSE,clixsense,0.5873,9289735,USA,IL,Chicago,69.210.240.120,60,Hard,bird08,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_08.jpg
+695760145,3/28/2015 1:37,1599865232,3/28/2015 1:34,FALSE,neodev,0.7203,31755236,USA,DE,,108.59.8.218,55,Hard,bird08,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_08.jpg
+695760145,3/28/2015 1:39,1599866996,3/28/2015 1:31,FALSE,gifthulk,0.6074,18666417,USA,PA,Meadville,24.101.97.237,65,Hard,bird08,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_08.jpg
+695760145,3/28/2015 2:17,1599890962,3/28/2015 2:13,FALSE,neodev,0.6703,30695793,USA,CA,Palo Alto,15.219.169.72,28,Hard,bird08,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_08.jpg
+695760145,3/28/2015 2:23,1599894274,3/28/2015 2:18,FALSE,neodev,0.7097,31463401,USA,CA,San Jose,23.27.220.206,45,Hard,bird08,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_08.jpg
+695760145,3/28/2015 4:06,1599969875,3/28/2015 4:02,FALSE,bitcoinget,0.6633,24960279,USA,NY,Bronx,24.184.59.169,80,Hard,bird08,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_08.jpg
+695760145,3/28/2015 4:10,1599971973,3/28/2015 4:05,FALSE,instagc,0.6667,23962923,USA,CA,Van Nuys,172.248.184.29,47,Hard,bird08,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_08.jpg
+695760145,3/28/2015 4:45,1599992456,3/28/2015 4:39,FALSE,prodege,0.7333,6309240,USA,CA,San Diego,66.27.81.67,66,Hard,bird08,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_08.jpg
+695760145,3/28/2015 5:06,1600011029,3/28/2015 5:03,FALSE,instagc,0.6451,30774743,USA,CA,Santa Ana,23.240.186.186,40,Hard,bird08,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_08.jpg
+695760145,3/28/2015 5:17,1600017750,3/28/2015 5:06,FALSE,prodege,0.6967,30689579,USA,IL,Naperville,99.135.169.218,50,Hard,bird08,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_08.jpg
+695760145,3/28/2015 5:32,1600026985,3/28/2015 5:25,FALSE,instagc,0.7368,21464190,USA,MN,Northfield,96.42.97.81,62,Hard,bird08,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_08.jpg
+695760145,3/28/2015 6:13,1600053098,3/28/2015 6:02,FALSE,clixsense,0.6068,6363498,USA,GA,Fort Valley,23.125.3.6,65,Hard,bird08,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_08.jpg
+695760145,3/28/2015 8:09,1600112535,3/28/2015 8:07,FALSE,instagc,0.5306,21088425,USA,MI,Battle Creek,107.140.176.37,60,Normal,bird08,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_08.jpg
+695760145,3/28/2015 8:28,1600120959,3/28/2015 8:25,FALSE,instagc,0.7236,27770607,USA,TX,El Paso,173.175.164.207,66,Hard,bird08,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_08.jpg
+695760145,3/28/2015 8:32,1600123034,3/28/2015 8:28,FALSE,clixsense,0.6958,6340330,USA,NY,Canajoharie,67.248.115.74,51,Hard,bird08,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_08.jpg
+695760145,3/28/2015 8:43,1600127855,3/28/2015 8:37,FALSE,clixsense,0.6382,20512953,USA,CA,Fairfield,76.232.182.5,66,Hard,bird08,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_08.jpg
+695760145,3/28/2015 10:50,1600205091,3/28/2015 10:49,FALSE,fusioncash,0.4672,22139728,USA,NY,Watertown,66.67.91.242,20,Normal,bird08,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_08.jpg
+695760145,3/28/2015 11:17,1600210953,3/28/2015 11:11,FALSE,gifthulk,0.601,23743236,USA,,,73.208.31.70,63,Hard,bird08,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_08.jpg
+695760145,3/28/2015 11:49,1600215602,3/28/2015 11:44,FALSE,points4rewards,0.6184,28755767,USA,VA,Chester,68.57.118.32,51,Hard,bird08,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_08.jpg
+695760145,3/28/2015 11:50,1600215729,3/28/2015 11:48,FALSE,neodev,0.5437,31659226,USA,NY,Rochester,192.254.77.56,35,Normal,bird08,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_08.jpg
+695760145,3/28/2015 12:42,1600227324,3/28/2015 12:41,FALSE,bitcoinget,0.721,21743413,USA,WA,Lynnwood,67.183.5.219,55,Hard,bird08,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_08.jpg
+695760145,3/28/2015 12:58,1600230409,3/28/2015 12:55,FALSE,prodege,0.5556,2145087,USA,NY,New York,107.107.63.100,60,Hard,bird08,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_08.jpg
+695760145,3/28/2015 13:00,1600230753,3/28/2015 12:56,FALSE,clixsense,0.6356,19638651,USA,SC,Summerville,174.107.73.211,57,Hard,bird08,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_08.jpg
+695760146,3/27/2015 21:06,1599742297,3/27/2015 21:06,FALSE,bitcoinget,1,31256687,USA,NY,Brooklyn,69.112.8.202,5,Easy,bird09,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_09.jpg
+695760146,3/27/2015 21:10,1599743523,3/27/2015 21:08,FALSE,pocketmoneygpt,0.7222,28884030,USA,WI,Minocqua,75.143.134.247,28,Easy,bird09,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_09.jpg
+695760146,3/27/2015 21:19,1599746948,3/27/2015 21:04,FALSE,cotter,0.6111,29964039,USA,NV,Reno,71.94.24.147,29,Easy,bird09,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_09.jpg
+695760146,3/27/2015 21:20,1599747236,3/27/2015 21:17,FALSE,points4rewards,0.5556,20306700,USA,WA,Bothell,50.46.244.34,23,Hard,bird09,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_09.jpg
+695760146,3/27/2015 21:23,1599748165,3/27/2015 21:10,FALSE,instagc,0.4444,30326470,USA,CA,El Cajon,170.213.131.190,26,Hard,bird09,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_09.jpg
+695760146,3/27/2015 21:24,1599748506,3/27/2015 21:18,FALSE,superrewards,0.5741,24796792,USA,NY,New York,72.80.63.240,28,Normal,bird09,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_09.jpg
+695760146,3/27/2015 21:26,1599749109,3/27/2015 21:24,FALSE,clixsense,0.6508,30130805,USA,MI,Wyandotte,63.141.18.150,28,Normal,bird09,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_09.jpg
+695760146,3/27/2015 21:40,1599753028,3/27/2015 21:25,FALSE,tremorgames,0.5833,31906954,USA,NY,Middletown,74.68.51.54,26,Normal,bird09,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_09.jpg
+695760146,3/27/2015 21:45,1599754795,3/27/2015 21:41,FALSE,neodev,0.6389,32188611,USA,UT,Providence,173.244.197.106,28,Normal,bird09,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_09.jpg
+695760146,3/27/2015 21:53,1599757216,3/27/2015 21:49,FALSE,instagc,0.7111,13581319,USA,IL,Mount Vernon,66.232.166.86,30,Normal,bird09,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_09.jpg
+695760146,3/27/2015 21:55,1599757909,3/27/2015 21:51,FALSE,instagc,0.6111,30506788,USA,MO,Springfield,50.81.216.165,28,Normal,bird09,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_09.jpg
+695760146,3/27/2015 21:57,1599758603,3/27/2015 21:55,FALSE,eup_slw,0.6111,20965903,USA,TX,Houston,50.197.200.185,31,Hard,bird09,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_09.jpg
+695760146,3/27/2015 22:03,1599760320,3/27/2015 21:59,FALSE,bitcoinget,0.6496,25212093,USA,CT,Manchester,72.209.17.149,30,Normal,bird09,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_09.jpg
+695760146,3/27/2015 22:05,1599761173,3/27/2015 22:01,FALSE,instagc,0.6825,30550260,USA,VA,Richmond,76.27.164.82,27,Normal,bird09,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_09.jpg
+695760146,3/27/2015 22:47,1599779176,3/27/2015 22:35,FALSE,quickrewards,0.6429,8672587,USA,TX,El Paso,209.194.208.150,30,Hard,bird09,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_09.jpg
+695760146,3/27/2015 22:50,1599779956,3/27/2015 22:39,FALSE,instagc,0.4097,30549979,USA,MO,Branson,184.157.8.10,28,Easy,bird09,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_09.jpg
+695760146,3/27/2015 22:59,1599783025,3/27/2015 22:53,FALSE,zoombucks,0.5347,31588441,USA,OH,Columbus,65.60.215.9,25,Normal,bird09,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_09.jpg
+695760146,3/27/2015 22:59,1599783034,3/27/2015 22:52,FALSE,clixsense,0.6389,19495345,USA,AL,Decatur,74.237.180.157,30,Hard,bird09,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_09.jpg
+695760146,3/27/2015 23:09,1599786394,3/27/2015 23:05,FALSE,clixsense,0.6433,6524027,USA,PA,West Chester,173.75.250.18,28,Hard,bird09,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_09.jpg
+695760146,3/27/2015 23:12,1599787449,3/27/2015 23:09,FALSE,instagc,0.7056,31184650,USA,IA,Mason City,173.26.27.82,29,Normal,bird09,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_09.jpg
+695760146,3/27/2015 23:46,1599800387,3/27/2015 23:40,FALSE,superrewards,0.6878,28396934,USA,CA,San Francisco,99.108.138.235,28,Normal,bird09,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_09.jpg
+695760146,3/27/2015 23:50,1599802601,3/27/2015 23:46,FALSE,clixsense,0.7222,31379566,USA,IL,Joliet,75.49.217.33,28,Normal,bird09,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_09.jpg
+695760146,3/27/2015 23:55,1599805084,3/27/2015 23:53,FALSE,fusioncash,0.657,20623511,USA,OH,Cleveland,99.126.171.25,28,Normal,bird09,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_09.jpg
+695760146,3/28/2015 0:00,1599807161,3/27/2015 23:58,FALSE,prodege,0.6325,10959404,USA,CA,Studio City,108.217.110.104,30,Hard,bird09,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_09.jpg
+695760146,3/28/2015 0:00,1599807346,3/27/2015 23:57,FALSE,instagc,0.7094,31732182,USA,MD,College Park,206.196.186.238,25,Normal,bird09,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_09.jpg
+695760146,3/28/2015 0:01,1599807585,3/27/2015 23:46,FALSE,clixsense,0.5,11106820,USA,MA,Taunton,173.48.52.95,25,Normal,bird09,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_09.jpg
+695760146,3/28/2015 1:02,1599845139,3/28/2015 1:00,FALSE,neodev,0.6872,25638993,USA,FL,Miami,108.76.254.42,22,Hard,bird09,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_09.jpg
+695760146,3/28/2015 1:33,1599863227,3/28/2015 1:29,FALSE,clixsense,0.5873,9289735,USA,IL,Chicago,69.210.240.120,26,Hard,bird09,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_09.jpg
+695760146,3/28/2015 1:37,1599865229,3/28/2015 1:34,FALSE,neodev,0.7203,31755236,USA,DE,,108.59.8.218,27,Normal,bird09,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_09.jpg
+695760146,3/28/2015 1:39,1599866998,3/28/2015 1:31,FALSE,gifthulk,0.6074,18666417,USA,PA,Meadville,24.101.97.237,27,Normal,bird09,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_09.jpg
+695760146,3/28/2015 2:17,1599890961,3/28/2015 2:13,FALSE,neodev,0.6703,30695793,USA,CA,Palo Alto,15.219.169.72,26,Normal,bird09,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_09.jpg
+695760146,3/28/2015 2:23,1599894267,3/28/2015 2:18,FALSE,neodev,0.7097,31463401,USA,CA,San Jose,23.27.220.206,20,Normal,bird09,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_09.jpg
+695760146,3/28/2015 4:06,1599969862,3/28/2015 4:02,FALSE,bitcoinget,0.6633,24960279,USA,NY,Bronx,24.184.59.169,27,Normal,bird09,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_09.jpg
+695760146,3/28/2015 4:10,1599971968,3/28/2015 4:05,FALSE,instagc,0.6667,23962923,USA,CA,Van Nuys,172.248.184.29,26,Normal,bird09,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_09.jpg
+695760146,3/28/2015 4:45,1599992455,3/28/2015 4:39,FALSE,prodege,0.7333,6309240,USA,CA,San Diego,66.27.81.67,28,Normal,bird09,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_09.jpg
+695760146,3/28/2015 5:06,1600011030,3/28/2015 5:03,FALSE,instagc,0.6451,30774743,USA,CA,Santa Ana,23.240.186.186,28,Hard,bird09,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_09.jpg
+695760146,3/28/2015 5:17,1600017749,3/28/2015 5:06,FALSE,prodege,0.6967,30689579,USA,IL,Naperville,99.135.169.218,28,Hard,bird09,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_09.jpg
+695760146,3/28/2015 5:32,1600026974,3/28/2015 5:25,FALSE,instagc,0.7368,21464190,USA,MN,Northfield,96.42.97.81,28,Normal,bird09,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_09.jpg
+695760146,3/28/2015 6:13,1600053087,3/28/2015 6:02,FALSE,clixsense,0.6068,6363498,USA,GA,Fort Valley,23.125.3.6,27,Normal,bird09,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_09.jpg
+695760146,3/28/2015 8:09,1600112530,3/28/2015 8:07,FALSE,instagc,0.5306,21088425,USA,MI,Battle Creek,107.140.176.37,30,Normal,bird09,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_09.jpg
+695760146,3/28/2015 8:28,1600120974,3/28/2015 8:25,FALSE,instagc,0.7236,27770607,USA,TX,El Paso,173.175.164.207,28,Normal,bird09,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_09.jpg
+695760146,3/28/2015 8:32,1600123042,3/28/2015 8:28,FALSE,clixsense,0.6958,6340330,USA,NY,Canajoharie,67.248.115.74,27,Normal,bird09,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_09.jpg
+695760146,3/28/2015 8:43,1600127856,3/28/2015 8:37,FALSE,clixsense,0.6382,20512953,USA,CA,Fairfield,76.232.182.5,31,Normal,bird09,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_09.jpg
+695760146,3/28/2015 10:50,1600205102,3/28/2015 10:49,FALSE,fusioncash,0.4672,22139728,USA,NY,Watertown,66.67.91.242,25,Normal,bird09,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_09.jpg
+695760146,3/28/2015 11:17,1600210951,3/28/2015 11:11,FALSE,gifthulk,0.601,23743236,USA,,,73.208.31.70,27,Normal,bird09,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_09.jpg
+695760146,3/28/2015 11:49,1600215605,3/28/2015 11:44,FALSE,points4rewards,0.6184,28755767,USA,VA,Chester,68.57.118.32,29,Normal,bird09,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_09.jpg
+695760146,3/28/2015 11:50,1600215735,3/28/2015 11:48,FALSE,neodev,0.5437,31659226,USA,NY,Rochester,192.254.77.56,21,Normal,bird09,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_09.jpg
+695760146,3/28/2015 12:42,1600227321,3/28/2015 12:41,FALSE,bitcoinget,0.721,21743413,USA,WA,Lynnwood,67.183.5.219,26,Normal,bird09,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_09.jpg
+695760146,3/28/2015 12:58,1600230401,3/28/2015 12:55,FALSE,prodege,0.5556,2145087,USA,NY,New York,107.107.63.100,24,Hard,bird09,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_09.jpg
+695760146,3/28/2015 13:00,1600230746,3/28/2015 12:56,FALSE,clixsense,0.6356,19638651,USA,SC,Summerville,174.107.73.211,28,Hard,bird09,https://dl.dropboxusercontent.com/u/82816032/test_bird/bird_09.jpg
